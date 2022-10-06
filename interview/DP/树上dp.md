@@ -1,7 +1,10 @@
+[Google | Onsite](https://leetcode.com/discuss/interview-question/1901074/Google-or-Onsite)
+
+Basically, 124. Binary Tree Maximum Path Sum, but with an extra requirement: the path with exactly length of K. Anyone can solve it? Need help here. Thanks.
+
+----------
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MzEwNjQ1NjddfQ==
 -->
