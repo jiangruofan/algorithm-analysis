@@ -120,6 +120,15 @@ Input: piles = [30,11,23,4,20], t = 6
 Output: 23
 
 ----------
+
+ #### [Microsoft India | Technical Interview | August 2022](https://leetcode.com/discuss/interview-question/2532865/Microsoft-India-or-Technical-Interview-or-August-2022)
+You are given a binary matrix (with 1's and 0's) of size n x n. you have to divide the matrix into 4 sections by dividing it by one row and one column. each section must have atleast one cell. score of a segment is the number of 1's in that section. You have 3 sisters and they are given with the sections that has the highest 3 scores, and you are left with the section having least score always.  
+you have to divide the matrix in such a way that you will get the maximum score after providing to the sisters.
+
+My Approach:  
+we define dp[i][j] as sum from matrix[0][0] to matrix[i][j] rectangle. as preprocess and check for every value of i,j so o(n^2) complexity
+
+二分＋check 类似二维版本 力扣1231 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjAyNjc0N119
+eyJoaXN0b3J5IjpbMTU0NTIwNzQzMV19
 -->
