@@ -1,7 +1,7 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).[Google | OA | July 2021](https://leetcode.com/discuss/interview-question/1359174/Google-or-OA-or-July-2021)
+[Google | OA | July 2021](https://leetcode.com/discuss/interview-question/1359174/Google-or-OA-or-July-2021)
 
 ![image](https://assets.leetcode.com/users/images/a6095eb4-e6f1-4b35-81c0-d9216b6e67c8_1627123260.9641178.jpeg)
 
@@ -49,5 +49,5 @@ now find minimumCost distnce between these 2 given cities. I dont have complete 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzA3MTAyN119
+eyJoaXN0b3J5IjpbLTIwNDM5ODU0MDksLTkzNzA3MTAyN119
 -->
