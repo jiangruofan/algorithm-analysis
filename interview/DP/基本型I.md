@@ -158,9 +158,6 @@ Note that matrix elements can be random, not sorted as shown in example.
 
 ---------
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjczNTQ0OSwzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbMzQxNzM5NDcxLDM0MTczOTQ3MV19
 -->
