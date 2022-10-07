@@ -158,6 +158,9 @@ Note that matrix elements can be random, not sorted as shown in example.
 
 ---------
 
+[Lucid OA 2023 summer intern || HackerRank || Lecture of School](https://leetcode.com/discuss/interview-question/2670239/Lucid-OA-2023-summer-intern-oror-HackerRank-oror-Lecture-of-School)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNzM5NDcxLDM0MTczOTQ3MV19
+eyJoaXN0b3J5IjpbLTMzMTI5ODc4MCwzNDE3Mzk0NzFdfQ==
 -->
