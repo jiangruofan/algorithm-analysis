@@ -364,6 +364,21 @@ Given an array with revenue and expenses of a company (revenues are positive ite
 
 -----
 
+[Amazon | OA | Maximum Quality](https://leetcode.com/discuss/interview-question/1641829/Amazon-or-OA-or-Maximum-Quality)
+
+You are given a list of packets of varying sizes and there are  `n`  channels.
+
+-   Each of the  `n`  channel must have a single packet
+-   Each packet can only be on a single channel
+
+The quality of a channel is described as the  `median`  of the packet sizes on that channel. The total quality is defined as sum of the quality of all channels (round to integer in case of float). Given the  `packets []int32`  and  `channels int32`  find the maximum quality.
+
+Sort the packets array and added packet size to the answer till the last channel.  
+For the last channel, calculated the median of the remaining packets and added to the answer.
+证明看notes
+如果是inline的话 也可以做 维护一个长度为n-1的小根堆代表n-1个pocket 最后一个pocket则需要使用两个heap来维护中位数(295) 当一个新的元素来的时候 加入heap 然后弹出最小的元素 放去最后一个pocket
+
+-------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDg4MzUwM119
+eyJoaXN0b3J5IjpbMTYyODk2MDMwMSwxMDM0ODgzNTAzXX0=
 -->
