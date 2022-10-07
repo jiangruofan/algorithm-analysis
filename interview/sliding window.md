@@ -130,6 +130,8 @@ o/p 17 (sum of day 0 and day 3)
 
 -----------
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIyNTkwMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTk3Njc3MjQ5LC0xMTMyMjU5MDEsNzMwOT
+k4MTE2XX0=
 -->
