@@ -160,7 +160,11 @@ Note that matrix elements can be random, not sorted as shown in example.
 
 [Lucid OA 2023 summer intern || HackerRank || Lecture of School](https://leetcode.com/discuss/interview-question/2670239/Lucid-OA-2023-summer-intern-oror-HackerRank-oror-Lecture-of-School)
 
+![image](https://assets.leetcode.com/users/images/6d73ec27-4ee9-4396-b8ae-5b838d1b0acd_1665089892.9836583.png)
+![image](https://assets.leetcode.com/users/images/05d15e82-1bda-491c-88a6-d90b964a4099_1665092353.0134552.png)
 
+dp先对每一行预处理 求出这天跳过x节课的最小上课时间 然后再进行dp
+dp[i][j]: t choose first i days and skip j lectures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTI5ODc4MCwzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbLTI4MjA4OTAsMzQxNzM5NDcxXX0=
 -->
