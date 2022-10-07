@@ -167,6 +167,10 @@ dp先对每一行预处理 求出这天跳过x节课的最小上课时间 然后
 dp[i][j]: the minimal time we can get if we choose first i days and skip j lectures 
 
 -------
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MT
+czOTQ3MV19
 -->
