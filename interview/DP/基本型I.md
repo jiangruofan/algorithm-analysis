@@ -168,9 +168,15 @@ dp[i][j]: the minimal time we can get if we choose first i days and skip j lectu
 
 -------
 
+[Lucid Online Assessment Question : Balanced Words](https://leetcode.com/discuss/interview-question/2657751/Lucid-Online-Assessment-Question-:-Balanced-Words)
 
+![image](https://assets.leetcode.com/users/images/67215adc-0743-4c51-b648-d2971e09f6b1_1664848582.1809986.png)
+
+dp可以优化
+
+-------
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MT
-czOTQ3MV19
+eyJoaXN0b3J5IjpbLTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMD
+g2NTMwMTI3LDM0MTczOTQ3MV19
 -->
