@@ -164,7 +164,9 @@ Note that matrix elements can be random, not sorted as shown in example.
 ![image](https://assets.leetcode.com/users/images/05d15e82-1bda-491c-88a6-d90b964a4099_1665092353.0134552.png)
 
 dp先对每一行预处理 求出这天跳过x节课的最小上课时间 然后再进行dp
-dp[i][j]: t choose first i days and skip j lectures 
+dp[i][j]: the minimal time we can get if we choose first i days and skip j lectures 
+
+-------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjA4OTAsMzQxNzM5NDcxXX0=
+eyJoaXN0b3J5IjpbMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
 -->
