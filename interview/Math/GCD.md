@@ -21,7 +21,9 @@ Fast solution of Q1, doing only n times a gcd call. Observe that in the final ar
 
 ![image](https://assets.leetcode.com/users/images/38b09440-bbea-4a30-ada0-c6d882c4119f_1665144968.5736208.jpeg)
 ![image](https://assets.leetcode.com/users/images/ae09702f-897b-4e46-9ad1-cc26f5b6e5c4_1665144968.5567856.jpeg)
-先对所有的数字做质因数分解 对于zhi y
+先对所有的数字做质因数分解 用hashmap存储质因数对应的数字个数
+
+-------
 
 
 
@@ -41,5 +43,5 @@ Fast solution of Q1, doing only n times a gcd call. Observe that in the final ar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NTcxMjE1LC01ODQ4MDg2NTBdfQ==
+eyJoaXN0b3J5IjpbMzc0ODg2Nzc3LC01ODQ4MDg2NTBdfQ==
 -->
