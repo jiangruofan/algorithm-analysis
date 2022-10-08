@@ -107,9 +107,10 @@ Output : 4
 
 -------
 
+[enter link description here](https://leetcode.com/discuss/interview-question/2674009/OA-question-oror-Need-help)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTQ5NjcyMF19
+eyJoaXN0b3J5IjpbLTE4MzMzNzQwOTksMTcyMTQ5NjcyMF19
 -->
