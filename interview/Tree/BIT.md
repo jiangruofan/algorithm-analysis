@@ -107,10 +107,30 @@ Output : 4
 
 -------
 
-[enter link description here](https://leetcode.com/discuss/interview-question/2674009/OA-question-oror-Need-help)
+[OA question || Need help](https://leetcode.com/discuss/interview-question/2674009/OA-question-oror-Need-help)
 
+_**Given a graph with n nodes having bidirectional edges. Given two array A and B of length n-1 , where [i] and B[i] have an edge between them. The nodes are 1 indexed. Also, 1 is the root node . Every node has an jealousy value attached with it. Jealously value is the number of nodes greater than the parent node in the subtree.  
+Find the sum of jealousy value of all nodes.**_
+
+Sample Input:  
+A : 1 6 4 2 7 3  
+B: 5 1 5 5 4 6
+
+Sample Output:  
+8
+
+Explanation:  
+Node 1 has jealousy value: 6 (nodes - 2,3,4,5,6,7) ,  
+Node 5 has jealously value 1 (node - 7) and  
+Node 4 also has jealousy value 1 ( node - 7)
+
+ans = 6+1+1 = 8
+
+答案: 维护一个树状数组即可 dfs一次 求有多少个元素小于当前节点值 加入答案
+
+-----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMzNzQwOTksMTcyMTQ5NjcyMF19
+eyJoaXN0b3J5IjpbNTUxNTc5MzI1LDE3MjE0OTY3MjBdfQ==
 -->
