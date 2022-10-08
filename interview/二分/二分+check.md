@@ -129,6 +129,10 @@ My Approach:
 we define dp[i][j] as sum from matrix[0][0] to matrix[i][j] rectangle. as preprocess and check for every value of i,j so o(n^2) complexity
 
 二分＋check 类似二维版本 力扣1231 
+
+-------
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbLTE1MTIzNzgyNCwxNTQ1MjA3NDMxXX0=
 -->
