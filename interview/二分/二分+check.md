@@ -132,7 +132,13 @@ we define dp[i][j] as sum from matrix[0][0] to matrix[i][j] rectangle. as prepro
 
 -------
 
+[Google OA | Array of Zeroes (HackerEarth OA)](https://leetcode.com/discuss/interview-question/2674448/Google-OA-or-Array-of-Zeroes-%28HackerEarth-OA%29)
+
+![image](https://assets.leetcode.com/users/images/26424dcb-1564-4b53-8d13-a124a7251ba5_1665195746.7978594.jpeg)
+
+-------
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIzNzgyNCwxNTQ1MjA3NDMxXX0=
+eyJoaXN0b3J5IjpbLTkwMDg4Mzc2NywxNTQ1MjA3NDMxXX0=
 -->
