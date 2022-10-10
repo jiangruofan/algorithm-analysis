@@ -383,7 +383,9 @@ For the last channel, calculated the median of the remaining packets and added t
 [Tiktok OA](https://leetcode.com/discuss/interview-question/2646621/Tiktok-OA)
 
 ![image](https://assets.leetcode.com/users/images/b49463ea-ab4a-4344-80ce-c818a7bf797a_1664640163.799659.png)
-l
+类似于k个升序链表
+
+--------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTUxMDI2MCwxMDM0ODgzNTAzXX0=
+eyJoaXN0b3J5IjpbMTA3NjE3MTYwNiwxMDM0ODgzNTAzXX0=
 -->
