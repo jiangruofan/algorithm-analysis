@@ -176,7 +176,14 @@ dp可以优化
 
 -------
 
+[UIPath OA](https://leetcode.com/discuss/interview-question/2666678/UIPath-OA)
+
+![image](https://assets.leetcode.com/users/images/72e0a5a7-4d9b-4b45-98fe-36f631296521_1665023080.2083519.png)
+
+Q.1 constraints arr length <=5000 and threshold <=500.
+
+-------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMD
-g2NTMwMTI3LDM0MTczOTQ3MV19
+eyJoaXN0b3J5IjpbNjM2MTYzNDA3LC0xNDYyMzM0OTQ0LC05ND
+g4NDUyODcsMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
 -->
