@@ -133,7 +133,24 @@ Output: False
 
 ----------
 
+[JP Morgan SDE OA](https://leetcode.com/discuss/interview-question/2680865/JP-Morgan-SDE-OA)
 
+There are  `N cities and M roads`, and the cities are connected to other cities by those roads, Terrorists have planted bombs in every city. Each bomb will explode one after other(First bomb in City 1 then city 2 and so on)  
+Each explosion will destroy  `the city and the roads which are connected to it`.  
+For each explosion, you need to  `return the number of connected components of cities`.
+
+Input format->  
+N M  
+A1 B1  
+A2 B2....
+
+Constraints->  
+1<=N<=2 * 1e5  
+0<=M<=min(2 * 1e5,N*(N-1)/2))
+
+时空倒流
+
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTc0MTc0NF19
+eyJoaXN0b3J5IjpbNjgzNzc5NDM5LC03Mzk3NDE3NDRdfQ==
 -->
