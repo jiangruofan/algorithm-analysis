@@ -379,6 +379,11 @@ For the last channel, calculated the median of the remaining packets and added t
 如果是inline的话 也可以做 维护一个长度为n-1的小根堆代表n-1个pocket 最后一个pocket则需要使用两个heap来维护中位数(295) 当一个新的元素来的时候 加入heap 然后弹出最小的元素 放去最后一个pocket
 
 -------
+
+[Tiktok OA](https://leetcode.com/discuss/interview-question/2646621/Tiktok-OA)
+
+![image](https://assets.leetcode.com/users/images/b49463ea-ab4a-4344-80ce-c818a7bf797a_1664640163.799659.png)
+l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODk2MDMwMSwxMDM0ODgzNTAzXX0=
+eyJoaXN0b3J5IjpbLTgxOTUxMDI2MCwxMDM0ODgzNTAzXX0=
 -->
