@@ -131,8 +131,21 @@ Given the meetings : [[9,10], [4,5]]
 
 ---------
 
+[Please help with this question -> intervals.](https://leetcode.com/discuss/interview-question/2679436/Please-help-with-this-question-greater-intervals.)
+
+Given an array containing ranges, determine in how many ranges a point given in the points array lies  
+ranges = [[1,4],[4,5],[6,10],[8,20],[1,6]]  
+points = [1,4,5,7,8,19,20]  
+I need to output an array of length same as len(points) where output[i] represents the total ranges in which a point at ith index in points lies.  
+I could not think of an optimal solution to solve this.
+
+区间修改 使用lazy tag 单体查询
+
+-----
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbNzEwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
 -->
