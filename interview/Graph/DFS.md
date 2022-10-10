@@ -457,6 +457,9 @@ that, given an array B consisting of N strings of length M each, returns an arra
 
 ----------
 
+[Tiktok OA](https://leetcode.com/discuss/interview-question/2646621/Tiktok-OA)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbLTQyMzYzNjE4MSwxMDQwOTAwMDY3XX0=
 -->
