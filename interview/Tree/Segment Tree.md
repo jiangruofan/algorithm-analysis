@@ -152,10 +152,12 @@ I could not think of an optimal solution to solve this.
 线段🌲节点维护 1.是否翻转 2.不翻转的值 3.翻转的值
 对于翻转操作 更改1
 对于乘值操作 如果当前是不翻转 那么就加到2中 如果当前是翻转 那么就加到3中
-对于push down操作 1是否翻转直接操作就行 对于23操作需要看下一层的1 如果下一层的1是翻转 那么当前层的2就加到x ai
+对于push down操作 1是否翻转直接操作就行 对于23操作需要看下一层的1 如果下一层的1是翻转 那么当前层的2就加到下一层的3 当前层的3就加到下一层的2
+
+--------
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODQ0MDc5LC0xMzAxNjA2NDQ1LDIwND
-E2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
+eyJoaXN0b3J5IjpbMTI1NTQ0MDkyNCwtMTMwMTYwNjQ0NSwyMD
+QxNjMxNTM4LDcxMDUxMDM2OCwtMTc3NjA2Mjk3MV19
 -->
