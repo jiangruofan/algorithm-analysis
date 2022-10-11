@@ -149,10 +149,13 @@ I could not think of an optimal solution to solve this.
 
 这里的第二种操作可以是任意长度的区间
 
-线段🌲节点维护 是否翻转 不翻转的值 
+线段🌲节点维护 1.是否翻转 2.不翻转的值 3.翻转的值
+对于翻转操作 更改1
+对于乘值操作 如果当前是不翻转 那么就加到2中 如果当前是翻转 那么就加到3中
+对于push down
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI3OTEzOTIsMjA0MTYzMTUzOCw3MT
-A1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbLTI4MzgyOTU4OSwyMDQxNjMxNTM4LDcxMD
+UxMDM2OCwtMTc3NjA2Mjk3MV19
 -->
