@@ -149,10 +149,10 @@ I could not think of an optimal solution to solve this.
 
 这里的第二种操作可以是任意长度的区间
 
-线段🌲节点
+线段🌲节点维护 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTYzMTUzOCw3MTA1MTAzNjgsLTE3Nz
-YwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbMTE4OTk1NDIxOCwyMDQxNjMxNTM4LDcxMD
+UxMDM2OCwtMTc3NjA2Mjk3MV19
 -->
