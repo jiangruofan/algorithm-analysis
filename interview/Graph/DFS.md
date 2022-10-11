@@ -483,8 +483,10 @@ Result:
 2,9  
 3,8
 
+对于删除的边 可以用一个dic = defaultdict(lambda:Counter())来记录index
+
 -------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg1Mjc1NjEsLTEyMjc2MzI2MDAsMT
+eyJoaXN0b3J5IjpbLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMT
 A0MDkwMDA2N119
 -->
