@@ -149,10 +149,10 @@ I could not think of an optimal solution to solve this.
 
 这里的第二种操作可以是任意长度的区间
 
-线段🌲节点维护 
+线段🌲节点维护 是否翻转 不翻转的值 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTk1NDIxOCwyMDQxNjMxNTM4LDcxMD
-UxMDM2OCwtMTc3NjA2Mjk3MV19
+eyJoaXN0b3J5IjpbLTE4OTI3OTEzOTIsMjA0MTYzMTUzOCw3MT
+A1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
 -->
