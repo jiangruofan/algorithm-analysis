@@ -27,8 +27,8 @@ Output: (()), or () or ()()
 Input: (())))  
 Output: ((()))
 
-答案: 先扫描一遍string 用一个cnt记录多余的左括号 如果遇到了一个多余的左括号 先把这个左括号变成右括号 将you 遍历结束后
+答案: 先扫描一遍string 用一个cnt记录多余的左括号 如果遇到了一个多余的左括号 先把这个左括号变成右括号 将右括号的个数➕1 注意这里的右括号个数需要两个变量记录 一个记录原生的右括号 另一个记录左括号变成的右括号 遍历结束后如果左括号变成的右括号数量大于0 那么就需要把一些变成的右括号删除 如果原生的右括号大于0 直接在末尾加入左括号即可 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzYzNDA1Nyw1OTAzMDg5OTcsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExMTczMTMyLDU5MDMwODk5Nyw3MzA5OT
+gxMTZdfQ==
 -->
