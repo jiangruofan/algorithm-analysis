@@ -27,8 +27,8 @@ Output: (()), or () or ()()
 Input: (())))  
 Output: ((()))
 
-答案: 先扫描一遍string 用一个cnt记录多余的
+答案: 先扫描一遍string 用一个cnt记录多余的左括号 如果遇到了一个多余的左括号 先把这个左括号变成右括号 将you 遍历结束后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAyMjE3MzUsNTkwMzA4OTk3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTMyMzYzNDA1Nyw1OTAzMDg5OTcsNzMwOT
+k4MTE2XX0=
 -->
