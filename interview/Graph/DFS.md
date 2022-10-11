@@ -462,6 +462,29 @@ that, given an array B consisting of N strings of length M each, returns an arra
 ![image](https://assets.leetcode.com/users/images/c02758b4-7846-4f06-adf9-871e0e226148_1664640163.6964607.png)
 
 -----
+
+[Google | Onsite | Order of runners | Tree edge remove | Repair parentheses](https://leetcode.com/discuss/interview-question/2638572/Google-or-Onsite-or-Order-of-runners-or-Tree-edge-remove-or-Repair-parentheses)
+
+**#Coding Interview 2**
+
+Given a tree of N vertices and an edge E, calculate the number of vertices in each of the connected components remaining after removal of the edge.
+
+After he gave follow up question:  
+Given a tree of N vertices and a list of M edges E, calculate number of vertices in each of the connected components remaining after removal of each edge Ei  _independently_.
+
+![image](https://assets.leetcode.com/users/images/388aeec4-3778-4634-8df4-71d816675abf_1664454493.443516.png)
+
+1,3  
+5,2  
+1,3
+
+Result:  
+3,8  
+2,9  
+3,8
+
+-------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbLTE4NTg1Mjc1NjEsLTEyMjc2MzI2MDAsMT
+A0MDkwMDA2N119
 -->
