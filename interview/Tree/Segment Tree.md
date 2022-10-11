@@ -152,10 +152,10 @@ I could not think of an optimal solution to solve this.
 线段🌲节点维护 1.是否翻转 2.不翻转的值 3.翻转的值
 对于翻转操作 更改1
 对于乘值操作 如果当前是不翻转 那么就加到2中 如果当前是翻转 那么就加到3中
-对于push down
+对于push down操作 1.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzgyOTU4OSwyMDQxNjMxNTM4LDcxMD
-UxMDM2OCwtMTc3NjA2Mjk3MV19
+eyJoaXN0b3J5IjpbLTEzMDE2MDY0NDUsMjA0MTYzMTUzOCw3MT
+A1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
 -->
