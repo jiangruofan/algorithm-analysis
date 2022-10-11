@@ -147,10 +147,12 @@ I could not think of an optimal solution to solve this.
 
 ![image](https://assets.leetcode.com/users/images/6008be3a-fe7d-4b77-8a21-92b1d006908a_1664811498.278922.png)
 
+这里的第二种操作可以是任意长度的区间
 
+线段🌲节点
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxMTcwMDk0LDcxMDUxMDM2OCwtMTc3Nj
-A2Mjk3MV19
+eyJoaXN0b3J5IjpbMjA0MTYzMTUzOCw3MTA1MTAzNjgsLTE3Nz
+YwNjI5NzFdfQ==
 -->
