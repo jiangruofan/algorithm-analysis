@@ -488,8 +488,10 @@ Result:
 -------
 
 lucid oa 被删除了
-题目是 给定一个🌲 一些节点的值为1代表硬币 一些节点的值为0 要求一条最短的路径 使得可以获得所有的硬币 路径的起始点任意
+题目是 给定一个🌲 一些节点的值为1代表硬币 一些节点的值为0 要求一条最短的路径 使得可以获得所有的硬币 路径的起始点任意 但是起点和终点必须一样 获得硬币的方式为 如果你在一个节点 那么可以获取路径最大为2内的所有节点上的硬币 
+
+答案: 首先先进性yi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI5Nzc0OTksLTE2ODcwOTU2OTgsLT
-EyMjc2MzI2MDAsMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbODAyMzM0ODI4LC0xNjg3MDk1Njk4LC0xMj
+I3NjMyNjAwLDEwNDA5MDAwNjddfQ==
 -->
