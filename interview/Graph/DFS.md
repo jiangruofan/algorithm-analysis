@@ -486,7 +486,10 @@ Result:
 对于删除的边 可以用一个dic = defaultdict(lambda:Counter())来记录index
 
 -------
+
+lucid oa 被删除了
+题目是 给定一个🌲 一些节点的值为1代表硬币 一些节点的值为0 要求一条最短的路径 使得可以获得所有的硬币 路径的起始点任意
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMT
-A0MDkwMDA2N119
+eyJoaXN0b3J5IjpbLTEyODI5Nzc0OTksLTE2ODcwOTU2OTgsLT
+EyMjc2MzI2MDAsMTA0MDkwMDA2N119
 -->
