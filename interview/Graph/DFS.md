@@ -495,13 +495,14 @@ def dfs(node):
   x1, y1 = dfs(node.left)
   x2, y2 = dfs(node.right)
   if y1 == 0 or y2 == 0:
-    x = 1
+    return (1, -1)
+  elif 
   return (x, y) 
 这里的x表示当前节点或者下面节点的监控情况 如果是1 表示当前节点放一个摄像头 如果为0表示下面一层节点有一个摄像头 如果为-1 表示没有摄像头
-这里的y表示当前硬币的距离 1表示当前节点是一个硬币 0表示下面一层存在一个硬币 
+这里的y表示当前硬币的距离 1表示当前节点是一个硬币 0表示下面一层存在一个硬币 -1表示没有硬币
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTA1OTA2LDk4ODkxMDU4LC0xNjg3MD
-k1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAwNjddfQ==
+eyJoaXN0b3J5IjpbLTQ0NzQzMTgwMSw5ODg5MTA1OCwtMTY4Nz
+A5NTY5OCwtMTIyNzYzMjYwMCwxMDQwOTAwMDY3XX0=
 -->
