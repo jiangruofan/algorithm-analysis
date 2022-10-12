@@ -492,8 +492,12 @@ lucid oa 被删除了
 
 答案: 首先先计算经过哪些节点一定可以获得所有的硬币 类似于监控二叉树 不过这里的路径是2 
 def dfs(node):
-  return (x, y) #这里的x表示
+  return (x, y) 
+这里的x表示当前节点或者下面节点的监控情况 如果是1 表示当前节点放一个摄像头 如果为0表示下面一层节点有一个摄像头 如果为-1 表示没有摄像头
+这里的y表示
+
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODcwNzkzMSwtMTY4NzA5NTY5OCwtMT
+eyJoaXN0b3J5IjpbMTQ1NjM4NzYyNywtMTY4NzA5NTY5OCwtMT
 IyNzYzMjYwMCwxMDQwOTAwMDY3XX0=
 -->
