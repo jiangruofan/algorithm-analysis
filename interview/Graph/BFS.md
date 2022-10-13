@@ -68,7 +68,9 @@ Path for stop 2: 9 -> 8 -> 5
 
 -----------
 
+[enter link description here](https://leetcode.com/discuss/interview-question/2694254/Codility-Graph-Hard-Question-OA)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDM5MTQ4Nl19
+eyJoaXN0b3J5IjpbLTE0OTAzMjUzMiwxMTUwMzkxNDg2XX0=
 -->
