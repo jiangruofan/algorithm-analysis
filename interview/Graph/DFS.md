@@ -533,6 +533,7 @@ total = [] #表示所有的需要经过
    elif node in total:
      sum1 += x + y
      return 1
+   elif 
    else:
      return 1 + (x if x != 0 else y)
      
@@ -540,8 +541,8 @@ total = [] #表示所有的需要经过
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcxNDIwODMsMTE1NTExNjQ4OCwtMT
-Y2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4
-MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMT
-A0MDkwMDA2N119
+eyJoaXN0b3J5IjpbODYzMjkxMjExLDExNTUxMTY0ODgsLTE2Nj
+QxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAx
+LDk4ODkxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwND
+A5MDAwNjddfQ==
 -->
