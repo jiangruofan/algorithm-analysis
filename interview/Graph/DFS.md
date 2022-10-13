@@ -526,6 +526,8 @@ total = [] #表示所有的需要经过
    if not node:
      return 0
    res = []
+   for child in node.children:
+     
    
    
   
@@ -534,9 +536,9 @@ total = [] #表示所有的需要经过
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2ODY3NzAxLDEwMTkxODk2NTYsLTM5OD
-UwMDcwLDk2NDg4ODQxOSwxMTU1MTE2NDg4LC0xNjY0MTg3MDUs
-LTE3MTU4ODE0NCwzODk0Nzc5MzYsLTQ0NzQzMTgwMSw5ODg5MT
-A1OCwtMTY4NzA5NTY5OCwtMTIyNzYzMjYwMCwxMDQwOTAwMDY3
-XX0=
+eyJoaXN0b3J5IjpbMTY1MTkwODY1NiwzMDY4Njc3MDEsMTAxOT
+E4OTY1NiwtMzk4NTAwNzAsOTY0ODg4NDE5LDExNTUxMTY0ODgs
+LTE2NjQxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3ND
+MxODAxLDk4ODkxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAw
+LDEwNDA5MDAwNjddfQ==
 -->
