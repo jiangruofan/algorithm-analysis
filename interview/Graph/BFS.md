@@ -76,12 +76,12 @@ I was able to slove this problem using Bfs but my code is given TLE, Because I w
 N, H Value Range from 1 to 100000
 ![image](https://assets.leetcode.com/users/images/3efc9a44-0b91-48c1-9f16-c8f06ff99dd7_1665574332.802469.png)
 
-从有救护车的城市开始bfs
+从有救护车的城市开始bfs 注意
 
 -----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIwOTcwMjcsMzk3ODcxMjM2LDExNT
-AzOTE0ODZdfQ==
+eyJoaXN0b3J5IjpbNTY3Nzc4NjAsLTEzOTIwOTcwMjcsMzk3OD
+cxMjM2LDExNTAzOTE0ODZdfQ==
 -->
