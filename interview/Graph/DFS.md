@@ -539,7 +539,31 @@ total = [] #表示所有的需要经过
 
 ------
 
+[Airbnb coding round 2](https://leetcode.com/discuss/interview-question/2695021/Airbnb-coding-round-2)
 
+A patron at a restaurant tells the waiter that out of the given menu, they’d like to order exactly $15.05 worth of appetizers. He offers the waiter computer science literature to help solve the problem.
+
+// You are the waiter in this story. Given a total sum for appetizers (in the example $15.05), write a program which writes to the screen what the customer’s order could be.
+
+// Menu:  
+// (“Fruit”, 2.15);  
+// (“Fries”, 2.75);  
+// (“Salad”, 3.35);  
+// (“Wings”, 3.55);  
+// (“Mozzarella”, 4.20);  
+// (“Plate”, 5.80);
+
+// Examples  
+// possibleOrders(4.30) -> [[“Fruit”, “Fruit”]]  
+// possibleOrders(4.90) -> [[“Fruit”, “Fries”]]  
+// possibleOrders(5.50) -> [[“Fries”, “Fries”], [“Fruit”, “Salad”]]
+
+// possibleOrders(15.05) -> [[“Fruit”, “Wings”, “Wings”, “Plate”], [“Fruit”, “Fruit”, “Fruit”, “Fruit”, “Fruit”, “Fruit”, “Fruit”]]  
+// 2.15+3.55+3.55+5.80 = 15.05  
+// if not possible return empty list  
+// Unique possible combination solution
+
+答案: DFS即可 
    
    
   
@@ -548,9 +572,9 @@ total = [] #表示所有的需要经过
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNj
-g2NzcwMSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTks
-MTE1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5ND
-c3OTM2LC00NDc0MzE4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgs
-LTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbLTEzMDQxNjcxNDgsMTA5Mzc5NzY0NiwtMz
+I2MTcwNTE4LDMwNjg2NzcwMSwxMDE5MTg5NjU2LC0zOTg1MDA3
+MCw5NjQ4ODg0MTksMTE1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNz
+E1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4MDEsOTg4OTEwNTgs
+LTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
 -->
