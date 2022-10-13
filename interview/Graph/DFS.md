@@ -492,10 +492,13 @@ lucid oa 被删除了
 
 答案: 首先先计算经过哪些节点一定可以获得所有的硬币 类似于监控二叉树 不过这里的路径是2 
 
+total = 0 #表示所有的需要经过
+
     def dfs(node):
       x1, y1 = dfs(node.left)
       x2, y2 = dfs(node.right)
       if y1 == 0 or y2 == 0:
+        total += 1
         return (1, -1)
       elif y1 == 1 or y2 == 1:
         if x1 == 1 or x2 == 1:
@@ -516,7 +519,7 @@ lucid oa 被删除了
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU4ODE0NCwzODk0Nzc5MzYsLTQ0Nz
-QzMTgwMSw5ODg5MTA1OCwtMTY4NzA5NTY5OCwtMTIyNzYzMjYw
-MCwxMDQwOTAwMDY3XX0=
+eyJoaXN0b3J5IjpbLTE2NjQxODcwNSwtMTcxNTg4MTQ0LDM4OT
+Q3NzkzNiwtNDQ3NDMxODAxLDk4ODkxMDU4LC0xNjg3MDk1Njk4
+LC0xMjI3NjMyNjAwLDEwNDA5MDAwNjddfQ==
 -->
