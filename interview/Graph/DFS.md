@@ -501,21 +501,17 @@ lucid oa 被删除了
         if x1 == 1 or x2 == 1:
           return (-1, -1)
         else:
+          return(-1, 0)
           
-	        
           
-
-  
-
-
-
+	  
   return (x, y) 
 这里的x表示当前节点或者下面节点的监控情况 如果是1 表示当前节点放一个摄像头 如果为0表示下面一层节点有一个摄像头 如果为-1 表示没有摄像头
 这里的y表示当前硬币的距离 1表示当前节点是一个硬币 0表示下面一层存在一个硬币 -1表示没有硬币
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA3MTcxNTgsLTQ0NzQzMTgwMSw5OD
-g5MTA1OCwtMTY4NzA5NTY5OCwtMTIyNzYzMjYwMCwxMDQwOTAw
-MDY3XX0=
+eyJoaXN0b3J5IjpbLTM1ODg4OTQ1MywtNDQ3NDMxODAxLDk4OD
+kxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAw
+NjddfQ==
 -->
