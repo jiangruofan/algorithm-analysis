@@ -495,6 +495,8 @@ lucid oa 被删除了
 total = [] #表示所有的需要经过
 
     def dfs(node):
+      if not node:
+        return (-1, -1)
       x1, y1 = dfs(node.left)
       x2, y2 = dfs(node.right)
       if y1 == 0 or y2 == 0:
@@ -521,7 +523,7 @@ total = [] #表示所有的需要经过
  再次使用dfs 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA3MDQ2OSwtMTY2NDE4NzA1LC0xNz
+eyJoaXN0b3J5IjpbMTE1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNz
 E1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4MDEsOTg4OTEwNTgs
 LTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
 -->
