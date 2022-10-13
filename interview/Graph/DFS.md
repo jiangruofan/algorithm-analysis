@@ -563,7 +563,9 @@ A patron at a restaurant tells the waiter that out of the given menu, they’d l
 // if not possible return empty list  
 // Unique possible combination solution
 
-答案: DFS即可 
+答案: DFS回溯即可
+
+-----
    
    
   
@@ -572,9 +574,9 @@ A patron at a restaurant tells the waiter that out of the given menu, they’d l
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQxNjcxNDgsMTA5Mzc5NzY0NiwtMz
-I2MTcwNTE4LDMwNjg2NzcwMSwxMDE5MTg5NjU2LC0zOTg1MDA3
-MCw5NjQ4ODg0MTksMTE1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNz
-E1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4MDEsOTg4OTEwNTgs
-LTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbLTUyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNj
+E3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAwNzAs
+OTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcwNSwtMTcxNT
+g4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAxLDk4ODkxMDU4LC0x
+Njg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAwNjddfQ==
 -->
