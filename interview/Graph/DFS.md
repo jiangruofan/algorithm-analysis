@@ -521,9 +521,15 @@ total = [] #表示所有的需要经过
 
  然后就是求连接total这些节点的最短路径加起来乘2
  再次使用dfs 
+ sum1 = 0
+ def dfs(node):
+   x = dfs(node.left)
+   
+   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNz
-E1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4MDEsOTg4OTEwNTgs
-LTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbLTEwNTY3NTk4MjAsMTE1NTExNjQ4OCwtMT
+Y2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4
+MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMT
+A0MDkwMDA2N119
 -->
