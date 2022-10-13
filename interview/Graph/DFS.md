@@ -525,26 +525,18 @@ total = [] #表示所有的需要经过
  def dfs(node):
    if not node:
      return 0
-   x = dfs(node.left)
-   y = dfs(node.right)
-   if x != 0 and y != 0:
-     sum1 += x + y
-     return 1
-   elif node in total:
-     sum1 += x + y
-     return 1
-   if x == 0 and y == 0 and node.val == 0:
-     return 0
-   else:
-     return 1 + (x if x != 0 else y)
-如果不是二叉树 就看字节点不是0的个数是不是大于1 如果大于1 那么就需要计算
+   res = []
+   
+   
+  
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTE4OTY1NiwtMzk4NTAwNzAsOTY0OD
-g4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcwNSwtMTcxNTg4MTQ0
-LDM4OTQ3NzkzNiwtNDQ3NDMxODAxLDk4ODkxMDU4LC0xNjg3MD
-k1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAwNjddfQ==
+eyJoaXN0b3J5IjpbMzA2ODY3NzAxLDEwMTkxODk2NTYsLTM5OD
+UwMDcwLDk2NDg4ODQxOSwxMTU1MTE2NDg4LC0xNjY0MTg3MDUs
+LTE3MTU4ODE0NCwzODk0Nzc5MzYsLTQ0NzQzMTgwMSw5ODg5MT
+A1OCwtMTY4NzA5NTY5OCwtMTIyNzYzMjYwMCwxMDQwOTAwMDY3
+XX0=
 -->
