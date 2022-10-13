@@ -537,14 +537,14 @@ total = [] #表示所有的需要经过
      return 0
    else:
      return 1 + (x if x != 0 else y)
-如果
+如果不是二叉树 就看字节点不是0的个数是不是大于1 如果大于1 那么就需要计算
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY3NDgxMjksMTE1NTExNjQ4OCwtMT
-Y2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4
-MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMT
-A0MDkwMDA2N119
+eyJoaXN0b3J5IjpbOTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2Nj
+QxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAx
+LDk4ODkxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwND
+A5MDAwNjddfQ==
 -->
