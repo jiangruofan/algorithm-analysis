@@ -501,7 +501,9 @@ lucid oa 被删除了
         if x1 == 1 or x2 == 1:
           return (-1, -1)
         else:
-        
+          
+	        
+          
 
   
 
@@ -513,7 +515,7 @@ lucid oa 被删除了
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzMzNTUxOCwtNDQ3NDMxODAxLDk4OD
-kxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAw
-NjddfQ==
+eyJoaXN0b3J5IjpbLTEyMjA3MTcxNTgsLTQ0NzQzMTgwMSw5OD
+g5MTA1OCwtMTY4NzA5NTY5OCwtMTIyNzYzMjYwMCwxMDQwOTAw
+MDY3XX0=
 -->
