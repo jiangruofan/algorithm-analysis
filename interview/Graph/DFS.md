@@ -499,7 +499,7 @@ lucid oa 被删除了
         return (1, -1)
       elif y1 == 1 or y2 == 1:
         if x1 == 1 or x2 == 1:
-          return (-1, -1)
+          return (0, -1)
         else:
           return(-1, 0)
           
@@ -511,7 +511,7 @@ lucid oa 被删除了
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODg4OTQ1MywtNDQ3NDMxODAxLDk4OD
+eyJoaXN0b3J5IjpbMTQ0OTcyNzc4MywtNDQ3NDMxODAxLDk4OD
 kxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAw
 NjddfQ==
 -->
