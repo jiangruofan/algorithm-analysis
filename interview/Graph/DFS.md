@@ -527,7 +527,13 @@ total = [] #表示所有的需要经过
      return 0
    res = []
    for child in node.children:
-     
+     x = dfs(child)
+     if x != 0:
+       res.append(x)
+   if not res and not node.val:
+     return 0
+   if len(res) == 1 and not node.val:
+    
    
    
   
@@ -536,9 +542,9 @@ total = [] #表示所有的需要经过
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTkwODY1NiwzMDY4Njc3MDEsMTAxOT
-E4OTY1NiwtMzk4NTAwNzAsOTY0ODg4NDE5LDExNTUxMTY0ODgs
-LTE2NjQxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3ND
-MxODAxLDk4ODkxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAw
-LDEwNDA5MDAwNjddfQ==
+eyJoaXN0b3J5IjpbMzkwNzE3MjkxLDMwNjg2NzcwMSwxMDE5MT
+g5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NTExNjQ4OCwt
+MTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00NDc0Mz
+E4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAs
+MTA0MDkwMDA2N119
 -->
