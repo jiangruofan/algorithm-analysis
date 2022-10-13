@@ -492,13 +492,13 @@ lucid oa 被删除了
 
 答案: 首先先计算经过哪些节点一定可以获得所有的硬币 类似于监控二叉树 不过这里的路径是2 
 
-total = 0 #表示所有的需要经过
+total = [] #表示所有的需要经过
 
     def dfs(node):
       x1, y1 = dfs(node.left)
       x2, y2 = dfs(node.right)
       if y1 == 0 or y2 == 0:
-        total += 1
+        total.append(node)
         return (1, -1)
       elif y1 == 1 or y2 == 1:
         if x1 == 1 or x2 == 1:
@@ -517,9 +517,11 @@ total = 0 #表示所有的需要经过
 这里的x表示当前节点或者下面节点的监控情况 如果是1 表示当前节点放一个摄像头 如果为0表示下面一层节点有一个摄像头 如果为-1 表示没有摄像头
 这里的y表示当前硬币的距离 1表示当前节点是一个硬币 0表示下面一层存在一个硬币 -1表示没有硬币
 
+ 然后就是求连接total这些节点的最短路径加起来乘2
+ 再次使用dfs 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQxODcwNSwtMTcxNTg4MTQ0LDM4OT
-Q3NzkzNiwtNDQ3NDMxODAxLDk4ODkxMDU4LC0xNjg3MDk1Njk4
-LC0xMjI3NjMyNjAwLDEwNDA5MDAwNjddfQ==
+eyJoaXN0b3J5IjpbLTEwMzA3MDQ2OSwtMTY2NDE4NzA1LC0xNz
+E1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4MDEsOTg4OTEwNTgs
+LTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
 -->
