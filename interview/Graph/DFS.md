@@ -537,13 +537,14 @@ total = [] #表示所有的需要经过
      return 0
    else:
      return 1 + (x if x != 0 else y)
+如果
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODE0NzkxNywxMTU1MTE2NDg4LC0xNj
-Y0MTg3MDUsLTE3MTU4ODE0NCwzODk0Nzc5MzYsLTQ0NzQzMTgw
-MSw5ODg5MTA1OCwtMTY4NzA5NTY5OCwtMTIyNzYzMjYwMCwxMD
-QwOTAwMDY3XX0=
+eyJoaXN0b3J5IjpbLTEyNzY3NDgxMjksMTE1NTExNjQ4OCwtMT
+Y2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4
+MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMT
+A0MDkwMDA2N119
 -->
