@@ -142,8 +142,9 @@ we define dp[i][j] as sum from matrix[0][0] to matrix[i][j] rectangle. as prepro
 
 ![image](https://assets.leetcode.com/users/images/07f4c276-4559-4e11-bc7e-ee53e0f22103_1665572136.663208.png)
 ![image](https://assets.leetcode.com/users/images/4b357dce-4162-4cdc-8bb8-8978bb69da81_1665572160.1160605.png)
-这里有一个贪心思路 就是如果要充电 每一次
+这里有一个贪心思路 就是如果要充电 每一次充电后走的路应该尽可能一样
+对结果
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNDg1ODczLC05MDA4ODM3NjcsMTU0NT
-IwNzQzMV19
+eyJoaXN0b3J5IjpbLTE4MzcyODE4MzUsLTkwMDg4Mzc2NywxNT
+Q1MjA3NDMxXX0=
 -->
