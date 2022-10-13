@@ -70,9 +70,16 @@ Path for stop 2: 9 -> 8 -> 5
 
 [Codility Graph Hard Question OA](https://leetcode.com/discuss/interview-question/2694254/Codility-Graph-Hard-Question-OA)
 
+This was the 2nd Question in coditlty Test.  
+Can anyone provide the best Algo for this Problem.  
+I was able to slove this problem using Bfs but my code is given TLE, Because I was caluclating path from every Hospital and taking the min from them.  
+N, H Value Range from 1 to 100000
+![image](https://assets.leetcode.com/users/images/3efc9a44-0b91-48c1-9f16-c8f06ff99dd7_1665574332.802469.png)
 
+从有救护车的城市开始bfs 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3ODcxMjM2LDExNTAzOTE0ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDU1MDQxMjIsMzk3ODcxMjM2LDExNT
+AzOTE0ODZdfQ==
 -->
