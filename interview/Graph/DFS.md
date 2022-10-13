@@ -523,18 +523,25 @@ total = [] #表示所有的需要经过
  再次使用dfs 
  sum1 = 0
  def dfs(node):
+   if not node:
+     return 0
    x = dfs(node.left)
    y = dfs(node.right)
    if x != 0 and y != 0:
      sum1 += x + y
      return 1
+   elif node in total:
+     sum1 += x + y
+     return 1
    else:
+     return 1 + (x if x != 0 else y)
+     
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjk3NjA5MSwxMTU1MTE2NDg4LC0xNj
-Y0MTg3MDUsLTE3MTU4ODE0NCwzODk0Nzc5MzYsLTQ0NzQzMTgw
-MSw5ODg5MTA1OCwtMTY4NzA5NTY5OCwtMTIyNzYzMjYwMCwxMD
-QwOTAwMDY3XX0=
+eyJoaXN0b3J5IjpbLTExMjcxNDIwODMsMTE1NTExNjQ4OCwtMT
+Y2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00NDc0MzE4
+MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2MDAsMT
+A0MDkwMDA2N119
 -->
