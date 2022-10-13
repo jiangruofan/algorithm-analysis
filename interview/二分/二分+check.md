@@ -142,8 +142,8 @@ we define dp[i][j] as sum from matrix[0][0] to matrix[i][j] rectangle. as prepro
 
 ![image](https://assets.leetcode.com/users/images/07f4c276-4559-4e11-bc7e-ee53e0f22103_1665572136.663208.png)
 ![image](https://assets.leetcode.com/users/images/4b357dce-4162-4cdc-8bb8-8978bb69da81_1665572160.1160605.png)
-
+这里有一个贪心思路 就是如果要chon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzQzMDcwMywtOTAwODgzNzY3LDE1ND
+eyJoaXN0b3J5IjpbLTQ0NDY3MTczMSwtOTAwODgzNzY3LDE1ND
 UyMDc0MzFdfQ==
 -->
