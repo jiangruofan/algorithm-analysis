@@ -21,7 +21,7 @@ If we consider all the 3 × 3 square frames in matrix, there are only 3 of them 
 The only distinct numbers are 1, 3, 4, 5, 6, 7, 8, 9, 10, 18 and 21. So the answer is 1 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 18 + 21 = 92.
 
 2个set  -x是答案set  -y是暂存的unique数字
-先预处理二维前缀和 然后就是滑动窗口了 每滑动一次 如果当前的窗口sum不是最大值 那么新增的unique数字就保存在y中 同时移除不是unique的数字 
+先预处理二维前缀和 然后就是滑动窗口了 每滑动一次 那么新增的unique数字就保存在y中 同时移除不是unique的数字 如果当前窗口等于最大sum 那么就把y中的数字合并到x中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTM5ODYwNl19
+eyJoaXN0b3J5IjpbLTEzODQ3MDY2MDldfQ==
 -->
