@@ -11,7 +11,7 @@
 路程的前进步数一定是2^k-1 k就是操作次数 
 那么如果target正好为2^k-1 那么就操作k次
 如果target < 2^k-1 那么有两种选择 一种选择是走到2**k-1然后往回走
-还有一种是走到2**(k-1)-1然后往回走一点再往终点走 
+还有一种是走到2^(k-1)-1然后往回走一点再往终点走 
 时间复杂度是nlogn 
 
 #### [964. Least Operators to Express Number](https://leetcode.cn/problems/least-operators-to-express-number/)
@@ -52,5 +52,5 @@
 #### [1416. Restore The Array](https://leetcode.cn/problems/restore-the-了array/)
 简单明了
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTA5OTIzNl19
+eyJoaXN0b3J5IjpbLTU3MDQyOTk5OCwtNDYxMDk5MjM2XX0=
 -->
