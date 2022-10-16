@@ -156,8 +156,27 @@ I could not think of an optimal solution to solve this.
 
 --------
 
+[UBER OA Question GOOD Question](https://leetcode.com/discuss/interview-question/2706260/UBER-OA-Question-GOOD-Question)
+
+Given a integer K, and string S. Now we have can pick some indexes from the given string in such a way that for every K size substring there should be at least one index from our Picked Indexes.  
+Now using the indexes we picked form a lexicographically smallest string from the given string.
+
+Iam stuck in implementing this. can someone help me>?
+
+Example :  
+K = 4  
+S = aacaa  
+output = a
+
+K=2  
+S = abcab  
+output = aab (after reordering)
+
+线段🌲 区间覆盖 字母从小到大开始覆盖 直到区间被quan
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTQ0MDkyNCwtMTMwMTYwNjQ0NSwyMD
-QxNjMxNTM4LDcxMDUxMDM2OCwtMTc3NjA2Mjk3MV19
+eyJoaXN0b3J5IjpbMTkyMzc2MjE0NSwxMjU1NDQwOTI0LC0xMz
+AxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYy
+OTcxXX0=
 -->
