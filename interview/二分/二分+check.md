@@ -146,7 +146,14 @@ we define dp[i][j] as sum from matrix[0][0] to matrix[i][j] rectangle. as prepro
 对时间进行二分 因为要走的路程是定的 给定一个时间可以计算出充电的次数 然后计算出每一次充电后走多少路 然后知道了电池容量 看能不能走完 如果能走完 那么就把时间调小点
 
 -------
+
+[Google OA 2023 intern](https://leetcode.com/discuss/interview-question/2707531/Google-OA-2023-intern)
+
+![image](https://assets.leetcode.com/users/images/19b37e62-d7f5-403f-972e-1102e94c76c9_1665868317.19674.jpeg)
+any approaches? x and y can go till 10^9 and n till 10^5
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2OTA5MTE1LC05MDA4ODM3NjcsMTU0NT
-IwNzQzMV19
+eyJoaXN0b3J5IjpbMTU4MDAyNzkxOSw2NTY5MDkxMTUsLTkwMD
+g4Mzc2NywxNTQ1MjA3NDMxXX0=
 -->
