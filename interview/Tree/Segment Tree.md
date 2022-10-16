@@ -172,11 +172,13 @@ K=2
 S = abcab  
 output = aab (after reordering)
 
-线段🌲 区间覆盖 字母从小到大开始覆盖 直到区间被quan
+线段🌲 区间覆盖 字母从小到大开始覆盖 直到区间被全部覆盖即可
+
+-----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzc2MjE0NSwxMjU1NDQwOTI0LC0xMz
-AxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYy
-OTcxXX0=
+eyJoaXN0b3J5IjpbLTE4NDE3MzQyNzUsMTI1NTQ0MDkyNCwtMT
+MwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2OCwtMTc3NjA2
+Mjk3MV19
 -->
