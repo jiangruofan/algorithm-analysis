@@ -47,7 +47,13 @@ now find minimumCost distnce between these 2 given cities. I dont have complete 
 
 -----------
 
+[Google | Interview Questions | SWE Intern Summer 2023 US | Coding Exercise](https://leetcode.com/discuss/interview-question/2707370/Google-or-Interview-Questions-or-SWE-Intern-Summer-2023-US-or-Coding-Exercise)
+
+-   First interview, I got a graph, start, and destination point. Each node had a value of length. I had to find the shortest path to the destination. Also, There was an infected node with a virus and the path wouldn't work if I get to that node. In addition, the infected node had a virality, meaning that all the neiborghs connected to this infected node would get infected as well depending on the value of this virality. Ex, if virality is 2 all the first and second neiborghs connected to this infected node would get infected so that we can't use them on our possible paths. To solve this question I had to get a good understanding of Breath First Search in a graph so Dijkstra's Algorithm would be great.
+
+---------
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM5ODU0MDksLTkzNzA3MTAyN119
+eyJoaXN0b3J5IjpbMTc2MzIyNzIyOCwtOTM3MDcxMDI3XX0=
 -->
