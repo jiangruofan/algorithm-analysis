@@ -152,8 +152,10 @@ we define dp[i][j] as sum from matrix[0][0] to matrix[i][j] rectangle. as prepro
 ![image](https://assets.leetcode.com/users/images/19b37e62-d7f5-403f-972e-1102e94c76c9_1665868317.19674.jpeg)
 any approaches? x and y can go till 10^9 and n till 10^5
 
+二分是正确做法 刚开始想成线段树了 线段树是基于贪心思路 每次都是把当前的最大值最为major 线段树就是复杂点 逻辑应该也是正确的
 
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDAyNzkxOSw2NTY5MDkxMTUsLTkwMD
+eyJoaXN0b3J5IjpbMTY5MDAwMTk4NSw2NTY5MDkxMTUsLTkwMD
 g4Mzc2NywxNTQ1MjA3NDMxXX0=
 -->
