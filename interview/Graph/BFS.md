@@ -80,8 +80,31 @@ N, H Value Range from 1 to 100000
 
 -----
 
+[Google | Onsite | SDE | Maze question | L4](https://leetcode.com/discuss/interview-question/2711886/Google-or-Onsite-or-SDE-or-Maze-question-or-L4)
 
+I was asked the following maze traversal question and I was not able to solve a specific test case.
+
+Question is to find the shortest distance between a Source and Destination node when there is an alarm node. During traversal when you step on this alarm node, the destination node gets locked. This means even if you enter the destination node you are not done yet. You will have to now traverse to a Switch node and then after visiting this Switch Node you can unlock the destination node and then now you can traverse to the destination node.
+
+```
+Given: Source Node (Src) , Destination Node (D), Alarm Node (A), Switch Node (Sw). 
+To Find: Shortest distance between Source and Destination Node. If you step on an Alarm node, your destination gets locked. You need to visit a Switch Node to unlock your destination Node.
+
+```
+
+I just used a simple BFS with a varying destination node ( First the destination would be D, during traversal if I visited an alarm node, then the new destination node would be Sw and then once I visit the Sw node, the new destination would be D and then continue to traverse the graph)
+
+I couldn't pass a test case where D got locked due to visiting an Alarm node and then the nodes from D to Sw were all visited and I couldn't go back to D.
+
+Please let me know what would be the best solution for this question.
+
+PS:  
+Rejected due to the reason of "Efficacy", trying to learn from mistakes and hopefully can perform better next year.
+
+答案: bfs即可 
+
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOT
-c4NzEyMzYsMTE1MDM5MTQ4Nl19
+eyJoaXN0b3J5IjpbLTU3MzIxMzMyOCwxMzE3MzI5NDcxLC0xMz
+kyMDk3MDI3LDM5Nzg3MTIzNiwxMTUwMzkxNDg2XX0=
 -->
