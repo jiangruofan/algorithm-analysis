@@ -188,9 +188,10 @@ Q.1 constraints arr length <=5000 and threshold <=500.
 
 ![image](https://assets.leetcode.com/users/images/e62740af-af82-4519-8768-ba797444f548_1665901065.143898.png)
 ![image](https://assets.leetcode.com/users/images/a68633b2-f438-44c6-a188-b670d4c87d4c_1665901068.260328.png)
-类似背包问题 dp[i][j][k]表示前i层使用j个o和k个🌟所能构成的方案数 对于第前i层 如果使用j个o 那么ke y
+类似背包问题 dp[i][j][k]表示前i层使用j个o和k个🌟所能构成的方案数 对于第前i层 如果使用j个o 那么可以计算出🌟的数量 如果使用k个🌟 那么可以计算出o的数量 所以遍历i 每次的时间复杂度是10^5
+i最大为多少可以计算出来 n（）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NDE0MTk1LC05MTAzNTI4ODgsNjM2MT
-YzNDA3LC0xNDYyMzM0OTQ0LC05NDg4NDUyODcsMjA4NjUzMDEy
-NywzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbLTc3MTY4MDc0NiwtOTEwMzUyODg4LDYzNj
+E2MzQwNywtMTQ2MjMzNDk0NCwtOTQ4ODQ1Mjg3LDIwODY1MzAx
+MjcsMzQxNzM5NDcxXX0=
 -->
