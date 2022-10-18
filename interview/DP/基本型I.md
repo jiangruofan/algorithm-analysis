@@ -183,7 +183,14 @@ dp可以优化
 Q.1 constraints arr length <=5000 and threshold <=500.
 
 -------
+
+[GOOD QUESTIONS UB](https://leetcode.com/discuss/interview-question/2708906/GOOD-QUESTIONS-UB)
+
+![image](https://assets.leetcode.com/users/images/e62740af-af82-4519-8768-ba797444f548_1665901065.143898.png)
+![image](https://assets.leetcode.com/users/images/a68633b2-f438-44c6-a188-b670d4c87d4c_1665901068.260328.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2MTYzNDA3LC0xNDYyMzM0OTQ0LC05ND
-g4NDUyODcsMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbLTkxMDM1Mjg4OCw2MzYxNjM0MDcsLTE0Nj
+IzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MTczOTQ3
+MV19
 -->
