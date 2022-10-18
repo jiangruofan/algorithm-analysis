@@ -188,9 +188,9 @@ Q.1 constraints arr length <=5000 and threshold <=500.
 
 ![image](https://assets.leetcode.com/users/images/e62740af-af82-4519-8768-ba797444f548_1665901065.143898.png)
 ![image](https://assets.leetcode.com/users/images/a68633b2-f438-44c6-a188-b670d4c87d4c_1665901068.260328.png)
-类似
+类似背包问题 dp[i][j][k]表示前i层shi yon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTI3MzMzNywtOTEwMzUyODg4LDYzNj
-E2MzQwNywtMTQ2MjMzNDk0NCwtOTQ4ODQ1Mjg3LDIwODY1MzAx
-MjcsMzQxNzM5NDcxXX0=
+eyJoaXN0b3J5IjpbLTE0MTM5NzYzNDIsLTkxMDM1Mjg4OCw2Mz
+YxNjM0MDcsLTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMw
+MTI3LDM0MTczOTQ3MV19
 -->
