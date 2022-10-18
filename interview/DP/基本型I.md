@@ -196,9 +196,13 @@ i最大为多少可以计算出来 n(n+1)/2 = 2 * 10 ^ 5
 
 [Cisco | Summer Intern | Software Engineer 1](https://leetcode.com/discuss/interview-question/2712200/Cisco-or-Summer-Intern-or-Software-Engineer-1)
 
+Given an array of integers, what is the most amount of cookies you can collect.  
+If you collect from jar[y] you can not select from jar[y-1] or jar[y+1]
+
+----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NzcyMzQ5LDc5MTIzNjc3MCwxMDIyMj
+eyJoaXN0b3J5IjpbODE1NDE5Mjc4LDc5MTIzNjc3MCwxMDIyMj
 A4MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3LC0xNDYyMzM0OTQ0
 LC05NDg4NDUyODcsMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
 -->
