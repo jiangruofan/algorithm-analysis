@@ -55,8 +55,10 @@ Technical Assessment
 		def empty(): return True/False
 ```
 
+答案 https://stackoverflow.com/questions/688276/implement-stack-using-two-queues
 
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk1NDUxMDgsNTkwMzA4OTk3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTA3MjczNDU2OCw1OTAzMDg5OTcsNzMwOT
+k4MTE2XX0=
 -->
