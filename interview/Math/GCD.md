@@ -64,7 +64,9 @@ Sample Input:-
 Sample Output:-  
 NO
 
-答案: 贪心思想 遍历每一个数字
+答案: 贪心思想 遍历每一个数字看能整除哪些数字 选一个比前面数字大的最小的数字
+
+----
 
 
 
@@ -84,6 +86,6 @@ NO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjYyOTI3NywzNzQ4ODY3NzcsLTU4ND
-gwODY1MF19
+eyJoaXN0b3J5IjpbNDcxMDQ2NzUsMzc0ODg2Nzc3LC01ODQ4MD
+g2NTBdfQ==
 -->
