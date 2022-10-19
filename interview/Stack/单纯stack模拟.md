@@ -30,7 +30,33 @@ Output: ((()))
 答案: 先扫描一遍string 用一个cnt记录多余的左括号 如果遇到了一个多余的左括号 用一个list记录index 并且把这个左括号变成右括号 将右括号的个数➕1 注意这里的右括号个数需要两个变量记录 一个记录原生的右括号 另一个记录左括号变成的右括号 遍历结束后如果左括号变成的右括号数量大于0 那么就需要把一些变成的右括号删除 如果原生的右括号大于0 直接在末尾加入左括号即可 
 
 -------
+
+[Bloomberg | 2023 | New Grad | First round](https://leetcode.com/discuss/interview-question/2723184/Bloomberg-or-2023-or-New-Grad-or-First-round)
+
+```
+Interview Duration : 1hr
+Type : Online Zoom
+Format: Candidate Background (10Mins) | Technical Assesment | Questions (10 Mins)
+
+Asked questions from resume, and favorite project.
+
+Technical Assessment
+1. Given the root of a tree, check if its a BST or not
+	a. if root is None: Return True
+	b. if there are duplicates: Return False
+	
+2. Implement Stack using two queues (Push, Pop, Top, Empty)
+	a. Push must be efficient O(1)
+	b. Top must be efficient O(1)
+	You have to use the methods provided by queue and no other method on top of it
+	class MyQueue:
+		def enqueue():
+		def dequeue(): return int
+		def empty(): return True/False
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUyNzc5NTQsNTkwMzA4OTk3LDczMD
+eyJoaXN0b3J5IjpbLTE2Mjk1NDUxMDgsNTkwMzA4OTk3LDczMD
 k5ODExNl19
 -->
