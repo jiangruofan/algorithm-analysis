@@ -566,17 +566,37 @@ A patron at a restaurant tells the waiter that out of the given menu, they’d l
 答案: DFS回溯即可
 
 -----
+
+[Google phone screen question: Find the direction map of a given matrix.](https://leetcode.com/discuss/interview-question/2665860/Google-phone-screen-question:-Find-the-direction-map-of-a-given-matrix.)
    
-   
+   Given an matrix populated with numbers from 1-7. Each of the number represents a direction in the entire matrix. e.g: if matrix[0][0] = 2, and if 2 represents 'B', then the only valid move is to go down.
+
+From the given input matrix find any single possible direction map that allows us to move from top left to bottom right cells.
+
+Direction map is the, map defining the direction each number means. There are only 4 valid directions. 'U' - Up, 'D' - Down, 'L' - Left, and 'R' - Right.
+
+Sample input:
+
+1 2 6 4  
+3 1 2 3  
+7 5 4 6  
+3 7 2 1
+
+Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R', 3: 'R', 4: 'D', 5: 'R', 6: 'D',7:'L'} or anything that can get us answer.
+
+答案 简单dfs+backtracking即可 需要使用seen记录访问过的节点
+
+----
   
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNj
-E3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAwNzAs
-OTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcwNSwtMTcxNT
-g4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAxLDk4ODkxMDU4LC0x
-Njg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAwNjddfQ==
+eyJoaXN0b3J5IjpbLTExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOT
+M3OTc2NDYsLTMyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1
+NiwtMzk4NTAwNzAsOTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2Nj
+QxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAx
+LDk4ODkxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwND
+A5MDAwNjddfQ==
 -->
