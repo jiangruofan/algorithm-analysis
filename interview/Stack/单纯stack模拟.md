@@ -73,8 +73,8 @@ Given a binary string  `s`  that contains only  `"0"`  and  `"1"`. You are also 
 -   `1 <= s.length() <= 100000 (1e5)`
 -   `1 <= query.length <= 100000 (1e5)`
 
-答案 使用 (l, r) 表示 
+答案 使用 (l, r) 表示全部为
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk2MzQ4MjMsNTkwMzA4OTk3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTQ3ODAwNDgzMSwtMTYxOTYzNDgyMyw1OT
+AzMDg5OTcsNzMwOTk4MTE2XX0=
 -->
