@@ -73,10 +73,10 @@ Given a binary string  `s`  that contains only  `"0"`  and  `"1"`. You are also 
 -   `1 <= s.length() <= 100000 (1e5)`
 -   `1 <= query.length <= 100000 (1e5)`
 
-答案 使用 (l, r) 表示全部为0的区间的左端点和右端点 
+答案 使用 (l, r) 表示全部为0的区间的左端点和右端点 注意端点的处理即可
 
 -----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NzgyOTIzLC0xNjE5NjM0ODIzLDU5MD
-MwODk5Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NzExMjQwNTYsLTE2MTk2MzQ4MjMsNT
+kwMzA4OTk3LDczMDk5ODExNl19
 -->
