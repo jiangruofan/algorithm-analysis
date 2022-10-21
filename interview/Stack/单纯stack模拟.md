@@ -74,7 +74,9 @@ Given a binary string  `s`  that contains only  `"0"`  and  `"1"`. You are also 
 -   `1 <= query.length <= 100000 (1e5)`
 
 答案 使用 (l, r) 表示全部为0的区间的左端点和右端点 
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODgyNDAzMiwtMTYxOTYzNDgyMyw1OT
-AzMDg5OTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzM5NzgyOTIzLC0xNjE5NjM0ODIzLDU5MD
+MwODk5Nyw3MzA5OTgxMTZdfQ==
 -->
