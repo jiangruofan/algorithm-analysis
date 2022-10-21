@@ -60,7 +60,21 @@ Technical Assessment
 ------
 
 [Roblox OA (US)](https://leetcode.com/discuss/interview-question/2476645/Roblox-OA-%28US%29)
+
+#### Q4 - Query In A Binary String
+
+Given a binary string  `s`  that contains only  `"0"`  and  `"1"`. You are also given an array  `query`  with the following operations:
+
+1.  "Count" - The answer to this query is the number of 1s in the binary string.
+2.  "Flip" - Flip the substring  `[0, idx]`  so that  `"0" -> "1" and "1" -> "0"`  and  `idx`  is the first  `"0"`  in the binary string. You are guaranteed that flip operation will only be called when there is at least one  `"0"`. The answer to the query is  `idx`.
+
+**Constraints:**
+
+-   `1 <= s.length() <= 100000 (1e5)`
+-   `1 <= query.length <= 100000 (1e5)`
+
+答案 使用 (l, r) 表示 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTAzNTY5OCw1OTAzMDg5OTcsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MTk2MzQ4MjMsNTkwMzA4OTk3LDczMD
+k5ODExNl19
 -->
