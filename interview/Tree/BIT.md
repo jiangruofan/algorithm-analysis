@@ -130,9 +130,23 @@ ans = 6+1+1 = 8
 
 -----
 
-[enter link description here](https://leetcode.com/discuss/interview-question/2730415/Uber-On-Site-Interview)
+[Uber On-Site Interview](https://leetcode.com/discuss/interview-question/2730415/Uber-On-Site-Interview)
+
+```
+Given an array of people, each person will only go somewhere if there are atleast x other people and at most y other people. Figure out the max number of people that can go in at one time.
+Sample input: 5, [[0,1], [1,3], [0,2], [1,4], [3,5]]
+Output: 3
+Explination:
+  person 0 can go alone and with one other person
+  person 1 can go if there's atleast 1 other person and at most 3 other people
+  person 2 can go alone and at most 2 other people
+  person 3 can go if there's atleast 1 other person and at most 4 other people
+  person 4 can go if there's atleast 3 other person and at most 5 other people
+So the group can be person 1, person 2, and person 3. Can't add more people to this because person 2 won't go with more than 2 people.
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ3ODQ1NzMsNTUxNTc5MzI1LDE3Mj
-E0OTY3MjBdfQ==
+eyJoaXN0b3J5IjpbNjg5MjQ4NjUxLDU1MTU3OTMyNSwxNzIxND
+k2NzIwXX0=
 -->
