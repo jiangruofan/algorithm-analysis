@@ -145,8 +145,8 @@ Explination:
 So the group can be person 1, person 2, and person 3. Can't add more people to this because person 2 won't go with more than 2 people.
 ```
 
-
+对x按照从小到大排序 二分答案 给定人数 判断是否可行 人数必须大于最大的x并且小于最小的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MjQ4NjUxLDU1MTU3OTMyNSwxNzIxND
-k2NzIwXX0=
+eyJoaXN0b3J5IjpbMTcxNTQ5NzQzNyw1NTE1NzkzMjUsMTcyMT
+Q5NjcyMF19
 -->
