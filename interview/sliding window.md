@@ -213,12 +213,13 @@ given k and list1
       if l == r - 1:
         break
       if cntl + (l + 1) * (list1[l+1] - list1[l]) > k and cntr + (len(list1)-r) * (list1[r] - list1[r-1]) > k:
-        br
+        break
+    return list1[r] - list1[l]
       
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTAyNzIyMyw1OTUxMjI4MDMsMTI2Mz
+eyJoaXN0b3J5IjpbMTQ5MTQ3OTM5OSw1OTUxMjI4MDMsMTI2Mz
 E5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OTgxMTZd
 fQ==
 -->
