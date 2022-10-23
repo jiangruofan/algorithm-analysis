@@ -202,6 +202,7 @@ The only distinct numbers are 1, 3, 4, 5, 6, 7, 8, 9, 10, 18 and 21. So the answ
 given k and list1
 
     l, r = 0, len(list1) - 1
+    list1.sort()
     cntl = cntr = 0
     while 1:
       while cntl <= cntr and cntl + (l + 1) * (list1[l+1] - list1[l]) <= k:
@@ -215,9 +216,9 @@ given k and list1
         cntr += (len(list1)-r) * (list1[r] - list1[r-1])
         r -= 1
       if l == r:
-        return list1[]
-      if l == r - 1:
-        break
+        return list1[l+1] - list1[l]
+      elif r == l - 1:
+        return list1[l] - list1[r]
       if cntl + (l + 1) * (list1[l+1] - list1[l]) > k and cntr + (len(list1)-r) * (list1[r] - list1[r-1]) > k:
         break
     return list1[r] - list1[l]
@@ -225,7 +226,7 @@ given k and list1
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzOTA4MTI2LDE0OTE0NzkzOTksNTk1MT
-IyODAzLDEyNjMxOTQyMDQsMzIwNDIzODA4LC0xMTMyMjU5MDEs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU3MTE0MjAwOSwxNDkxNDc5Mzk5LDU5NT
+EyMjgwMywxMjYzMTk0MjA0LDMyMDQyMzgwOCwtMTEzMjI1OTAx
+LDczMDk5ODExNl19
 -->
