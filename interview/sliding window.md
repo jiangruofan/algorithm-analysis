@@ -209,9 +209,13 @@ given k and list1
         l += 1
       if l == r:
         return list1[r] - list1[r-1]
-      while l < r - 1 and cntr <= cntl and cntr + (len(list1)-r) * (list1[r] - list1[r-1]) <= k:
+      elif l == r + 1:
+        return list1[l] - list1[r]
+      while cntr <= cntl and cntr + (len(list1)-r) * (list1[r] - list1[r-1]) <= k:
         cntr += (len(list1)-r) * (list1[r] - list1[r-1])
         r -= 1
+      if l == r:
+        return list1[]
       if l == r - 1:
         break
       if cntl + (l + 1) * (list1[l+1] - list1[l]) > k and cntr + (len(list1)-r) * (list1[r] - list1[r-1]) > k:
@@ -221,7 +225,7 @@ given k and list1
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDk5MTQ1MiwxNDkxNDc5Mzk5LDU5NT
-EyMjgwMywxMjYzMTk0MjA0LDMyMDQyMzgwOCwtMTEzMjI1OTAx
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODkzOTA4MTI2LDE0OTE0NzkzOTksNTk1MT
+IyODAzLDEyNjMxOTQyMDQsMzIwNDIzODA4LC0xMTMyMjU5MDEs
+NzMwOTk4MTE2XX0=
 -->
