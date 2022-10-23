@@ -189,11 +189,11 @@ Input contains only two integers, the value of N and K.
 1 <= N <= 10000  
 1 <= K <= min(N!,100000000)
 
-# Output
+Output
 
 Print the Kth permutation in form of a string. i. e don't print spaces between two numbers.
 
-# Example
+Example
 
 Sample Input:-  
 3 5
@@ -201,7 +201,7 @@ Sample Input:-
 Sample Output:-  
 312
 
-# Explanation:-
+Explanation:-
 
 All permutations of length 3 are:-  
 123  
@@ -211,18 +211,20 @@ All permutations of length 3 are:-
 312  
 321
 
-# Sample Input:-
+Sample Input:-
 
 11 2
 
-# Sample Output:-
+Sample Output:-
 
 1234567891110
+
+------
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzI0NTQxMywtNTE1OTE0ODQzLDEyNT
-U0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYzMTUzOCw3MTA1MTAz
-NjgsLTE3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NT
+Q0MDkyNCwtMTMwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2
+OCwtMTc3NjA2Mjk3MV19
 -->
