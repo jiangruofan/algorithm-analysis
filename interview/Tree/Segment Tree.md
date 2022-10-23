@@ -184,7 +184,7 @@ Your task is to find the Kth smallest permutation when all possible permutations
 Input  
 Input contains only two integers, the value of N and K.
 
-# Constraints:-
+Constraints:
 
 1 <= N <= 10000  
 1 <= K <= min(N!,100000000)
@@ -224,7 +224,7 @@ Sample Output:-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NT
-Q0MDkyNCwtMTMwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2
-OCwtMTc3NjA2Mjk3MV19
+eyJoaXN0b3J5IjpbOTA3MDI1MDY2LDI5NjI3NDg0NiwtNTE1OT
+E0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYzMTUz
+OCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
 -->
