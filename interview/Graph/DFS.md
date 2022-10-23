@@ -521,21 +521,22 @@ total = [] #表示所有的需要经过
 
  然后就是求连接total这些节点的最短路径加起来乘2
  再次使用dfs 
- sum1 = 0
- def dfs(node):
-   if not node:
-     return 0
-   res = []
-   for child in node.children:
-     x = dfs(child)
-     if x != 0:
-       res.append(x)
-   if not res and not node.val:
-     return 0
-   if len(res) == 1 and not node.val:
-     return res[0] + 1
-   sum1 += sum(res)
-   return 1
+
+     sum1 = 0
+     def dfs(node):
+       if not node:
+         return 0
+       res = []
+       for child in node.children:
+         x = dfs(child)
+         if x != 0:
+           res.append(x)
+       if not res and not node.val:
+         return 0
+       if len(res) == 1 and not node.val:
+         return res[0] + 1
+       sum1 += sum(res)
+       return 1
 
 ------
 
@@ -601,10 +602,10 @@ Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NDYzNzYzLC0xMTY2MTEwNzQxLC01Mj
-E2NjAwNCwxMDkzNzk3NjQ2LC0zMjYxNzA1MTgsMzA2ODY3NzAx
-LDEwMTkxODk2NTYsLTM5ODUwMDcwLDk2NDg4ODQxOSwxMTU1MT
-E2NDg4LC0xNjY0MTg3MDUsLTE3MTU4ODE0NCwzODk0Nzc5MzYs
-LTQ0NzQzMTgwMSw5ODg5MTA1OCwtMTY4NzA5NTY5OCwtMTIyNz
-YzMjYwMCwxMDQwOTAwMDY3XX0=
+eyJoaXN0b3J5IjpbMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNT
+IxNjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2Nzcw
+MSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NT
+ExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2
+LC00NDc0MzE4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMj
+c2MzI2MDAsMTA0MDkwMDA2N119
 -->
