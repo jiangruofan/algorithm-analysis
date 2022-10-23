@@ -204,9 +204,10 @@ given k and list1
     l, r = 0, len(list1) - 1
     cntl = cntr = 0
     while 1:
-      while l < r - 1 and cntl <= cntr and cntl + (l + 1) * (list1[l+1] - list1[l]) <= k:
+      while cntl <= cntr and cntl + (l + 1) * (list1[l+1] - list1[l]) <= k:
         cntl += (l + 1) * (list1[l+1] - list1[l])
         l += 1
+      
       while l < r - 1 and cntr <= cntl and cntr + (len(list1)-r) * (list1[r] - list1[r-1]) <= k:
         cntr += (len(list1)-r) * (list1[r] - list1[r-1])
         r -= 1
@@ -219,7 +220,7 @@ given k and list1
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTQ3OTM5OSw1OTUxMjI4MDMsMTI2Mz
-E5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNjMwMDQyMTgsMTQ5MTQ3OTM5OSw1OT
+UxMjI4MDMsMTI2MzE5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkw
+MSw3MzA5OTgxMTZdfQ==
 -->
