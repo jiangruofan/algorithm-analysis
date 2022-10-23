@@ -178,11 +178,51 @@ output = aab (after reordering)
 
 [Zomato OA, pls help](https://leetcode.com/discuss/interview-question/2731592/Zomato-OA-pls-help)
 
+For a number N we have N! unique permutations. A permutation is a sequence of integers from 1 to N of length N containing each number exactly once.  
+For a positive integer X, X! = 1 * 2 * 3  _..._  X-1 * X  
+Your task is to find the Kth smallest permutation when all possible permutations of size N are arranged in sorted order.  
+Input  
+Input contains only two integers, the value of N and K.
+
+# Constraints:-
+
+1 <= N <= 10000  
+1 <= K <= min(N!,100000000)
+
+# Output
+
+Print the Kth permutation in form of a string. i. e don't print spaces between two numbers.
+
+# Example
+
+Sample Input:-  
+3 5
+
+Sample Output:-  
+312
+
+# Explanation:-
+
+All permutations of length 3 are:-  
+123  
+132  
+213  
+231  
+312  
+321
+
+# Sample Input:-
+
+11 2
+
+# Sample Output:-
+
+1234567891110
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMz
-AxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYy
-OTcxXX0=
+eyJoaXN0b3J5IjpbMTQ5MzI0NTQxMywtNTE1OTE0ODQzLDEyNT
+U0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYzMTUzOCw3MTA1MTAz
+NjgsLTE3NzYwNjI5NzFdfQ==
 -->
