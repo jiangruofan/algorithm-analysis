@@ -222,11 +222,13 @@ given k and list1
       if cntl + (l + 1) * (list1[l+1] - list1[l]) > k and cntr + (len(list1)-r) * (list1[r] - list1[r-1]) > k:
         break
     return list1[r] - list1[l]
+
+------
       
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTE0MjAwOSwxNDkxNDc5Mzk5LDU5NT
-EyMjgwMywxMjYzMTk0MjA0LDMyMDQyMzgwOCwtMTEzMjI1OTAx
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDgwMDk1NTQxLDE0OTE0NzkzOTksNTk1MT
+IyODAzLDEyNjMxOTQyMDQsMzIwNDIzODA4LC0xMTMyMjU5MDEs
+NzMwOTk4MTE2XX0=
 -->
