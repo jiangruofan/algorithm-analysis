@@ -203,9 +203,10 @@ given k and list1
 l, r = 0, len(list1) - 1
 cntl = cntr = 0
 while 1:
-  while l < r - 1 and cntl <= cntr and cntl + (l + 1) * 
+  while l < r - 1 and cntl <= cntr and cntl + (l + 1) * (list1[l+1] - list1[l]) <= k:
+    cntl 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NTcxNjY0LDU5NTEyMjgwMywxMjYzMT
-k0MjA0LDMyMDQyMzgwOCwtMTEzMjI1OTAxLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbMTI0NDQ2NjYwMyw1OTUxMjI4MDMsMTI2Mz
+E5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OTgxMTZd
+fQ==
 -->
