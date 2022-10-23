@@ -76,7 +76,17 @@ Given a binary string  `s`  that contains only  `"0"`  and  `"1"`. You are also 
 答案 使用 (l, r) 表示全部为0的区间的左端点和右端点 注意端点的处理即可
 
 -----
+
+[Unicorn Startup Senior SWE Onsite](https://leetcode.com/discuss/interview-question/2730654/Unicorn-Startup-Senior-SWE-Onsite)
+
+Problem 1:  
+Write a function that takes a string and outputs whether the string contains valid parentheses
+
+Problem 2:  
+Write a function that takes a string, you can assume that the string already contains valid parentheses, and we want to return the maximum depth of parentheses in the string.
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzExMjQwNTYsLTE2MTk2MzQ4MjMsNT
-kwMzA4OTk3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTI3MDE3MDIwLC0xNDcxMTI0MDU2LC0xNj
+E5NjM0ODIzLDU5MDMwODk5Nyw3MzA5OTgxMTZdfQ==
 -->
