@@ -203,10 +203,9 @@ given k and list1
 l, r = 0, len(list1) - 1
 cntl = cntr = 0
 while 1:
-  while l < r + 1 and cntl <= cntr and cntl + 
-  
+  while l < r - 1 and cntl <= cntr and cntl + (l + 1) * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjU1MjM5Myw1OTUxMjI4MDMsMTI2Mz
-E5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbNDE1NTcxNjY0LDU5NTEyMjgwMywxMjYzMT
+k0MjA0LDMyMDQyMzgwOCwtMTEzMjI1OTAxLDczMDk5ODExNl19
+
 -->
