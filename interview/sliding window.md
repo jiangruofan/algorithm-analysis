@@ -199,8 +199,12 @@ The only distinct numbers are 1, 3, 4, 5, 6, 7, 8, 9, 10, 18 and 21. So the answ
 ![image](https://assets.leetcode.com/users/images/f8b0f336-efa4-4b19-9163-eda3436eb372_1666499390.9713988.jpeg)
 ![image](https://assets.leetcode.com/users/images/2b638a44-fe8b-44aa-82a4-86e4c23fe46b_1666499408.7006721.jpeg)
 
+given k and list1
 
+while 1:
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MTIyODAzLDEyNjMxOTQyMDQsMzIwND
-IzODA4LC0xMTMyMjU5MDEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTkzNDMxOTM5MSw1OTUxMjI4MDMsMTI2Mz
+E5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OTgxMTZd
+fQ==
 -->
