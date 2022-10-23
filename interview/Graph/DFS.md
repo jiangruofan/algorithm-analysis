@@ -587,16 +587,21 @@ Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R
 答案 简单dfs+backtracking即可 需要使用seen记录访问过的节点
 
 ----
+
+[Tough Question OA India Infosys (Harder than Amazon)](https://leetcode.com/discuss/interview-question/2731930/Tough-Question-OA-India-Infosys-%28Harder-than-Amazon%29)
+
+![image](https://assets.leetcode.com/users/images/008bd7f1-53d2-4d9c-9d38-1d68597bf641_1666434350.8451607.jpeg)
+![image](https://assets.leetcode.com/users/images/ab66eaf2-02c1-4679-8b2c-0ee21cd324cb_1666434418.429493.jpeg)
   
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOT
-M3OTc2NDYsLTMyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1
-NiwtMzk4NTAwNzAsOTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2Nj
-QxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAx
-LDk4ODkxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwND
-A5MDAwNjddfQ==
+eyJoaXN0b3J5IjpbMTUwNDAxMTkzNSwtMTE2NjExMDc0MSwtNT
+IxNjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2Nzcw
+MSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NT
+ExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2
+LC00NDc0MzE4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMj
+c2MzI2MDAsMTA0MDkwMDA2N119
 -->
