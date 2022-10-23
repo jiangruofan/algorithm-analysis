@@ -207,9 +207,10 @@ given k and list1
       while l < r - 1 and cntl <= cntr and cntl + (l + 1) * (list1[l+1] - list1[l]) <= k:
         cntl += (l + 1) * (list1[l+1] - list1[l])
         
+        
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzU1MzE1Niw1OTUxMjI4MDMsMTI2Mz
-E5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTE2MjgwMTk5MjYsNTk1MTIyODAzLDEyNj
+MxOTQyMDQsMzIwNDIzODA4LC0xMTMyMjU5MDEsNzMwOTk4MTE2
+XX0=
 -->
