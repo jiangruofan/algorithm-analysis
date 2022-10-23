@@ -200,11 +200,13 @@ The only distinct numbers are 1, 3, 4, 5, 6, 7, 8, 9, 10, 18 and 21. So the answ
 ![image](https://assets.leetcode.com/users/images/2b638a44-fe8b-44aa-82a4-86e4c23fe46b_1666499408.7006721.jpeg)
 
 given k and list1
-
+l, r = 0, len(list1) - 1
+cl = cr = 0
 while 1:
   
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDMxOTM5MSw1OTUxMjI4MDMsMTI2Mz
+eyJoaXN0b3J5IjpbMTgzNTI3MzU2Nyw1OTUxMjI4MDMsMTI2Mz
 E5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OTgxMTZd
 fQ==
 -->
