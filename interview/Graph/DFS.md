@@ -592,16 +592,19 @@ Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R
 
 ![image](https://assets.leetcode.com/users/images/008bd7f1-53d2-4d9c-9d38-1d68597bf641_1666434350.8451607.jpeg)
 ![image](https://assets.leetcode.com/users/images/ab66eaf2-02c1-4679-8b2c-0ee21cd324cb_1666434418.429493.jpeg)
+![image](https://assets.leetcode.com/users/images/fc65b739-7263-410a-8e80-e069325d12cc_1666434424.779617.jpeg)
+
+---
   
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDAxMTkzNSwtMTE2NjExMDc0MSwtNT
-IxNjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2Nzcw
-MSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NT
-ExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2
-LC00NDc0MzE4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMj
-c2MzI2MDAsMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbNzI4NDYzNzYzLC0xMTY2MTEwNzQxLC01Mj
+E2NjAwNCwxMDkzNzk3NjQ2LC0zMjYxNzA1MTgsMzA2ODY3NzAx
+LDEwMTkxODk2NTYsLTM5ODUwMDcwLDk2NDg4ODQxOSwxMTU1MT
+E2NDg4LC0xNjY0MTg3MDUsLTE3MTU4ODE0NCwzODk0Nzc5MzYs
+LTQ0NzQzMTgwMSw5ODg5MTA1OCwtMTY4NzA5NTY5OCwtMTIyNz
+YzMjYwMCwxMDQwOTAwMDY3XX0=
 -->
