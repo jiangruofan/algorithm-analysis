@@ -508,7 +508,7 @@ total = [] #表示所有的需要经过
         else:
           return(-1, 0)
       elif node.val == 1:
-        if x1 == -1 or x2 == -1:
+        if x1 == -1 and x2 == -1:
           return (-1, 1)
         else:
           return (0 if x1 == 1 or x2 == 1 else -1, -1)
@@ -602,10 +602,10 @@ Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNT
-IxNjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2Nzcw
-MSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NT
-ExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2
-LC00NDc0MzE4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMj
-c2MzI2MDAsMTA0MDkwMDA2N119
+eyJoaXN0b3J5IjpbLTE5MTYzNzkzOTMsMTQxMjQxNzQ3MywtMT
+E2NjExMDc0MSwtNTIxNjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcw
+NTE4LDMwNjg2NzcwMSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5Nj
+Q4ODg0MTksMTE1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgx
+NDQsMzg5NDc3OTM2LC00NDc0MzE4MDEsOTg4OTEwNTgsLTE2OD
+cwOTU2OTgsLTEyMjc2MzI2MDAsMTA0MDkwMDA2N119
 -->
