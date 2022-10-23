@@ -193,7 +193,9 @@ The only distinct numbers are 1, 3, 4, 5, 6, 7, 8, 9, 10, 18 and 21. So the answ
 先预处理二维前缀和 然后就是滑动窗口了 每滑动一次 那么新增的unique数字就保存在y中 同时移除不是unique的数字 如果当前窗口等于最大sum 那么就把y中的数字合并到x中
 
 ------
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNDIzODA4LC0xMTMyMjU5MDEsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTI2MzE5NDIwNCwzMjA0MjM4MDgsLTExMz
+IyNTkwMSw3MzA5OTgxMTZdfQ==
 -->
