@@ -145,8 +145,10 @@ Explination:
 So the group can be person 1, person 2, and person 3. Can't add more people to this because person 2 won't go with more than 2 people.
 ```
 
-对x按照从小到大排序 二分答案 给定人数 判断是否可行 人数必须大于最大的x并且小于最小的y 那么把所有符合条件的x的y放入bit 然后判断大于等于人数的y是否
+对x按照从小到大排序 二分答案 给定人数 判断是否可行 人数必须大于最大的x并且小于最小的y 那么把所有符合条件的x的y放入bit 然后判断大于等于人数的y是否多于人数 如果多于那么就满足条件
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODYwNjAwNTcsNTUxNTc5MzI1LDE3Mj
-E0OTY3MjBdfQ==
+eyJoaXN0b3J5IjpbNDE5MzAwMzcxLDU1MTU3OTMyNSwxNzIxND
+k2NzIwXX0=
 -->
