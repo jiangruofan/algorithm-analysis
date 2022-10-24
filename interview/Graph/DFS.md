@@ -595,7 +595,7 @@ Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R
 ![image](https://assets.leetcode.com/users/images/ab66eaf2-02c1-4679-8b2c-0ee21cd324cb_1666434418.429493.jpeg)
 ![image](https://assets.leetcode.com/users/images/fc65b739-7263-410a-8e80-e069325d12cc_1666434424.779617.jpeg)
 
-先dfs
+先dfs计算出总路径 x 然后bfs计算出起点到终点的距离 y 最后x-y即可
 
 ---
   
@@ -604,11 +604,11 @@ Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MT
-I0MTc0NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2
-NDYsLTMyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMz
-k4NTAwNzAsOTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcw
-NSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAxLDk4OD
-kxMDU4LC0xNjg3MDk1Njk4LC0xMjI3NjMyNjAwLDEwNDA5MDAw
-NjddfQ==
+eyJoaXN0b3J5IjpbMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MT
+YzNzkzOTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYw
+MDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2NzcwMSwxMD
+E5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NTExNjQ4
+OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00ND
+c0MzE4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2
+MDBdfQ==
 -->
