@@ -104,7 +104,14 @@ Rejected due to the reason of "Efficacy", trying to learn from mistakes and hope
 答案: bfs即可 
 
 -----
+
+[Hard OA question](https://leetcode.com/discuss/interview-question/2740665/Hard-OA-question)
+
+![image](https://assets.leetcode.com/users/images/b7c9aa97-c073-4c73-8767-e81e057f97e9_1666668488.8197927.png)
+
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzEwNjI1NiwxMzE3MzI5NDcxLC0xMz
-kyMDk3MDI3LDM5Nzg3MTIzNiwxMTUwMzkxNDg2XX0=
+eyJoaXN0b3J5IjpbOTQ3ODM2NTIyLC02ODcxMDYyNTYsMTMxNz
+MyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEyMzYsMTE1MDM5MTQ4
+Nl19
 -->
