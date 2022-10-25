@@ -155,7 +155,51 @@ any approaches? x and y can go till 10^9 and n till 10^5
 二分是正确做法 刚开始想成线段树了 线段树是基于贪心思路 每次都是把当前的最大值最为major 线段树就是复杂点 逻辑应该也是正确的
 
 ------
+
+[Cohesity OA | Minimize the edge weight](https://leetcode.com/discuss/interview-question/2738489/Cohesity-OA-or-Minimize-the-edge-weight)
+
+You are given a weighted tree of  **A**  nodes. All the nodes have a node value assigned to it given by the array  **C**.  
+_The ORSum is the OR of all the nodes of a connected component of a graph_.  
+Now, you can remove any edges of the tree. The ORSum of each component must be  **at least B**.  
+What is the  **minimum possible value of maximum edge weight that is not removed**.  
+**Return 0**  if you can remove all the edges.
+
+Given a 2D integer array D of size (A-1)*3 that represents the edges of the tree. The ith edge connects D[i][0] with D[i][1] and has a weight of D[i][2].
+
+**Constraints**  
+1 <= A <= 10^5  
+1 <= B <= 10^6  
+1 <= C[i] <= 10^6  
+1 <= D[i][0], D[i][1] <= A  
+D[i][0] != D[i][1]  
+1 <= D[i][2] <= 10^6
+
+_For Example_:  
+**Input**:  
+A = 4  
+B = 3  
+C = [3,1,2,5]  **(1-based indexing)**  
+D = [[1, 2, 2],[1,3,4],[3,4,3]]
+
+**Output**:  
+3
+
+**Explanation**:  
+Remove the edge between the nodes 1 and 3.  
+So, now there will be two seperate components: [1,2,2] and [3,4,3]
+
+ORSum of component 1([1,2,2]) is: C[1] OR C[2] = 3 or 1 = 3 >=B  
+ORSum of componet 2([3,4,3]) is: C[3] OR C[4] = 2 or 5 = 7 >=B
+
+So, maximum of all edge weight = 3  
+Hence, answer is 3
+
+Here the goal is to minimise the maximum edge weight after removing all valid edges(valid edges: After removing the edge, the components ORSum must be atleast B).
+
+Any approach to solve this in a linear time complexity? (Assumed linear time because of constraints)
+
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDAwMTk4NSw2NTY5MDkxMTUsLTkwMD
-g4Mzc2NywxNTQ1MjA3NDMxXX0=
+eyJoaXN0b3J5IjpbLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MD
+A4ODM3NjcsMTU0NTIwNzQzMV19
 -->
