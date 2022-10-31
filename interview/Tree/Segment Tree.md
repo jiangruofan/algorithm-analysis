@@ -224,10 +224,15 @@ Sample Output:-
 [Sprinklr | OA | Platform Support Engineer | 2022](https://leetcode.com/discuss/interview-question/2743662/Sprinklr-or-OA-or-Platform-Support-Engineer-or-2022)
 
 ![image](https://assets.leetcode.com/users/images/7c9cc467-b0c2-4641-b75b-5043df664f1c_1666720741.0871403.png)
+![image](https://assets.leetcode.com/users/images/667d5ff9-313f-4c9f-825d-734479335a58_1666720741.0422642.png)
+![image](https://assets.leetcode.com/users/images/8f35c9d3-394d-4fe3-b461-f465b37678f4_1666720741.0380628.png)
 
+单体修改 区间查询 + 二分
+
+-----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4NTE1MzAsOTA3MDI1MDY2LDI5NjI3ND
-g0NiwtNTE1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUs
-MjA0MTYzMTUzOCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbLTgwMDMzNDY3LDkwNzAyNTA2NiwyOTYyNz
+Q4NDYsLTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMzAxNjA2NDQ1
+LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
 -->
