@@ -201,8 +201,11 @@ If you collect from jar[y] you can not select from jar[y-1] or jar[y+1]
 
 ----
 
+[Expedia OA Summer 2023 Software Engineering Intern - Hard?](https://leetcode.com/discuss/interview-question/2744346/Expedia-OA-Summer-2023-Software-Engineering-Intern-Hard)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NDE5Mjc4LDc5MTIzNjc3MCwxMDIyMj
-A4MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3LC0xNDYyMzM0OTQ0
-LC05NDg4NDUyODcsMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbLTEwMjAzNjY0MTMsODE1NDE5Mjc4LDc5MT
+IzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3
+LC0xNDYyMzM0OTQ0LC05NDg4NDUyODcsMjA4NjUzMDEyNywzND
+E3Mzk0NzFdfQ==
 -->
