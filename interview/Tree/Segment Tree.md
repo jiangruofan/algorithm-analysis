@@ -234,10 +234,13 @@ Sample Output:-
 oppo oa
 
 given a string，求出每一个prefix的最长子回文串 string的长度为1e5
-使用马拉车算法 然后xian duan
+使用马拉车算法 然后线段🌲更新区间最大值 最后计算每一个prefix的最大值
+时间复杂度是 nlogn
+
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjQ4MzgxNiwtOTk5MDUyODk2LDE2MD
+eyJoaXN0b3J5IjpbMTM1ODQyMDk0NCwtOTk5MDUyODk2LDE2MD
 QwNTI4OTcsLTgwMDMzNDY3LDkwNzAyNTA2NiwyOTYyNzQ4NDYs
 LTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMzAxNjA2NDQ1LDIwND
 E2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
