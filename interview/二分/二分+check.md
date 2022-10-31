@@ -216,9 +216,9 @@ You have a set of jobs J = [J_1..J_n]. Each job takes an arbitrary number of min
 
 Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we have a maximum wallclock time budget T, that is the maximum allowable elapsed time since the first job started executing. Write a function to give the minium number of nodes needed to executre these n jobs within time budget T.
 
-check的时候可以使用dfs回溯
+check的时候
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDg0NTYwNiwxOTcyNTQ4NjM5LC0xMj
-UzNDk2Njc2LDY1NjkwOTExNSwtOTAwODgzNzY3LDE1NDUyMDc0
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTE1NjQ4OTcxNzMsMTk3MjU0ODYzOSwtMT
+I1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3
+NDMxXX0=
 -->
