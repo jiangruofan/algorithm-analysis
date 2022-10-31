@@ -488,7 +488,13 @@ Result:
 -------
 
 lucid oa 被删除了
-题目是 给定一个🌲 一些节点的值为1代表硬币 一些节点的值为0 要求一条最短的路径 使得可以获得所有的硬币 路径的起始点任意 但是起点和终点必须一样 获得硬币的方式为 如果你在一个节点 那么可以获取路径最大为2内的所有节点上的硬币 
+题目是 给定一个🌲 一些节点的值为1代表硬币 一些节点的值为0 要求一条最短的路径 使得可以获得所有的硬币 路径的起始点任意 但是起点和终点必须一样 获得硬币的方式为 如果你在一个节点 那么可以获取路径最大为2内的所有节点上的硬币
+
+https://leetcode.com/discuss/interview-question/2751188/Lucid-OA-new-grad-SWE 
+
+![image](https://assets.leetcode.com/users/images/1ef8a0eb-dcda-4762-bc28-8bc7563bfa6c_1666935515.1989486.png)
+![image](https://assets.leetcode.com/users/images/752b7014-d4ea-4448-9c31-3670f5496535_1666935514.7778208.png)
+![image](https://assets.leetcode.com/users/images/90ae341e-b5c4-4eec-90e7-a51ee9ed3426_1666935514.902003.png)
 
 答案: 首先先计算经过哪些节点一定可以获得所有的硬币 类似于监控二叉树 不过这里的路径是2 
 
@@ -633,11 +639,11 @@ Path length = 2 (1->0->2)
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLDE5NT
-AzMjAxOCwtMTkxNjM3OTM5MywxNDEyNDE3NDczLC0xMTY2MTEw
-NzQxLC01MjE2NjAwNCwxMDkzNzk3NjQ2LC0zMjYxNzA1MTgsMz
-A2ODY3NzAxLDEwMTkxODk2NTYsLTM5ODUwMDcwLDk2NDg4ODQx
-OSwxMTU1MTE2NDg4LC0xNjY0MTg3MDUsLTE3MTU4ODE0NCwzOD
-k0Nzc5MzYsLTQ0NzQzMTgwMSw5ODg5MTA1OCwtMTY4NzA5NTY5
-OF19
+eyJoaXN0b3J5IjpbLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1OD
+k2NDcwNDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0
+NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLT
+MyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAw
+NzAsOTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcwNSwtMT
+cxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAxLDk4ODkxMDU4
+XX0=
 -->
