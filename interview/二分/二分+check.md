@@ -218,9 +218,11 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 
 不用二分+check 贪心思想即可 对[m_1..m_n] 从大到小排序 然后从大的开始放 dfs即可
 
+----
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI0OTQ5MjEsMTk3MjU0ODYzOSwtMT
+eyJoaXN0b3J5IjpbLTE0OTY4MDgxMDksMTk3MjU0ODYzOSwtMT
 I1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3
 NDMxXX0=
 -->
