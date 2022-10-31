@@ -221,10 +221,13 @@ Sample Output:-
 
 ------
 
+[Sprinklr | OA | Platform Support Engineer | 2022](https://leetcode.com/discuss/interview-question/2743662/Sprinklr-or-OA-or-Platform-Support-Engineer-or-2022)
+
+![image](https://assets.leetcode.com/users/images/7c9cc467-b0c2-4641-b75b-5043df664f1c_1666720741.0871403.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MDI1MDY2LDI5NjI3NDg0NiwtNTE1OT
-E0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYzMTUz
-OCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbNTg4NTE1MzAsOTA3MDI1MDY2LDI5NjI3ND
+g0NiwtNTE1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUs
+MjA0MTYzMTUzOCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
 -->
