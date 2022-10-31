@@ -158,8 +158,8 @@ Constraints->
 
 ------
 
-
+[enter link description here](https://leetcode.com/discuss/interview-question/1939372/Microsoft-or-OA-or-April-2022-or-Missing-connections-in-binary-tree)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNTE4ODk1LC00NDIyNTQ3NjUsNjgzNz
-c5NDM5LC03Mzk3NDE3NDRdfQ==
+eyJoaXN0b3J5IjpbLTUyNzEwMzU4OCwtNDQyMjU0NzY1LDY4Mz
+c3OTQzOSwtNzM5NzQxNzQ0XX0=
 -->
