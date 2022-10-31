@@ -239,9 +239,32 @@ The final answer is max(dp[N][0], dp[N][1])
 
 ------
 
+[Microsoft - Job Max Profit](https://leetcode.com/discuss/interview-question/1784110/Microsoft-Job-Max-Profit)
+
+I was asked this question during virtual onsite for SDE 1/2 hiring event - not sure what to make of it. Is there an existing question for this on LC?
+
+Input:  
+List of job ID's ("a", "b", "c", "d" etc)  
+List of job duration (1, 2, 4, 6, etc)  
+List of profit you get for scheduling that job (2, 4, 6, 10, etc)  
+Duration of time you have to schedule the jobs, (e.g. 8)
+
+What is the maximum amount of profit you can make from scheduling jobs?  
+Each job can only be scheduled at most once.  
+My intuition was to sort the jobs by how much profit-per-hour they make and then do some kind of backtracking or DP, but I couldn't wrap my head around it. I think that backtracking would work if you have some way to know at what point you will not find a more profitable job combination by continuing the backtracking, but not sure if that is the right line of thinking.  
+Anybody have any ideas?  
+Thanks
+
+Edit:  
+Turns out this is called a '0-1 knapsack problem'.  
+Thanks to all who commented.
+
+背包问题
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NDg3NTc4LDgxNTQxOTI3OCw3OTEyMz
-Y3NzAsMTAyMjIwODM1NCwtOTEwMzUyODg4LDYzNjE2MzQwNywt
-MTQ2MjMzNDk0NCwtOTQ4ODQ1Mjg3LDIwODY1MzAxMjcsMzQxNz
-M5NDcxXX0=
+eyJoaXN0b3J5IjpbMTY5MDA0MjkzOCw3Mjg0ODc1NzgsODE1ND
+E5Mjc4LDc5MTIzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4ODgs
+NjM2MTYzNDA3LC0xNDYyMzM0OTQ0LC05NDg4NDUyODcsMjA4Nj
+UzMDEyNywzNDE3Mzk0NzFdfQ==
 -->
