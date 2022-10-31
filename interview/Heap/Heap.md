@@ -358,6 +358,8 @@ You cannnot split by a space  and word count not length of string count should b
 
 [Microsoft OA questions](https://leetcode.com/discuss/interview-question/2237562/Microsoft-OA-questions)
 
+https://leetcode.com/discuss/interview-question/1768686/Microsoft-OA-Codility
+
 Given an array with revenue and expenses of a company (revenues are positive items in array, expenses are negative items) you can relocate expenses to the end of the array to make sure that in each point in time, the sum does not become negative. Return min number of relocations needed
 
 每次当出现负数时 就把之前的最小的负数放到最后面
@@ -387,5 +389,6 @@ For the last channel, calculated the median of the remaining packets and added t
 
 --------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjE3MTYwNiwxMDM0ODgzNTAzXX0=
+eyJoaXN0b3J5IjpbLTcxNjI1NTUxMiwxMDc2MTcxNjA2LDEwMz
+Q4ODM1MDNdfQ==
 -->
