@@ -199,7 +199,14 @@ Here the goal is to minimise the maximum edge weight after removing all valid ed
 Any approach to solve this in a linear time complexity? (Assumed linear time because of constraints)
 
 ------
+
+[Lucid OA](https://leetcode.com/discuss/interview-question/2744375/Lucid-OA)
+
+![image](https://assets.leetcode.com/users/images/3d36df5d-68bd-4cd8-b9c3-908868f7c03b_1666748648.759837.jpeg)
+![image](https://assets.leetcode.com/users/images/e18643d4-33c9-439f-957e-d0e2c5a871e3_1666748649.6874275.jpeg)
+![image](https://assets.leetcode.com/users/images/7901a325-6aee-465e-a2bc-fb92c491306a_1666748650.113328.jpeg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MD
-A4ODM3NjcsMTU0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbLTIwNjY4MDM5OTksLTEyNTM0OTY2NzYsNj
+U2OTA5MTE1LC05MDA4ODM3NjcsMTU0NTIwNzQzMV19
 -->
