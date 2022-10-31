@@ -125,8 +125,12 @@ Therefore, print 2.
 
 Input: S = “zyzyzyz”  
 Output: 5
+
+先找出最小的字母 然后对所有最小字母的index进行bfs 直到某
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODk3Nzk3Nyw5NDc4MzY1MjIsLTY4Nz
-EwNjI1NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nzg3MTIz
-NiwxMTUwMzkxNDg2XX0=
+eyJoaXN0b3J5IjpbNTk5MjgyMDc5LDk0NzgzNjUyMiwtNjg3MT
+A2MjU2LDEzMTczMjk0NzEsLTEzOTIwOTcwMjcsMzk3ODcxMjM2
+LDExNTAzOTE0ODZdfQ==
 -->
