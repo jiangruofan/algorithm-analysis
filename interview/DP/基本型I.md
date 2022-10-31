@@ -222,10 +222,10 @@ Example Consider min_length=1, max_length=3, one group=2 and zero group=1
 "000"  
 Ans- Total count = 6
 
-----
+-----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTMyNzg2Myw4MTU0MTkyNzgsNzkxMj
+eyJoaXN0b3J5IjpbMTQ5OTMyNDQyOCw4MTU0MTkyNzgsNzkxMj
 M2NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNjM0MDcs
 LTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MT
 czOTQ3MV19
