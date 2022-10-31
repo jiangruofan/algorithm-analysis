@@ -70,6 +70,8 @@ Path for stop 2: 9 -> 8 -> 5
 
 [Codility Graph Hard Question OA](https://leetcode.com/discuss/interview-question/2694254/Codility-Graph-Hard-Question-OA)
 
+https://leetcode.com/discuss/interview-question/1816811/Microsoft-OA-or-Graph-Question
+
 This was the 2nd Question in coditlty Test.  
 Can anyone provide the best Algo for this Problem.  
 I was able to slove this problem using Bfs but my code is given TLE, Because I was caluclating path from every Hospital and taking the min from them.  
@@ -111,7 +113,7 @@ Rejected due to the reason of "Efficacy", trying to learn from mistakes and hope
 
 ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3ODM2NTIyLC02ODcxMDYyNTYsMTMxNz
-MyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEyMzYsMTE1MDM5MTQ4
-Nl19
+eyJoaXN0b3J5IjpbLTE0MzMzODU5NTgsOTQ3ODM2NTIyLC02OD
+cxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEy
+MzYsMTE1MDM5MTQ4Nl19
 -->
