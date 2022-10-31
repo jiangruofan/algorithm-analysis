@@ -158,8 +158,21 @@ Constraints->
 
 ------
 
-[enter link description here](https://leetcode.com/discuss/interview-question/1939372/Microsoft-or-OA-or-April-2022-or-Missing-connections-in-binary-tree)
+[Microsoft | OA | April 2022 | Missing connections in binary tree](https://leetcode.com/discuss/interview-question/1939372/Microsoft-or-OA-or-April-2022-or-Missing-connections-in-binary-tree)
+
+You are given a binary tree with distinct positive integer values. You can transform this binary tree to a graph by adding connections between any two nodes if they are not already connected. 2 nodes are connected if either of them is a child of the other node.
+
+Your goal is to identify and enumerate the minimum number of connections that need to be drawn between the nodes of this tree so that the resulting graph fully contains the min-heap that can be formed using the value of the nodes.
+
+Write a method that will take as input an array defining the tree. The root of the tree will be at index 0, the left and the right child of the element at the index i will be 2i+1 and 2i+2 respectively. A value of -1 indicates NULL. If an index has no defined left and right child, assume NULL.
+
+The method will enumerate the connections as described above and identify the unique values that the connections must be set up for. For each of the connections, there will be 2 values denoting the ends of the connection to be built – add all of these values into an integer array sorted by the smallest value of the connection and then by larger value.
+
+![image](https://assets.leetcode.com/users/images/018ee358-3983-4c38-a70c-c20740ec6b1a_1649763993.8070078.png)
+![image](https://assets.leetcode.com/users/images/303df29f-b7e4-442d-b78c-19ce7483dffa_1649764018.3191926.png)
+
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzEwMzU4OCwtNDQyMjU0NzY1LDY4Mz
+eyJoaXN0b3J5IjpbLTUzNDAzMzM0MSwtNDQyMjU0NzY1LDY4Mz
 c3OTQzOSwtNzM5NzQxNzQ0XX0=
 -->
