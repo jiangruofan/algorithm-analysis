@@ -225,10 +225,44 @@ given k and list1
 
 ------
       
+[Microsoft | Phone | SDE 2 | Subsequence Max Product](https://leetcode.com/discuss/interview-question/1742147/Microsoft-or-Phone-or-SDE-2-or-Subsequence-Max-Product)
+
+1 hour scheduled call with senior dev on a team (MS Teams call, no video). Couple minutes of introductions, then straight to the Codility problem
+
+-   Given a large number of upto 100 digits, the objective is to find the subsequence of n digits with max product
+
+ex: num = 145623 , n = 3  
+answer would be 120, the product of 4 x 5 x 6
+
+I quickly came up with a O(n2) solution like this:
+
+```
+
+for(int i = 0; i < nums.Length - 1; i++) {
+	int product = nums[i];
+	for(int k = 1; k < n; k++) {
+		product = product * nums[k];
+	}
+}
+
+```
+
+This solution passed test cases, but then the interviewer pushed me to find a solution with faster time complexity. I mentioned that a sliding window could be used here instead, but through my anxiety it took me longer than expected to type out a sliding window solution. Eventually got it all working, but had lots of issues with zeroes in the num string.
+
+注意对于0的特殊处理
+
+-
+
+
+
+
+
+
+
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMDk1NTQxLDE0OTE0NzkzOTksNTk1MT
-IyODAzLDEyNjMxOTQyMDQsMzIwNDIzODA4LC0xMTMyMjU5MDEs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg0OTQwMzI5Miw0ODAwOTU1NDEsMTQ5MT
+Q3OTM5OSw1OTUxMjI4MDMsMTI2MzE5NDIwNCwzMjA0MjM4MDgs
+LTExMzIyNTkwMSw3MzA5OTgxMTZdfQ==
 -->
