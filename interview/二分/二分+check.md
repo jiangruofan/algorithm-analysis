@@ -209,7 +209,10 @@ Any approach to solve this in a linear time complexity? (Assumed linear time bec
 ![image](https://assets.leetcode.com/users/images/47b8674b-687b-404b-9a3b-04bae16e0ff7_1666748653.134939.jpeg)![image](https://assets.leetcode.com/users/images/47b8674b-687b-404b-9a3b-04bae16e0ff7_1666748653.134939.jpeg)
 
 -------
+
+[##### Microsoft | Onsite | Job Scheudling Quesiton](https://leetcode.com/discuss/interview-question/1850541/Microsoft-or-Onsite-or-Job-Scheudling-Quesiton)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjU0ODYzOSwtMTI1MzQ5NjY3Niw2NT
-Y5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3NDMxXX0=
+eyJoaXN0b3J5IjpbLTE2Njc4MTQxNzQsMTk3MjU0ODYzOSwtMT
+I1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3
+NDMxXX0=
 -->
