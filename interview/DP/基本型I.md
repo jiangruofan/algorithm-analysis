@@ -224,9 +224,24 @@ Ans- Total count = 6
 
 -----
 
+[Microsoft Interview Problem](https://leetcode.com/discuss/interview-question/1857043/Microsoft-Interview-Problem)
+
+**Given an array A of size N. Find the maximum subset-sum of elements that you can make from the given array such that for every two consecutive elements in the array, at least one of the elements is present in our subset.**  
+Input: N = 4, A[] = {1,-1,3,4}  
+Output: 8  
+Explanation: We can choose 1st, 3rd and 4th index, you can check that this is maximum possible sum.
+
+-   Can aynone please :) solve this problem using recursion + memoization?
+
+Let's say dp[i][0] denotes the maximum subset-sum in the array ending in the ith index, and the ith element is not chosen while dp[i][1] denotes the answer when the ith element is chosen.  
+So dp[i][0] = dp[i - 1][1], dp[i][1] = max(dp[i - 1][0], dp[i - 1][1]) + A[i].  
+The final answer is max(dp[N][0], dp[N][1])
+
+------
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTMyNDQyOCw4MTU0MTkyNzgsNzkxMj
-M2NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNjM0MDcs
-LTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MT
-czOTQ3MV19
+eyJoaXN0b3J5IjpbNzI4NDg3NTc4LDgxNTQxOTI3OCw3OTEyMz
+Y3NzAsMTAyMjIwODM1NCwtOTEwMzUyODg4LDYzNjE2MzQwNywt
+MTQ2MjMzNDk0NCwtOTQ4ODQ1Mjg3LDIwODY1MzAxMjcsMzQxNz
+M5NDcxXX0=
 -->
