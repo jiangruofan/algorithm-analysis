@@ -112,8 +112,21 @@ Rejected due to the reason of "Efficacy", trying to learn from mistakes and hope
 ![image](https://assets.leetcode.com/users/images/b7c9aa97-c073-4c73-8767-e81e057f97e9_1666668488.8197927.png)
 
 ------
+
+[Microsoft | SDE2 | OA | Jan 2022](https://leetcode.com/discuss/interview-question/1734444/Microsoft-or-SDE2-or-OA-or-Jan-2022)
+
+Given a string S consisting of N lowercase alphabets, the task is to find the length of the smallest unique substring in S.
+
+Input: S = “abaaba”  
+Output: 2  
+Explanation:  
+The smallest unique substring in the string S, whose occurrence is exactly 1 is “aa” . Length of this substring is 2.  
+Therefore, print 2.
+
+Input: S = “zyzyzyz”  
+Output: 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMzODU5NTgsOTQ3ODM2NTIyLC02OD
-cxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEy
-MzYsMTE1MDM5MTQ4Nl19
+eyJoaXN0b3J5IjpbLTM1ODk3Nzk3Nyw5NDc4MzY1MjIsLTY4Nz
+EwNjI1NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nzg3MTIz
+NiwxMTUwMzkxNDg2XX0=
 -->
