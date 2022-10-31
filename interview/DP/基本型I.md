@@ -203,9 +203,30 @@ If you collect from jar[y] you can not select from jar[y-1] or jar[y+1]
 
 [Expedia OA Summer 2023 Software Engineering Intern - Hard?](https://leetcode.com/discuss/interview-question/2744346/Expedia-OA-Summer-2023-Software-Engineering-Intern-Hard)
 
+HackerBit designed a game based on binary digits. You are required to find the answer to the following problem to win the game.  
+A binary string is a string consisting only of digits 0 and 1. A binary string is said to be good if:
+
+-   The digit 1 only appears in groups of size one_group, if it appears at all. For example, for one_group =2 , "011110110" satisfies this condition while "01101010" does not.
+    
+-   The digit 0 only appears in groups of size zero group, if it appears at all. For example, for zero group =3 , "11" satisfies this condition while "101010" does not. For example, for one group=2, zero_group =1 , the strings "011", "000" are good while the strings "001" and "111" are not.
+    
+
+You are given four integers min_length, max_length, one_group, and zero group. Find the number of good binary strings such that their lengths are in the range [min_length, max_length]. As the answer can be large, compute it modulo (10 ^9 +7)
+
+Example Consider min_length=1, max_length=3, one group=2 and zero group=1  
+"0"  
+"11"  
+"00"  
+"110"  
+"011"  
+"000"  
+Ans- Total count = 6
+
+----
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAzNjY0MTMsODE1NDE5Mjc4LDc5MT
-IzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3
-LC0xNDYyMzM0OTQ0LC05NDg4NDUyODcsMjA4NjUzMDEyNywzND
-E3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbMTcwMTMyNzg2Myw4MTU0MTkyNzgsNzkxMj
+M2NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNjM0MDcs
+LTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MT
+czOTQ3MV19
 -->
