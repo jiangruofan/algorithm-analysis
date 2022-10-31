@@ -599,16 +599,45 @@ Output - {1: 'R', 2: 'D', 3:'L', 4: 'R', 5: 'L', 6: 'D',7:'L'} or {1: 'D', 2: 'R
 
 ---
   
+[Microsoft | OA](https://leetcode.com/discuss/interview-question/1803811/Microsoft-or-OA)
+
+Given an n-ary tree with N nodes numbered 0..N-1. Each node is marked as 'a' or 'b'.  
+Find longest path in a tree with alternating characters.
+
+Input : parent array of size n, string tag
+
+```
+Example 1 :
+parent : [-1, 0, 1] , tag ="abb"
+       0 'a'
+	   |
+	   1 'b'
+	   |
+	   2 'b' 
+	   
+Path length = 2 (0->1)
+
+
+Example 2:
+parent : [-1, 0, 0] , tag ="abb"
+        0 'a'
+	 /     \
+   1 'b'   2'b'
+   
+Path length = 2 (1->0->2)
+```
+
+----
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MT
-YzNzkzOTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYw
-MDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2NzcwMSwxMD
-E5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NTExNjQ4
-OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3OTM2LC00ND
-c0MzE4MDEsOTg4OTEwNTgsLTE2ODcwOTU2OTgsLTEyMjc2MzI2
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLDE5NT
+AzMjAxOCwtMTkxNjM3OTM5MywxNDEyNDE3NDczLC0xMTY2MTEw
+NzQxLC01MjE2NjAwNCwxMDkzNzk3NjQ2LC0zMjYxNzA1MTgsMz
+A2ODY3NzAxLDEwMTkxODk2NTYsLTM5ODUwMDcwLDk2NDg4ODQx
+OSwxMTU1MTE2NDg4LC0xNjY0MTg3MDUsLTE3MTU4ODE0NCwzOD
+k0Nzc5MzYsLTQ0NzQzMTgwMSw5ODg5MTA1OCwtMTY4NzA5NTY5
+OF19
 -->
