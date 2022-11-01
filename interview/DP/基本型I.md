@@ -290,9 +290,18 @@ contraints- 1<n<1500
 这里的dp用字典
 
 ----
+
+[NAVI OA](https://leetcode.com/discuss/interview-question/2758884/NAVI-OA)
+
+![image](https://assets.leetcode.com/users/images/4e402497-e9bd-43e8-acdf-4198b42aeb7c_1667112870.6965601.png)
+
+先从小到大排个序 那么对于每一个元素 贪心思想 最优解一定这个元素和它前面或者后面组成一个pair
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDE5NjQ0NywxNjkwMDQyOTM4LDcyOD
-Q4NzU3OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMjIyMDgzNTQs
-LTkxMDM1Mjg4OCw2MzYxNjM0MDcsLTE0NjIzMzQ5NDQsLTk0OD
-g0NTI4NywyMDg2NTMwMTI3LDM0MTczOTQ3MV19
+eyJoaXN0b3J5IjpbLTQ5NzYwODkwMywtOTA0MTk2NDQ3LDE2OT
+AwNDI5MzgsNzI4NDg3NTc4LDgxNTQxOTI3OCw3OTEyMzY3NzAs
+MTAyMjIwODM1NCwtOTEwMzUyODg4LDYzNjE2MzQwNywtMTQ2Mj
+MzNDk0NCwtOTQ4ODQ1Mjg3LDIwODY1MzAxMjcsMzQxNzM5NDcx
+XX0=
 -->
