@@ -262,9 +262,37 @@ Thanks to all who commented.
 背包问题
 
 ----
+
+[need help(OA 2022) Gamescraft](https://leetcode.com/discuss/interview-question/2754597/need-help%28OA-2022%29-Gamescraft)
+
+A student is asked to assign numbers to his classmates represented in an array arr. The arrangement of numbers is good if the absolute difference between any two consecutive students is less than or equal to 1. For example, the array [1, 2, 1] is good, while [2, 1, 3] is not because abs(1-3)= 2, which is greater than 1.
+
+An array arr of n integers has some missing elements denoted by arr[i]=0. Find the number of ways to replace some or all of the missing elements with arbitrary integers such that the resulting array is good. Since the answer can be large, compute it modulo (10^9+7)  
+.Example
+
+Consider n = 3, arr = [0, 0, 1].
+
+There are 9 ways to replace Os to make the array good.
+
+arr = [0, 0, 1]  
+arr = [1,0,1]  
+arr=[-1,0,1]  
+ar-[0, 1, 1]  
+arr=[1, 1, 1]  
+arr[2, 1, 1]  
+arr-[1,21]  
+arr=[2, 2, 1]  
+arr=[3, 2, 1]
+
+In each of these arrays, the absolute difference between each pair of consecutive elements is less than or equal to 1.  
+contraints- 1<n<1500
+
+这里的dp用字典
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDA0MjkzOCw3Mjg0ODc1NzgsODE1ND
-E5Mjc4LDc5MTIzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4ODgs
-NjM2MTYzNDA3LC0xNDYyMzM0OTQ0LC05NDg4NDUyODcsMjA4Nj
-UzMDEyNywzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbLTkwNDE5NjQ0NywxNjkwMDQyOTM4LDcyOD
+Q4NzU3OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMjIyMDgzNTQs
+LTkxMDM1Mjg4OCw2MzYxNjM0MDcsLTE0NjIzMzQ5NDQsLTk0OD
+g0NTI4NywyMDg2NTMwMTI3LDM0MTczOTQ3MV19
 -->
