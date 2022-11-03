@@ -634,16 +634,25 @@ Path length = 2 (1->0->2)
 ```
 
 ----
+
+[Google| telephonic round](https://leetcode.com/discuss/interview-question/2771105/Googleor-telephonic-round)
+
+recently, one of my friend gave google interview and the question goes
+
+Given a hierarchy of managers, as a tree, with every mode value is the salary of the manager, find out the number of managers underpaid.  
+How are they underpaid? if salary of manager is lesser than the average of its children nodes salary.
+
+I understand the problem, just dont know how to optimally aproach it... any solutions please?
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1OD
-k2NDcwNDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0
-NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLT
-MyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAw
-NzAsOTY0ODg4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcwNSwtMT
-cxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMxODAxLDk4ODkxMDU4
-XX0=
+eyJoaXN0b3J5IjpbLTE4MjU0NjA0MDIsLTg3NDc1MDI0NSwxMD
+cxNTc4ODQ4LDE1ODk2NDcwNDEsMTk1MDMyMDE4LC0xOTE2Mzc5
+MzkzLDE0MTI0MTc0NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LD
+EwOTM3OTc2NDYsLTMyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4
+OTY1NiwtMzk4NTAwNzAsOTY0ODg4NDE5LDExNTUxMTY0ODgsLT
+E2NjQxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMx
+ODAxXX0=
 -->
