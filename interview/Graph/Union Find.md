@@ -172,7 +172,14 @@ The method will enumerate the connections as described above and identify the un
 ![image](https://assets.leetcode.com/users/images/303df29f-b7e4-442d-b78c-19ce7483dffa_1649764018.3191926.png)
 
 ------
+
+[Door Dash OA question](https://leetcode.com/discuss/interview-question/2773298/Door-Dash-OA-question)
+
+![image](https://assets.leetcode.com/users/images/7b320571-b932-4f75-827c-9a49f0d5b45d_1667469116.9504898.png)
+![image](https://assets.leetcode.com/users/images/c02d6795-ce48-4838-9d19-e59a9b7ea574_1667469116.7061868.png)
+
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDAzMzM0MSwtNDQyMjU0NzY1LDY4Mz
+eyJoaXN0b3J5IjpbLTI0MjY1ODg5OSwtNDQyMjU0NzY1LDY4Mz
 c3OTQzOSwtNzM5NzQxNzQ0XX0=
 -->
