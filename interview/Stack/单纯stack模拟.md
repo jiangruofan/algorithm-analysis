@@ -86,7 +86,10 @@ Problem 2:
 Write a function that takes a string, you can assume that the string already contains valid parentheses, and we want to return the maximum depth of parentheses in the string.
 
 ----
+
+[enter link description here](https://leetcode.com/discuss/interview-question/2771536/How-to-solve-google-phone-screen-problem)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDE3MDIwLC0xNDcxMTI0MDU2LC0xNj
-E5NjM0ODIzLDU5MDMwODk5Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjAxNTU0MzkxOSwxMjcwMTcwMjAsLTE0Nz
+ExMjQwNTYsLTE2MTk2MzQ4MjMsNTkwMzA4OTk3LDczMDk5ODEx
+Nl19
 -->
