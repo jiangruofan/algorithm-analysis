@@ -646,17 +646,21 @@ I understand the problem, just dont know how to optimally aproach it... any solu
 
 ------
 
+[Bloomberg London | Phone | New Grad](https://leetcode.com/discuss/interview-question/2773700/Bloomberg-London-or-Phone-or-New-Grad)
 
+![image](https://assets.leetcode.com/users/images/4700aa48-e6c3-4032-8667-e8625369a89a_1667478459.2025282.jpeg)
+
+----
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA3NTIxMCwtMTY1OTI4ODM2NiwtOD
-c0NzUwMjQ1LDEwNzE1Nzg4NDgsMTU4OTY0NzA0MSwxOTUwMzIw
-MTgsLTE5MTYzNzkzOTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MS
-wtNTIxNjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2
-NzcwMSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMT
-E1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3
-OTM2XX0=
+eyJoaXN0b3J5IjpbNDUyODU1NDgwLC0xNjU5Mjg4MzY2LC04Nz
+Q3NTAyNDUsMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLDE5NTAzMjAx
+OCwtMTkxNjM3OTM5MywxNDEyNDE3NDczLC0xMTY2MTEwNzQxLC
+01MjE2NjAwNCwxMDkzNzk3NjQ2LC0zMjYxNzA1MTgsMzA2ODY3
+NzAxLDEwMTkxODk2NTYsLTM5ODUwMDcwLDk2NDg4ODQxOSwxMT
+U1MTE2NDg4LC0xNjY0MTg3MDUsLTE3MTU4ODE0NCwzODk0Nzc5
+MzZdfQ==
 -->
