@@ -87,9 +87,20 @@ Write a function that takes a string, you can assume that the string already con
 
 ----
 
-[enter link description here](https://leetcode.com/discuss/interview-question/2771536/How-to-solve-google-phone-screen-problem)
+[How to solve google phone screen problem](https://leetcode.com/discuss/interview-question/2771536/How-to-solve-google-phone-screen-problem)
+
+Hi,
+
+I was given a question about converting a string such as "ab(bc){3}" to "abbcbcbc". Basically transforming the characters in () the number of digits thats in {}.  
+Second part was when the () and {} are inside another level such as "ab(fc(ad){2}){3}e" -> "abfcadadcdadadcdadad" -> repeat the inside characters in parenthesis and the the larger characters
+
+I was able to solve the first part but got stuck on the second part.
+
+答案: second part 
+
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTU0MzkxOSwxMjcwMTcwMjAsLTE0Nz
-ExMjQwNTYsLTE2MTk2MzQ4MjMsNTkwMzA4OTk3LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE4MzYxMTE5MzcsMTI3MDE3MDIwLC0xND
+cxMTI0MDU2LC0xNjE5NjM0ODIzLDU5MDMwODk5Nyw3MzA5OTgx
+MTZdfQ==
 -->
