@@ -643,12 +643,14 @@ Given a hierarchy of managers, as a tree, with every mode value is the salary of
 How are they underpaid? if salary of manager is lesser than the average of its children nodes salary.
 
 I understand the problem, just dont know how to optimally aproach it... any solutions please?
+
+------
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU0NjA0MDIsLTg3NDc1MDI0NSwxMD
+eyJoaXN0b3J5IjpbLTE2NTkyODgzNjYsLTg3NDc1MDI0NSwxMD
 cxNTc4ODQ4LDE1ODk2NDcwNDEsMTk1MDMyMDE4LC0xOTE2Mzc5
 MzkzLDE0MTI0MTc0NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LD
 EwOTM3OTc2NDYsLTMyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4
