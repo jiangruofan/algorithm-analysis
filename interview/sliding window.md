@@ -253,7 +253,18 @@ This solution passed test cases, but then the interviewer pushed me to find a so
 
 ----
 
+https://www.chegg.com/homework-help/questions-and-answers/2-minimum-segments-given-array-consisting-n-intervals-ith-interval-type-b--also-given-inte-q87487454
 
+![2. Minimum Segments
+Given is an array consisting of n intervals. The ith interval is of type
+(a[i], b[i]). Also given is an i](https://media.cheggcdn.com/media/b4e/b4e55df5-ea5e-4b3d-aa9c-d44c53e3a8b7/phpNZkpJp)
+![Language
+Function Description
+Complete the function minimum Division in the editor below.
+C++
+minimum Division has the follow](https://media.cheggcdn.com/media/b9c/b9cfeb19-e8f6-4ce8-9e91-d4053ecd9100/php4skBlR)
+
+------
 
 
 
@@ -263,7 +274,7 @@ This solution passed test cases, but then the interviewer pushed me to find a so
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTM1MjIwMyw0ODAwOTU1NDEsMTQ5MT
-Q3OTM5OSw1OTUxMjI4MDMsMTI2MzE5NDIwNCwzMjA0MjM4MDgs
-LTExMzIyNTkwMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODY0NzI3MDYxLC00OTEzNTIyMDMsNDgwMD
+k1NTQxLDE0OTE0NzkzOTksNTk1MTIyODAzLDEyNjMxOTQyMDQs
+MzIwNDIzODA4LC0xMTMyMjU5MDEsNzMwOTk4MTE2XX0=
 -->
