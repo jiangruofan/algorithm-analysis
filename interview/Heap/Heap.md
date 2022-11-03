@@ -388,7 +388,19 @@ For the last channel, calculated the median of the remaining packets and added t
 类似于k个升序链表
 
 --------
+
+[Google Interview Question 2022](https://leetcode.com/discuss/interview-question/2774418/Google-Interview-Question-2022)
+
+You are given an array of 5 shards. Each shard is on a server (server1, server2, etc.). The shards array contains information on which server each shard is on. For example:  
+shards = [server2, server1, server1, server2, server0]  
+This means that shard 0 and 3 are on server2, shard 1 and 2 are on server1, and shard 4 is on server0.
+
+Sometimes, servers go down, and shards need to be reassigned in a load balanced way. For example, if server1 goes down, the shards array should change to look like this:  
+shards = [server2, server2, server0, server2, server0]. (The order of which shards are reassigned to which server doesn't matter, but there should be minimal shard movement between servers (no moving shards between server2 and server0, and the shards per server should be approximately balanced)  
+Given this shards[] array, design an algorithm that modifies shards[] when a server goes down.
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjI1NTUxMiwxMDc2MTcxNjA2LDEwMz
-Q4ODM1MDNdfQ==
+eyJoaXN0b3J5IjpbMTM0NjYyMjg1NSwtNzE2MjU1NTEyLDEwNz
+YxNzE2MDYsMTAzNDg4MzUwM119
 -->
