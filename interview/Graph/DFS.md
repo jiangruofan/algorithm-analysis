@@ -645,16 +645,18 @@ How are they underpaid? if salary of manager is lesser than the average of its c
 I understand the problem, just dont know how to optimally aproach it... any solutions please?
 
 ------
+
+
      
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkyODgzNjYsLTg3NDc1MDI0NSwxMD
-cxNTc4ODQ4LDE1ODk2NDcwNDEsMTk1MDMyMDE4LC0xOTE2Mzc5
-MzkzLDE0MTI0MTc0NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LD
-EwOTM3OTc2NDYsLTMyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4
-OTY1NiwtMzk4NTAwNzAsOTY0ODg4NDE5LDExNTUxMTY0ODgsLT
-E2NjQxODcwNSwtMTcxNTg4MTQ0LDM4OTQ3NzkzNiwtNDQ3NDMx
-ODAxXX0=
+eyJoaXN0b3J5IjpbLTEyMzA3NTIxMCwtMTY1OTI4ODM2NiwtOD
+c0NzUwMjQ1LDEwNzE1Nzg4NDgsMTU4OTY0NzA0MSwxOTUwMzIw
+MTgsLTE5MTYzNzkzOTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MS
+wtNTIxNjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2
+NzcwMSwxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMT
+E1NTExNjQ4OCwtMTY2NDE4NzA1LC0xNzE1ODgxNDQsMzg5NDc3
+OTM2XX0=
 -->
