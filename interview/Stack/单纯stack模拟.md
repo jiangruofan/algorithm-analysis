@@ -96,11 +96,11 @@ Second part was when the () and {} are inside another level such as "ab(fc(ad){2
 
 I was able to solve the first part but got stuck on the second part.
 
-答案: second part 
+答案: second part 需要递归
 
 ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxMTE5MzcsMTI3MDE3MDIwLC0xND
-cxMTI0MDU2LC0xNjE5NjM0ODIzLDU5MDMwODk5Nyw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMjEwNzU1NjcwMiwtMTgzNjExMTkzNywxMj
+cwMTcwMjAsLTE0NzExMjQwNTYsLTE2MTk2MzQ4MjMsNTkwMzA4
+OTk3LDczMDk5ODExNl19
 -->
