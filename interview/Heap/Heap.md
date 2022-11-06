@@ -405,8 +405,10 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 
 ![image](https://assets.leetcode.com/users/images/f5aa9f4a-bc79-4df5-bd0a-7a9c2efa2c7c_1667541431.8956788.png)
 
-先使用扫描线 对起点和终点进行排序 然后记录每一个区间有多少tasks在里面 然后按照tasks的数量放入大根堆 每次取出一个元素 把元素尽量放入当前的区间 如果
+先使用扫描线 对起点和终点进行排序 然后记录每一个区间有多少tasks在里面 然后按照tasks的数量放入大根堆 每次取出一个元素 把元素尽量放入当前的区间 如果当前task没有时间了 那么直接把task删除 如果当前区间没有task了 那么不继续放入大根堆
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDAwNzQ0MiwtNzE2MjU1NTEyLDEwNz
-YxNzE2MDYsMTAzNDg4MzUwM119
+eyJoaXN0b3J5IjpbOTY4MTE4OTk2LC03MTYyNTU1MTIsMTA3Nj
+E3MTYwNiwxMDM0ODgzNTAzXX0=
 -->
