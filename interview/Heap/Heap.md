@@ -400,7 +400,13 @@ shards = [server2, server2, server0, server2, server0]. (The order of which shar
 Given this shards[] array, design an algorithm that modifies shards[] when a server goes down.
 
 -----
+
+[TikTok OA](https://leetcode.com/discuss/interview-question/2776384/TikTok-OA)
+
+![image](https://assets.leetcode.com/users/images/f5aa9f4a-bc79-4df5-bd0a-7a9c2efa2c7c_1667541431.8956788.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjYyMjg1NSwtNzE2MjU1NTEyLDEwNz
-YxNzE2MDYsMTAzNDg4MzUwM119
+eyJoaXN0b3J5IjpbLTE5NTE4NDY5MzUsLTcxNjI1NTUxMiwxMD
+c2MTcxNjA2LDEwMzQ4ODM1MDNdfQ==
 -->
