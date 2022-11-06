@@ -202,8 +202,8 @@ Any approach to solve this in a linear time complexity? (Assumed linear time bec
 
 [Lucid OA](https://leetcode.com/discuss/interview-question/2744375/Lucid-OA)
 
-![image](https://assets.leetcode.com/users/images/3d36df5d-68bd-4cd8-b9c3-908868f7c03b_1666748648.759837.jpeg)
-![image](https://assets.leetcode.com/users/images/e18643d4-33c9-439f-957e-d0e2c5a871e3_1666748649.6874275.jpeg)
+![image](https://assets.leetcode.com/users/images/ac44d5ae-4387-48dc-8666-5bcb32c6a0ab_1667608709.8977346.jpeg)
+![image](https://assets.leetcode.com/users/images/7a1e7071-8565-4096-9cd0-a80aa53f8c5d_1667608714.7215807.jpeg)
 ![image](https://assets.leetcode.com/users/images/7901a325-6aee-465e-a2bc-fb92c491306a_1666748650.113328.jpeg)
 ![image](https://assets.leetcode.com/users/images/55af390e-f20b-413f-b863-0f8e64b108de_1666748650.9858263.jpeg)
 ![image](https://assets.leetcode.com/users/images/47b8674b-687b-404b-9a3b-04bae16e0ff7_1666748653.134939.jpeg)![image](https://assets.leetcode.com/users/images/47b8674b-687b-404b-9a3b-04bae16e0ff7_1666748653.134939.jpeg)
@@ -222,7 +222,7 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY4MDgxMDksMTk3MjU0ODYzOSwtMT
-I1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3
-NDMxXX0=
+eyJoaXN0b3J5IjpbLTMzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMj
+UzNDk2Njc2LDY1NjkwOTExNSwtOTAwODgzNzY3LDE1NDUyMDc0
+MzFdfQ==
 -->
