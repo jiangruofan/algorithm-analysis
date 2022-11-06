@@ -77,7 +77,11 @@ signed main(){
 
 --------------
 
+[Trilogy Innovations OA Questions Help 😐 (For 2024 Batch , SDE-Intern Role)](https://leetcode.com/discuss/interview-question/2780180/Trilogy-Innovations-OA-Questions-Help-%28For-2024-Batch-SDE-Intern-Role%29)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc2NjExNjJdfQ==
+eyJoaXN0b3J5IjpbLTE4ODEzNjgzODQsLTE1NTc2NjExNjJdfQ
+==
 -->
