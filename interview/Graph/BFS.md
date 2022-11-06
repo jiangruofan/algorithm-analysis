@@ -129,8 +129,47 @@ Output: 5
 先找出最小的字母 然后对所有最小字母的index进行bfs 直到某一层的最小字母的index个数为1 需要借助dic来进行操作 只有26个字母
 
 ----
+
+[Doordash phone screen](https://leetcode.com/discuss/interview-question/2768603/Doordash-phone-screen)
+
+// # A DashMart is a warehouse run by DoorDash that houses items found in convenience stores, grocery stores, and restaurants. We have a city with open roads, blocked-off roads, and DashMarts.  
+// # City planners want you to identify how far a location is from its closest DashMart.  
+// # You can only travel over open roads (up, down, left, right).  
+// # Locations are given in [row, col] format.  
+// # [  
+// # # 0 1 2 3 4 5 6 7 8  
+// # ['X', ' ', ' ', 'D', '1 ', '1 ', 'X', ' ', 'X'], # 0  
+// # ['X', ' ', 'X', 'X', ' ', '1 ', ' 1', ' ', 'X'], # 1  
+// # [' ', ' ', ' ', 'D', 'X', 'X', ' 1', 'X', ' '], # 2  
+// # [' ', ' ', ' ', 'D', ' ', 'X', '1', ' ', ' '], # 3  
+// # [' ', ' ', ' ', ' ', ' ', 'X', 'O', ' ', 'X'], # 4  
+// # [' ', ' ', ' ', ' ', 'X', ' ', ' ', 'X', 'X'] # 5  
+// # ]
+
+// # ' ' represents an open road that you can travel over in any direction (up, down, left, or right).  
+// # 'X' represents an blocked road that you cannot travel through.  
+// # 'D' represents a DashMart.
+
+// # # list of pairs [row, col]  
+// # locations = [  
+// # [200, 200],  
+// # [1, 4],  
+// # [0, 3],  
+// # [5, 8],  
+// # [1, 8],  
+// # [5, 5]  
+// # ]
+
+// # answer = [-1, 2, 0, -1, 6, 9]
+
+// # Provided:  
+// # - city: char[][]  
+// # - locations: int[][2]
+
+// # Return:  
+// # - answer: int[]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTQxMzg1OCw5NDc4MzY1MjIsLTY4Nz
-EwNjI1NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nzg3MTIz
-NiwxMTUwMzkxNDg2XX0=
+eyJoaXN0b3J5IjpbMjA3MTcxNzM1NCwxNzExNDEzODU4LDk0Nz
+gzNjUyMiwtNjg3MTA2MjU2LDEzMTczMjk0NzEsLTEzOTIwOTcw
+MjcsMzk3ODcxMjM2LDExNTAzOTE0ODZdfQ==
 -->
