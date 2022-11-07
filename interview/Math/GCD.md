@@ -72,6 +72,10 @@ NO
 
 ![image](https://assets.leetcode.com/users/images/013f7880-293d-46f3-8495-696abc590ec6_1667773157.679026.jpeg)
 
+质因数分解+并查集
+
+---
+
 
 
 
@@ -91,6 +95,6 @@ NO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjQ4NDEzMiwtNTkzNTQ4NjQwLDQ3MT
+eyJoaXN0b3J5IjpbMTAzMzA4OTY1NiwtNTkzNTQ4NjQwLDQ3MT
 A0Njc1LDM3NDg4Njc3NywtNTg0ODA4NjUwXX0=
 -->
