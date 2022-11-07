@@ -320,10 +320,15 @@ For n = 3, k = 2, we have 26 passwords with all characters the same and 26 * 25 
 
 ---
 
+[OA Question || need help](https://leetcode.com/discuss/interview-question/2784441/OA-Question-oror-need-help)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjExNTgyMjAsLTIwOTgyODUwODEsOT
-gxMzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0NywxNjkwMDQy
-OTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMj
-IyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNjM0MDcsLTE0NjIzMzQ5
-NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MTczOTQ3MV19
+eyJoaXN0b3J5IjpbMzM5Mzg1NTg2LC0xMzYxMTU4MjIwLC0yMD
+k4Mjg1MDgxLDk4MTM5MTY4MSwtNDk3NjA4OTAzLC05MDQxOTY0
+NDcsMTY5MDA0MjkzOCw3Mjg0ODc1NzgsODE1NDE5Mjc4LDc5MT
+IzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3
+LC0xNDYyMzM0OTQ0LC05NDg4NDUyODcsMjA4NjUzMDEyNywzND
+E3Mzk0NzFdfQ==
 -->
