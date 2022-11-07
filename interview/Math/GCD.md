@@ -30,25 +30,25 @@ Fast solution of Q1, doing only n times a gcd call. Observe that in the final ar
 Had 5 questions, solved other 4 but i was unable to this one.  
 Pls share solution.
 
-# Problem Statement
+Problem Statement
 
 Ram has an Array Arr which may or may not be in strictly increasing order. He wants to make this array increasing but does not wish to change the position of any element so he came with an idea that he will replace an element with any of its divisors i.e he changes an element X to M if X%M=0.  
 Your task is to tell whether the given array can be transformed to strictly increasing by performing the operation given above.
 
-# Input
+Input
 
 First line of input contains the size of the array N. Next line of input contains N space- separated integers depicting the values of the array Arr.
 
-# Constraints:-
+Constraints:-
 
 1 <= N <= 100000  
 1 <= Arr[i] <= 100000
 
-# Output
+Output
 
 Print "YES" if the array can be transformed in the strictly increasing order else print "NO".
 
-# Example
+Example
 
 Sample Input:-  
 5  
@@ -86,6 +86,6 @@ NO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMDQ2NzUsMzc0ODg2Nzc3LC01ODQ4MD
-g2NTBdfQ==
+eyJoaXN0b3J5IjpbLTU5MzU0ODY0MCw0NzEwNDY3NSwzNzQ4OD
+Y3NzcsLTU4NDgwODY1MF19
 -->
