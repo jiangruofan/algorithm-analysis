@@ -220,9 +220,14 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 
 ----
 
+[Sahaj software| OA off campus](https://leetcode.com/discuss/interview-question/2773806/Sahaj-softwareor-OA-off-campus)
+
+![image](https://assets.leetcode.com/users/images/4d5a1e60-d73b-41dd-a8c4-1d6a0e306770_1667481568.5675087.jpeg)
+
+----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMj
-UzNDk2Njc2LDY1NjkwOTExNSwtOTAwODgzNzY3LDE1NDUyMDc0
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTU1MzA1NjIxMSwtMzM0ODQzMjU3LDE5Nz
+I1NDg2MzksLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MDA4ODM3
+NjcsMTU0NTIwNzQzMV19
 -->
