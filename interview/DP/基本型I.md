@@ -298,10 +298,15 @@ contraints- 1<n<1500
 先从小到大排个序 那么对于每一个元素 贪心思想 最优解一定这个元素和它前面或者后面组成一个pair
 
 ----
+
+[OA || Help needed! || Number of valid passwords with less than k consecutive repetitions allowed](https://leetcode.com/discuss/interview-question/2782808/OA-oror-Help-needed!-oror-Number-of-valid-passwords-with-less-than-k-consecutive-repetitions-allowed)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzYwODkwMywtOTA0MTk2NDQ3LDE2OT
-AwNDI5MzgsNzI4NDg3NTc4LDgxNTQxOTI3OCw3OTEyMzY3NzAs
-MTAyMjIwODM1NCwtOTEwMzUyODg4LDYzNjE2MzQwNywtMTQ2Mj
-MzNDk0NCwtOTQ4ODQ1Mjg3LDIwODY1MzAxMjcsMzQxNzM5NDcx
-XX0=
+eyJoaXN0b3J5IjpbOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwND
+E5NjQ0NywxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgs
+NzkxMjM2NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNj
+M0MDcsLTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3
+LDM0MTczOTQ3MV19
 -->
