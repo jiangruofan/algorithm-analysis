@@ -316,12 +316,12 @@ Example: For n = 3, k = 3: There are 26 ^ 3 total possible passwords out of whic
 
 For n = 3, k = 2, we have 26 passwords with all characters the same and 26 * 25 + 26 * 25 passwords with 2 consecutive characters (corresponding to "aab" and "baa" types). So, valid passwords = 26 ^ 3 - 26 - 26 * 25 * 2 = 16250.
 
-
+时间复杂度是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgyODUwODEsOTgxMzkxNjgxLC00OT
-c2MDg5MDMsLTkwNDE5NjQ0NywxNjkwMDQyOTM4LDcyODQ4NzU3
-OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMjIyMDgzNTQsLTkxMD
-M1Mjg4OCw2MzYxNjM0MDcsLTE0NjIzMzQ5NDQsLTk0ODg0NTI4
-NywyMDg2NTMwMTI3LDM0MTczOTQ3MV19
+eyJoaXN0b3J5IjpbMjY1NDgxMzU1LC0yMDk4Mjg1MDgxLDk4MT
+M5MTY4MSwtNDk3NjA4OTAzLC05MDQxOTY0NDcsMTY5MDA0Mjkz
+OCw3Mjg0ODc1NzgsODE1NDE5Mjc4LDc5MTIzNjc3MCwxMDIyMj
+A4MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3LC0xNDYyMzM0OTQ0
+LC05NDg4NDUyODcsMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
 -->
