@@ -25,6 +25,13 @@ So there are total 3 ways possible
 ```
 类似力扣1278
 
+---
+
+[uber online assesment coding question](https://leetcode.com/discuss/interview-question/2784595/uber-online-assesment-coding-question)
+
+![image](https://assets.leetcode.com/users/images/1a3701eb-f502-4588-bb8a-7b725242512f_1667728199.5055761.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MzY0MDgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjI1OTI5NTQ2LDgzNzM2NDA4LDczMDk5OD
+ExNl19
 -->
