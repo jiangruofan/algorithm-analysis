@@ -31,9 +31,9 @@ So there are total 3 ways possible
 
 ![image](https://assets.leetcode.com/users/images/1a3701eb-f502-4588-bb8a-7b725242512f_1667728199.5055761.png)
 
-
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTIxNjE2Niw4MzczNjQwOCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTU3NDM1MjMsMTUzMTIxNjE2Niw4Mz
+czNjQwOCw3MzA5OTgxMTZdfQ==
 -->
