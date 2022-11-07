@@ -239,9 +239,13 @@ given a string，求出每一个prefix的最长子回文串 string的长度为1e
 
 ---
 
+[Mathworks|EDG intern|Street play in Hakerland](https://leetcode.com/discuss/interview-question/2779541/MathworksorEDG-internorStreet-play-in-Hakerland)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODQyMDk0NCwtOTk5MDUyODk2LDE2MD
-QwNTI4OTcsLTgwMDMzNDY3LDkwNzAyNTA2NiwyOTYyNzQ4NDYs
-LTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMzAxNjA2NDQ1LDIwND
-E2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
+eyJoaXN0b3J5IjpbLTE5MTM4NTk0MjMsMTM1ODQyMDk0NCwtOT
+k5MDUyODk2LDE2MDQwNTI4OTcsLTgwMDMzNDY3LDkwNzAyNTA2
+NiwyOTYyNzQ4NDYsLTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMz
+AxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYy
+OTcxXX0=
 -->
