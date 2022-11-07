@@ -79,9 +79,14 @@ signed main(){
 
 [Trilogy Innovations OA Questions Help 😐 (For 2024 Batch , SDE-Intern Role)](https://leetcode.com/discuss/interview-question/2780180/Trilogy-Innovations-OA-Questions-Help-%28For-2024-Batch-SDE-Intern-Role%29)
 
+![image](https://assets.leetcode.com/users/images/c2ed467b-c558-43a5-8baa-51edf6f35207_1667629001.849036.jpeg)
+![image](https://assets.leetcode.com/users/images/024f0e18-ee8f-4ed9-9d21-d57b05315524_1667629005.7719026.jpeg)
+
+只能想到二进制枚举然后查看 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEzNjgzODQsLTE1NTc2NjExNjJdfQ
-==
+eyJoaXN0b3J5IjpbNjk3Mjc3MDg3LC0xODgxMzY4Mzg0LC0xNT
+U3NjYxMTYyXX0=
 -->
