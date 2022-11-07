@@ -322,10 +322,25 @@ For n = 3, k = 2, we have 26 passwords with all characters the same and 26 * 25 
 
 [OA Question || need help](https://leetcode.com/discuss/interview-question/2784441/OA-Question-oror-need-help)
 
+Alice has N coins of amount from 0 to (N-1). Bob wants to take k coins out of them, but Alice will only give if the set of K coins is interesting.
+
+A set of coins is interesting if the sum of them is divisible by a unique integer M. Now Bob wants to know in how many ways he can get K coins.
+
+Print the result by answer%(10^9+7)
+
+Input format:- Three space separated integers N,K,M.
+
+Any ideas how to approach this
+
+Constraints:  
+1 <= N, M <= 10^3  
+1 <= K <= 10^2
+
+dp[i][j][k] 从前i个硬币中选取j个并且和的模是k 有多少种选择
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5Mzg1NTg2LC0xMzYxMTU4MjIwLC0yMD
+eyJoaXN0b3J5IjpbNTU0NTA4MDY3LC0xMzYxMTU4MjIwLC0yMD
 k4Mjg1MDgxLDk4MTM5MTY4MSwtNDk3NjA4OTAzLC05MDQxOTY0
 NDcsMTY5MDA0MjkzOCw3Mjg0ODc1NzgsODE1NDE5Mjc4LDc5MT
 IzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3
