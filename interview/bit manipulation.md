@@ -84,9 +84,11 @@ signed main(){
 
 只能想到二进制枚举然后查看 
 
+----
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3Mjc3MDg3LC0xODgxMzY4Mzg0LC0xNT
+eyJoaXN0b3J5IjpbODU1NTgyMDExLC0xODgxMzY4Mzg0LC0xNT
 U3NjYxMTYyXX0=
 -->
