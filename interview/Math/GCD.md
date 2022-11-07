@@ -68,6 +68,11 @@ NO
 
 ----
 
+[Intersting problem sap labs](https://leetcode.com/discuss/interview-question/2786561/Intersting-problem-sap-labs)
+
+![image](https://assets.leetcode.com/users/images/013f7880-293d-46f3-8495-696abc590ec6_1667773157.679026.jpeg)
+
+
 
 
 
@@ -86,6 +91,6 @@ NO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzU0ODY0MCw0NzEwNDY3NSwzNzQ4OD
-Y3NzcsLTU4NDgwODY1MF19
+eyJoaXN0b3J5IjpbMTc2NjQ4NDEzMiwtNTkzNTQ4NjQwLDQ3MT
+A0Njc1LDM3NDg4Njc3NywtNTg0ODA4NjUwXX0=
 -->
