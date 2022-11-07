@@ -241,11 +241,16 @@ given a string，求出每一个prefix的最长子回文串 string的长度为1e
 
 [Mathworks|EDG intern|Street play in Hakerland](https://leetcode.com/discuss/interview-question/2779541/MathworksorEDG-internorStreet-play-in-Hakerland)
 
+![image](https://assets.leetcode.com/users/images/51619bfb-0536-441f-a455-05ce18a4b169_1667599339.5748856.jpeg)
+![image](https://assets.leetcode.com/users/images/39a8b51b-b6ce-40fb-9e67-e55522561538_1667599346.4165883.jpeg)
 
+区间覆盖问题
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM4NTk0MjMsMTM1ODQyMDk0NCwtOT
-k5MDUyODk2LDE2MDQwNTI4OTcsLTgwMDMzNDY3LDkwNzAyNTA2
-NiwyOTYyNzQ4NDYsLTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMz
-AxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNzc2MDYy
-OTcxXX0=
+eyJoaXN0b3J5IjpbLTE5MDg0Nzk3MCwxMzU4NDIwOTQ0LC05OT
+kwNTI4OTYsMTYwNDA1Mjg5NywtODAwMzM0NjcsOTA3MDI1MDY2
+LDI5NjI3NDg0NiwtNTE1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMD
+E2MDY0NDUsMjA0MTYzMTUzOCw3MTA1MTAzNjgsLTE3NzYwNjI5
+NzFdfQ==
 -->
