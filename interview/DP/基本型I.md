@@ -301,12 +301,27 @@ contraints- 1<n<1500
 
 [OA || Help needed! || Number of valid passwords with less than k consecutive repetitions allowed](https://leetcode.com/discuss/interview-question/2782808/OA-oror-Help-needed!-oror-Number-of-valid-passwords-with-less-than-k-consecutive-repetitions-allowed)
 
+Saw the following problem in a New Grad OA a few days ago and could not come up with a solution. Does anybody know how to do this?
+
+### Problem: Count number of valid passwords
+
+A password is valid if:
+
+-   It contains only lowercase English letters
+-   No  _k_  consecutive characters are the same.
+
+Given 2 integers  _n_  and  _k_, find the number of valid passwords possible. Report your answer as modulo(10 ^ 9 + 7)
+
+Example: For n = 3, k = 3: There are 26 ^ 3 total possible passwords out of which 26 have 3 consecutive letters. So, valid passwords = 26 ^ 3 - 26 = 17550.
+
+For n = 3, k = 2, we have 26 passwords with all characters the same and 26 * 25 + 26 * 25 passwords with 2 consecutive characters (corresponding to "aab" and "baa" types). So, valid passwords = 26 ^ 3 - 26 - 26 * 25 * 2 = 16250.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwND
-E5NjQ0NywxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgs
-NzkxMjM2NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNj
-M0MDcsLTE0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3
-LDM0MTczOTQ3MV19
+eyJoaXN0b3J5IjpbLTIwOTgyODUwODEsOTgxMzkxNjgxLC00OT
+c2MDg5MDMsLTkwNDE5NjQ0NywxNjkwMDQyOTM4LDcyODQ4NzU3
+OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMjIyMDgzNTQsLTkxMD
+M1Mjg4OCw2MzYxNjM0MDcsLTE0NjIzMzQ5NDQsLTk0ODg0NTI4
+NywyMDg2NTMwMTI3LDM0MTczOTQ3MV19
 -->
