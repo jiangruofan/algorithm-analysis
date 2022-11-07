@@ -6,7 +6,10 @@
 
 定义dp[i][j]表示对于数组前i个元素并且最后一个消灭的元素index为j的最小值
 每次更新 对于dp[i][j] 如果j小于i 那么dp[i][j]=dp[i-1][j] + 当前元素的值✖️(i-j) 
-如果j等于i 那么dp[i][j]=min(min(dp[i-1]) )
+如果j等于i 那么dp[i][j]=min(dp[k] + sum(k到i) for k in range(0, i)) + B
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc5NjMyOThdfQ==
+eyJoaXN0b3J5IjpbLTEyMDE0MjcyNjMsLTE2OTc5NjMyOThdfQ
+==
 -->
