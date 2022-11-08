@@ -175,9 +175,14 @@ Output: 5
 
 ![image](https://assets.leetcode.com/users/images/71e73a9a-40fc-4771-9a5c-b43962d77f3c_1667810418.8833017.png)
 ![image](https://assets.leetcode.com/users/images/6da14756-6bfb-466e-b207-6fbcce8431a5_1667810425.0042746.png)
+![image](https://assets.leetcode.com/users/images/6a6d085f-a7c7-4ef8-8a72-4a9d3a36e0ed_1667810430.303579.png)
 
+三次bfs 然后遍历每个点进行判断即可
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjc1OTM4NCwxNzU5MTEwNDYsMTcxMT
-QxMzg1OCw5NDc4MzY1MjIsLTY4NzEwNjI1NiwxMzE3MzI5NDcx
-LC0xMzkyMDk3MDI3LDM5Nzg3MTIzNiwxMTUwMzkxNDg2XX0=
+eyJoaXN0b3J5IjpbMTMwMjM4NDQxLDE0MzI3NTkzODQsMTc1OT
+ExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIyLC02ODcxMDYyNTYs
+MTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEyMzYsMTE1MD
+M5MTQ4Nl19
 -->
