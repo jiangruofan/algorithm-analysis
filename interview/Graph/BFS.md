@@ -170,8 +170,14 @@ Output: 5
 // # - answer: int[]
 
 ----
+
+[OA 2022 | Pythagorean Triplets](https://leetcode.com/discuss/interview-question/2788156/OA-2022-or-Pythagorean-Triplets)
+
+![image](https://assets.leetcode.com/users/images/71e73a9a-40fc-4771-9a5c-b43962d77f3c_1667810418.8833017.png)
+![image](https://assets.leetcode.com/users/images/6da14756-6bfb-466e-b207-6fbcce8431a5_1667810425.0042746.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTExMDQ2LDE3MTE0MTM4NTgsOTQ3OD
-M2NTIyLC02ODcxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAy
-NywzOTc4NzEyMzYsMTE1MDM5MTQ4Nl19
+eyJoaXN0b3J5IjpbMTQzMjc1OTM4NCwxNzU5MTEwNDYsMTcxMT
+QxMzg1OCw5NDc4MzY1MjIsLTY4NzEwNjI1NiwxMzE3MzI5NDcx
+LC0xMzkyMDk3MDI3LDM5Nzg3MTIzNiwxMTUwMzkxNDg2XX0=
 -->
