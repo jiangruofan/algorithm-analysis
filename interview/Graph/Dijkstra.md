@@ -53,7 +53,69 @@ now find minimumCost distnce between these 2 given cities. I dont have complete 
 
 ---------
 
+[Media.net | OA | Minimum cost to buy oranges](https://leetcode.com/discuss/interview-question/1463104/Media.net-or-OA-or-Minimum-cost-to-buy-oranges)
+
+**Problem Description**
+
+You live in orange town. There are a lot of markets around that are connected with roads. These markats sell oranges at some prices. The town is not very well developed and they still use carts to transport goods from one place to the other. The roads connect two markets together and have two attributes associated with them. One is the price to go from one market to the other in an empty cart and the other is the tax factor. The tax factor is the number by which the price associated with a road needs to be multiplied, so it can go from one market to the other if you are carrying oranges in your cart. So if a road's original price was 5 coins and tax factor was 6, then in an empty cart it would take 5 coins to travel the road, but if the cart contained oranges, it would cost 5*6=30 coins.
+
+You wonder what would be the cheapest way to buy oranges if you were initially at each market. You can either buy at the market you are at or travel to some other market, buy oranges there, and travel back to the original market
+
+You are given an integer A denoting the number of total markets in orange town, an integer array B denoting the price of purchasing oranges at each market and a 2-D array C containing the information about the roads. First two values denote the market numbers that are bi-directionally connected via a road, 3rd value is the price, while the 4th one is the tax factor.
+
+Find and return the required array. The minimum cost to buy oranges at each market such that the starting and ending point is that market.
+
+**Problem Constraints**
+
+2 <= A <= 1e5  
+B.size() == A  
+1 <= B[i] <= 1e7  
+1 <= C.size() <= 2e5  
+1 <= C[0] <= A  
+1 <= C[1] <= A  
+1 <= C[2] <= 1e3  
+1 <= C[3] <= 5
+
+**Input Format**
+
+The first argument is the integer A. The second argument is the integer array B, and the third argument is the 2-D integer array C.
+
+**Output Format**
+
+Return an integer array as per the given problem.
+
+**Example Input**
+
+Input 1:
+
+A = 2  
+B = [11 1]  
+C = [ [2 1 1 2] ]
+
+Input 2:
+
+A = 2  
+B = [1 1]  
+C = [ [2 1 2 4] ]
+
+**Example Output**
+
+Output 1:  
+[4 1]  
+Output 2:  
+[1 1]
+
+**Explanation**
+
+Explanation 1:
+
+For the first market, you can travel to the second market (1 cost), buy oranges there (1 cost) and return back to the first market (1*2 cost) for a total of 4 cost.  
+For the second market, 1 is already the lowest you can get.
+
+时间复杂度有问题 感觉只能对每一个节点进行dijkstra
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzIyNzIyOCwtOTM3MDcxMDI3XX0=
+eyJoaXN0b3J5IjpbLTE3MDE5NjA0MDEsMTc2MzIyNzIyOCwtOT
+M3MDcxMDI3XX0=
 -->
