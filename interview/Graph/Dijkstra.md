@@ -55,6 +55,8 @@ now find minimumCost distnce between these 2 given cities. I dont have complete 
 
 [Media.net | OA | Minimum cost to buy oranges](https://leetcode.com/discuss/interview-question/1463104/Media.net-or-OA-or-Minimum-cost-to-buy-oranges)
 
+![image](https://assets.leetcode.com/users/images/96c685b2-9eb3-4f94-9d27-2c6cbbe1ceca_1664476876.0734234.png)
+
 **Problem Description**
 
 You live in orange town. There are a lot of markets around that are connected with roads. These markats sell oranges at some prices. The town is not very well developed and they still use carts to transport goods from one place to the other. The roads connect two markets together and have two attributes associated with them. One is the price to go from one market to the other in an empty cart and the other is the tax factor. The tax factor is the number by which the price associated with a road needs to be multiplied, so it can go from one market to the other if you are carrying oranges in your cart. So if a road's original price was 5 coins and tax factor was 6, then in an empty cart it would take 5 coins to travel the road, but if the cart contained oranges, it would cost 5*6=30 coins.
@@ -112,10 +114,12 @@ Explanation 1:
 For the first market, you can travel to the second market (1 cost), buy oranges there (1 cost) and return back to the first market (1*2 cost) for a total of 4 cost.  
 For the second market, 1 is already the lowest you can get.
 
-时间复杂度有问题 感觉只能对每一个节点进行dijkstra
+时间复杂度有问题 感觉只能对每一个节点进行dijkstra 这的限制是10^3的话是可以
+
+----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE5NjA0MDEsMTc2MzIyNzIyOCwtOT
-M3MDcxMDI3XX0=
+eyJoaXN0b3J5IjpbMTc1MzcxMTMxMCwxNzYzMjI3MjI4LC05Mz
+cwNzEwMjddfQ==
 -->
