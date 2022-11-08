@@ -652,15 +652,29 @@ I understand the problem, just dont know how to optimally aproach it... any solu
 
 ----
      
+https://www.chegg.com/homework-help/questions-and-answers/given-tree-treenodes-vertices-labeled-1-treenodes-vertex-associated-value--define-beauty-v-q101036741
+
+![Given a tree of tree_nodes vertices labeled from 1 to tree_nodes, each vertex is associated with a value \( a[i] \). We defin](https://media.cheggcdn.com/study/017/0175c9dd-e74e-46e0-8242-b7a586dd12d9/image)
+![For vertex 1 , beauty is \( \operatorname{dis}(1,1) * 3+\operatorname{dis}(2,1) * 4=0 * 3 \) \( +1 * 4=4 \).
+For vertex 2 , b](https://media.cheggcdn.com/study/4bd/4bd767d2-b085-47c7-8894-e9aaf61d3bfe/image)
+![Sample Case 0
+Sample input
+Sample Output
+8
+Explanation
+For vertex 1 , distances to nodes 1,2 and 3 are 0 ,
+1 , and 2 . Its be](https://media.cheggcdn.com/study/7fe/7fe7fc4a-57ec-4e84-bd55-2f53b67ffcc7/image)
+
+----
      
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyODU1NDgwLC0xNjU5Mjg4MzY2LC04Nz
-Q3NTAyNDUsMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLDE5NTAzMjAx
-OCwtMTkxNjM3OTM5MywxNDEyNDE3NDczLC0xMTY2MTEwNzQxLC
-01MjE2NjAwNCwxMDkzNzk3NjQ2LC0zMjYxNzA1MTgsMzA2ODY3
-NzAxLDEwMTkxODk2NTYsLTM5ODUwMDcwLDk2NDg4ODQxOSwxMT
-U1MTE2NDg4LC0xNjY0MTg3MDUsLTE3MTU4ODE0NCwzODk0Nzc5
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTkxMjgyMTAyMCw0NTI4NTU0ODAsLTE2NT
+kyODgzNjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcw
+NDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLT
+ExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNjE3
+MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAwNzAsOT
+Y0ODg4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcwNSwtMTcxNTg4
+MTQ0XX0=
 -->
