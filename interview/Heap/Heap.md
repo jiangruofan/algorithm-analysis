@@ -364,6 +364,15 @@ Given an array with revenue and expenses of a company (revenues are positive ite
 
 每次当出现负数时 就把之前的最小的负数放到最后面
 
+---
+
+[How to solve this problem?](https://leetcode.com/discuss/interview-question/2788638/How-to-solve-this-problem)
+
+![image](https://assets.leetcode.com/users/images/7c8f3c55-bb7c-43a0-87a9-bb23ca989a5d_1667819981.70409.png)
+![image](https://assets.leetcode.com/users/images/68a67e43-3a8c-4370-8b27-eaea5bd98003_1667819981.4122598.png)
+
+思想类似上题
+
 -----
 
 [Amazon | OA | Maximum Quality](https://leetcode.com/discuss/interview-question/1641829/Amazon-or-OA-or-Maximum-Quality)
@@ -409,6 +418,6 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MTE4OTk2LC03MTYyNTU1MTIsMTA3Nj
-E3MTYwNiwxMDM0ODgzNTAzXX0=
+eyJoaXN0b3J5IjpbMjE0MjQ3MTg1LDk2ODExODk5NiwtNzE2Mj
+U1NTEyLDEwNzYxNzE2MDYsMTAzNDg4MzUwM119
 -->
