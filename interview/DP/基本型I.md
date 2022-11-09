@@ -344,10 +344,10 @@ dp[i][j][k] 从前i个硬币中选取j个并且和的模是k 有多少种选择
 
 ![image](https://assets.leetcode.com/users/images/c3ae564d-94a1-45b8-a5f9-e5886719b479_1659122058.8588572.png)
 
-dp[i][j] 表示从i到leng-1区间进行匹配并且beaty
+dp[i][j] 表示从i到leng-1区间进行匹配并且beauty的数量
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDUwODgyMiwtMjI0MDM3MjMwLC0xMz
+eyJoaXN0b3J5IjpbMTMzMDM5NDQxOCwtMjI0MDM3MjMwLC0xMz
 YxMTU4MjIwLC0yMDk4Mjg1MDgxLDk4MTM5MTY4MSwtNDk3NjA4
 OTAzLC05MDQxOTY0NDcsMTY5MDA0MjkzOCw3Mjg0ODc1NzgsOD
 E1NDE5Mjc4LDc5MTIzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4
