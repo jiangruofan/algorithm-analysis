@@ -247,10 +247,18 @@ given a string，求出每一个prefix的最长子回文串 string的长度为1e
 区间覆盖问题
 
 ----
+
+[Media.net Online Test (OT) 2022 for Placement](https://leetcode.com/discuss/interview-question/2714772/Media.net-Online-Test-%28OT%29-2022-for-Placement)
+
+![image](https://assets.leetcode.com/users/images/401b61a7-1d5a-4001-b529-f18e2c47cd3d_1666020311.455571.jpeg)
+
+dp + 线段🌲 区间修改 单体查询
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg0Nzk3MCwxMzU4NDIwOTQ0LC05OT
-kwNTI4OTYsMTYwNDA1Mjg5NywtODAwMzM0NjcsOTA3MDI1MDY2
-LDI5NjI3NDg0NiwtNTE1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMD
-E2MDY0NDUsMjA0MTYzMTUzOCw3MTA1MTAzNjgsLTE3NzYwNjI5
-NzFdfQ==
+eyJoaXN0b3J5IjpbMTIxOTYzNjQxMCwtMTkwODQ3OTcwLDEzNT
+g0MjA5NDQsLTk5OTA1Mjg5NiwxNjA0MDUyODk3LC04MDAzMzQ2
+Nyw5MDcwMjUwNjYsMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NT
+Q0MDkyNCwtMTMwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2
+OCwtMTc3NjA2Mjk3MV19
 -->
