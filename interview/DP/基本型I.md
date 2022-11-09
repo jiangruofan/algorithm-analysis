@@ -345,13 +345,15 @@ dp[i][j][k] 从前i个硬币中选取j个并且和的模是k 有多少种选择
 ![image](https://assets.leetcode.com/users/images/c3ae564d-94a1-45b8-a5f9-e5886719b479_1659122058.8588572.png)
 
 dp[i][j] 表示从i到leng-1区间进行匹配并且beauty的数量为j有多少种情况
-倒叙dp 注意这里字符串D的长度可以为1到
+倒叙dp 注意这里字符串D的长度可以为1到leng 总体时间复杂度应该是10^9
+
+----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjg2OTQxLC0xNjY0NTEwNjYxLC0yMj
-QwMzcyMzAsLTEzNjExNTgyMjAsLTIwOTgyODUwODEsOTgxMzkx
-NjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0NywxNjkwMDQyOTM4LD
-cyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMjIyMDgz
-NTQsLTkxMDM1Mjg4OCw2MzYxNjM0MDcsLTE0NjIzMzQ5NDQsLT
-k0ODg0NTI4NywyMDg2NTMwMTI3LDM0MTczOTQ3MV19
+eyJoaXN0b3J5IjpbLTk1NTM5NDkwOCwtMTY2NDUxMDY2MSwtMj
+I0MDM3MjMwLC0xMzYxMTU4MjIwLC0yMDk4Mjg1MDgxLDk4MTM5
+MTY4MSwtNDk3NjA4OTAzLC05MDQxOTY0NDcsMTY5MDA0MjkzOC
+w3Mjg0ODc1NzgsODE1NDE5Mjc4LDc5MTIzNjc3MCwxMDIyMjA4
+MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3LC0xNDYyMzM0OTQ0LC
+05NDg4NDUyODcsMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
 -->
