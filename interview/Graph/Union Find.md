@@ -179,7 +179,25 @@ The method will enumerate the connections as described above and identify the un
 ![image](https://assets.leetcode.com/users/images/c02d6795-ce48-4838-9d19-e59a9b7ea574_1667469116.7061868.png)
 
 ------
+
+[Faltiron Health | Technical Interview | Currency Conversion](https://leetcode.com/discuss/interview-question/2794278/Faltiron-Health-or-Technical-Interview-or-Currency-Conversion)
+
+I was asked the currency conversion problem for a Software Engineer role...
+
+You are given a list of rates between two currencies, and a query, the query is two currencies and you are supposed to find/drive the rate between these two currencies.
+
+Below is my code, the interviewer stated that I don't need to come up with an executable code, but I did, and the interview was very positive and got very good feedback while on the interview. Somehow got rejected afterwards, as they messed up my interview with someone else's, and I got feedback telling me that I wasn't able to build a data structure, which is very different from what happened! I literally built the graph in two minutes. After several back and fourth emails, I got nowhere with them and they weren't able to remember what happened in my interview and I lost interest...
+
+```
+rates = [("USD", "CAD", 1.3), ("USD", "GBP", 0.71), ("USD", "JPY", 109), ("GBP", "JPY", 155)]
+query =  ["USD", "JPY"]
+
+```
+
+带权重的并查集
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjY1ODg5OSwtNDQyMjU0NzY1LDY4Mz
-c3OTQzOSwtNzM5NzQxNzQ0XX0=
+eyJoaXN0b3J5IjpbMjU3MDU5MTg1LC00NDIyNTQ3NjUsNjgzNz
+c5NDM5LC03Mzk3NDE3NDRdfQ==
 -->
