@@ -76,6 +76,19 @@ NO
 
 ---
 
+[Media.net | OA | SSE | Mar-2021](https://leetcode.com/discuss/interview-question/1096727/Media.net-or-OA-or-SSE-or-Mar-2021)
+
+An array  **A**  is called "**PrimeArray**" if there is no two elements such that their product is a perfect square.  
+A = { 1, 3, 5, 4}  
+E.g.  `A[0]*A[3] = 4`which is  `2*2`  
+Hence A is not a "**PrimeArray**"
+
+If  **A**  is not a "**PrimeArray**", increment any of the elements by 1 to transform  **A**  into a "**PrimeArray**" (incrementing any one element by 1 counts as one operation, you can perform any number of such operations on any number of elements).
+
+Find minimum number of operations to transform array into a "**PrimeArray**".
+
+
+
 
 
 
@@ -95,6 +108,6 @@ NO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzA4OTY1NiwtNTkzNTQ4NjQwLDQ3MT
-A0Njc1LDM3NDg4Njc3NywtNTg0ODA4NjUwXX0=
+eyJoaXN0b3J5IjpbNDE2NTY5OTMzLC01OTM1NDg2NDAsNDcxMD
+Q2NzUsMzc0ODg2Nzc3LC01ODQ4MDg2NTBdfQ==
 -->
