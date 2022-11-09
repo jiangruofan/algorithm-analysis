@@ -184,6 +184,12 @@ Third output is , /b/c because the remaining paths/files are similar .
 ---------
 
 [Media.Net(Directi) OA On campus Questions](https://leetcode.com/discuss/interview-question/2639890/Media.Net%28Directi%29-OA-On-campus-Questions-:%29)
+
+![image](https://assets.leetcode.com/users/images/82a0d721-0f49-4e90-9ad9-0d2d2633ce3d_1664476850.9125116.png)
+
+字典🌲 + 最近公共祖先判断 
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODc1OTM3OSwtNzU5Mjc2NTI3XX0=
+eyJoaXN0b3J5IjpbLTE0MTQyNjcyNzksLTc1OTI3NjUyN119
 -->
