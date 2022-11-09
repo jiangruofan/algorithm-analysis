@@ -667,11 +667,16 @@ For vertex 1 , distances to nodes 1,2 and 3 are 0 ,
 
 ----
      
+[Media.net online coding quiestion online assessment](https://leetcode.com/discuss/interview-question/2748873/Media.net-online-coding-quiestion-online-assessment)
 
+![image](https://assets.leetcode.com/users/images/73cd93cb-bda0-48f7-9898-7df6f54a2638_1666869445.5854404.png)
+![image](https://assets.leetcode.com/users/images/52cdec36-d7b1-4dd9-a354-f25918c1ecd9_1666869462.536593.png)
+
+----
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzQ2OTgxNCw0NTI4NTU0ODAsLTE2NT
+eyJoaXN0b3J5IjpbMTI2MDA2NDk3Myw0NTI4NTU0ODAsLTE2NT
 kyODgzNjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcw
 NDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLT
 ExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNjE3
