@@ -148,7 +148,21 @@ So the group can be person 1, person 2, and person 3. Can't add more people to t
 对x按照从小到大排序 二分答案 给定人数 判断是否可行 人数必须大于最大的x并且小于最小的y 那么把所有符合条件的x的y放入bit 然后判断大于等于人数的y是否多于人数 如果多于那么就满足条件 时间复杂度是 nlogn
 
 -----
+
+[Media.net interview question](https://leetcode.com/discuss/interview-question/1069588/Media.net-interview-question)
+
+Given a permutation of numbers from 1 to n, count the number of quadrapules indices (i,j,k,l) such that i<j<k<l and A[i]<A[k]<A[j]<A[l].
+
+I was not able to improve on the time complexity compared to the brute force solution. How to solve this? Can some precomputation be used? It would also be great if someone can suggest similar problems for practice.
+
+Example:  
+[1,3,2,6,5,4]  
+first 4 indices satisfy the given condition.
+
+遍历k和j 时间复杂度是O(n^2logn)
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjcwNzgwNSw0MTkzMDAzNzEsNTUxNT
-c5MzI1LDE3MjE0OTY3MjBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDkxMjk0OTEsLTk3MjcwNzgwNSw0MT
+kzMDAzNzEsNTUxNTc5MzI1LDE3MjE0OTY3MjBdfQ==
 -->
