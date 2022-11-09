@@ -256,11 +256,41 @@ dp + 线段🌲 区间修改 单体查询
 
 ---
 
-[####Uber Interview Question](https://leetcode.com/discuss/interview-question/2793077/Uber-Interview-Question)
+[Uber Interview Question](https://leetcode.com/discuss/interview-question/2793077/Uber-Interview-Question)
+
+Recently I interviewed at UBER and it was a Datastructures and algorihtms round.
+
+The question was as follow:
+
+Givent a infinite stream of events and events are like:
+
+user1 city1 BOOKED timestamp1  
+user2 city1 CANCELLED timestamp2  
+user3 city1 BOOKED timestamp3  
+user4 city1 BOOKED timestamp4  
+user1 city2 ENDED timestamp5
+
+On these events we have to build a system where query can be anything like
+
+1.  How many cabs are BOOKED between timestamp1 to timestamp4.
+2.  How many cabse are BOOKED in city1 and ended in city2 between timestamp1 to timestamp4.
+
+Expectation of this round was to build some generic datastructure that can support query of anytype.
+
+Expectation1- How we are going to ingest these events, since its a DS/ALGO round so a in memory datastructure was expected.  
+Expectation2- Support any types of query.
+
+Can anyone help me in understanding what is the expected solution for this problem?
+
+**NOTES: Event may not be in sorted order by timestamp. a event with timestamp ts1 can come at time ts3.**
+
+题目不是很清楚
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NzYyMzM5LDEyMTk2MzY0MTAsLTE5MD
-g0Nzk3MCwxMzU4NDIwOTQ0LC05OTkwNTI4OTYsMTYwNDA1Mjg5
-NywtODAwMzM0NjcsOTA3MDI1MDY2LDI5NjI3NDg0NiwtNTE1OT
-E0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYzMTUz
-OCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbMjE0MTA3OTk1NywxMjE5NjM2NDEwLC0xOT
+A4NDc5NzAsMTM1ODQyMDk0NCwtOTk5MDUyODk2LDE2MDQwNTI4
+OTcsLTgwMDMzNDY3LDkwNzAyNTA2NiwyOTYyNzQ4NDYsLTUxNT
+kxNDg0MywxMjU1NDQwOTI0LC0xMzAxNjA2NDQ1LDIwNDE2MzE1
+MzgsNzEwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
 -->
