@@ -226,8 +226,15 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 
 ----
 
+[Media.net online coding quiestion online assessment](https://leetcode.com/discuss/interview-question/2748873/Media.net-online-coding-quiestion-online-assessment)
+
+![image](https://assets.leetcode.com/users/images/82c7d5c0-2c9f-43ac-af03-5d227a6c0230_1666869343.270285.png)
+![image](https://assets.leetcode.com/users/images/91fa0c92-edb9-4ceb-8239-ca5fa4235165_1666869384.0202844.png)
+![image](https://assets.leetcode.com/users/images/8010b787-24a7-48fe-a6ea-8379bed3f68e_1666869411.337894.png)
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzA1NjIxMSwtMzM0ODQzMjU3LDE5Nz
-I1NDg2MzksLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MDA4ODM3
-NjcsMTU0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbLTE2MjE1MTc3NDYsLTU1MzA1NjIxMSwtMz
+M0ODQzMjU3LDE5NzI1NDg2MzksLTEyNTM0OTY2NzYsNjU2OTA5
+MTE1LC05MDA4ODM3NjcsMTU0NTIwNzQzMV19
 -->
