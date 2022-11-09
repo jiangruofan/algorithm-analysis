@@ -255,10 +255,12 @@ given a string，求出每一个prefix的最长子回文串 string的长度为1e
 dp + 线段🌲 区间修改 单体查询
 
 ---
+
+[####Uber Interview Question](https://leetcode.com/discuss/interview-question/2793077/Uber-Interview-Question)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTYzNjQxMCwtMTkwODQ3OTcwLDEzNT
-g0MjA5NDQsLTk5OTA1Mjg5NiwxNjA0MDUyODk3LC04MDAzMzQ2
-Nyw5MDcwMjUwNjYsMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NT
-Q0MDkyNCwtMTMwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2
-OCwtMTc3NjA2Mjk3MV19
+eyJoaXN0b3J5IjpbNTA1NzYyMzM5LDEyMTk2MzY0MTAsLTE5MD
+g0Nzk3MCwxMzU4NDIwOTQ0LC05OTkwNTI4OTYsMTYwNDA1Mjg5
+NywtODAwMzM0NjcsOTA3MDI1MDY2LDI5NjI3NDg0NiwtNTE1OT
+E0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYzMTUz
+OCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
 -->
