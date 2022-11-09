@@ -87,7 +87,9 @@ If  **A**  is not a "**PrimeArray**", increment any of the elements by 1 to tran
 
 Find minimum number of operations to transform array into a "**PrimeArray**".
 
-先排个序 枚举perfect square 假设最多为10^5个 然后进行分解 看等于哪两个数字相乘 得到两个数字后二分数组看最接近的两个数字 时间复杂度是
+先排个序 枚举perfect square  然后进行分解 看等于哪两个数字相乘 得到两个数字后二分数组看最接近的两个数字 时间复杂度是 10^5*logn*logn 
+
+----
 
 
 
@@ -110,7 +112,7 @@ Find minimum number of operations to transform array into a "**PrimeArray**".
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MjEyMjg4LDQxNjU2OTkzMywtNTkzNT
-Q4NjQwLDQ3MTA0Njc1LDM3NDg4Njc3NywtNTg0ODA4NjUwXX0=
+eyJoaXN0b3J5IjpbMTQ5MjMzNjU0MSw0MTY1Njk5MzMsLTU5Mz
+U0ODY0MCw0NzEwNDY3NSwzNzQ4ODY3NzcsLTU4NDgwODY1MF19
 
 -->
