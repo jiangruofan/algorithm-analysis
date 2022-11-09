@@ -181,9 +181,17 @@ Output: 5
 
 ----
 
+[Google vo problem](https://leetcode.com/discuss/interview-question/2794952/Google-vo-problem)
+
+My friend got this problem on Google vo. Does anyone have a clue how to solve it?  
+Given a grid, two cars a, b, and two locations A, B on the graph, is it possible to park a to A and park b to B?  
+There are some obstacles on the grid as well.
+
+----
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDUyMDM3OSwxNDMyNzU5Mzg0LDE3NT
+eyJoaXN0b3J5IjpbMTc4MTM1MzA2MywxNDMyNzU5Mzg0LDE3NT
 kxMTA0NiwxNzExNDEzODU4LDk0NzgzNjUyMiwtNjg3MTA2MjU2
 LDEzMTczMjk0NzEsLTEzOTIwOTcwMjcsMzk3ODcxMjM2LDExNT
 AzOTE0ODZdfQ==
