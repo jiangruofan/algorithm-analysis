@@ -107,7 +107,9 @@ Find minimum number of operations to transform array into a "**PrimeArray**".
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NTY5OTMzLC01OTM1NDg2NDAsNDcxMD
-Q2NzUsMzc0ODg2Nzc3LC01ODQ4MDg2NTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNjk2MzQ1MDEsNDE2NTY5OTMzLC01OT
+M1NDg2NDAsNDcxMDQ2NzUsMzc0ODg2Nzc3LC01ODQ4MDg2NTBd
+fQ==
 -->
