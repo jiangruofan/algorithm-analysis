@@ -57,9 +57,9 @@ X = '' Y = ')()'
 ans = 4
 
 对于x来说 左括号一定比右括号多 对于y来说 右括号一定比左括号多
-那么先dp预处理 对于长度为n的括号字符串 
+那么先dp预处理 对于长度为n的括号字符串 计算出左括号比右括号多k个有多少情况 对于右括号一定比左括号多
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDIyOTc3MywtODMwNTAyNDM5LC0xMD
-U1NzQzNTIzLDE1MzEyMTYxNjYsODM3MzY0MDgsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTE2NTg3MzY0NTMsMTc0MDIyOTc3MywtOD
+MwNTAyNDM5LC0xMDU1NzQzNTIzLDE1MzEyMTYxNjYsODM3MzY0
+MDgsNzMwOTk4MTE2XX0=
 -->
