@@ -198,10 +198,49 @@ Given an n*(n-1) matrix with 0 or 1 in cells. Starting from top-left, you need t
 
 ---
 
+[Block | connect four modified](https://leetcode.com/discuss/interview-question/2798371/Block-or-connect-four-modified)
+
+I got somewhat medium but bit harder to come up solutions for my telephone round for square.
+
+There were three parts
+
+1.  Create 2 d array of the connect four grid. Example 3x6 grid.
+
+```
+- - - - - - 
+- - - - - - 
+- - - - - - 
+
+```
+
+2.  Display the grid after playing . play(column, color). Always start placing the color at the bottom row up
+
+After play(0,'R'), looks like below
+
+```
+- - - - - - 
+- - - - - - 
+R - - - - - 
+
+```
+
+3.  Additional parameter given called toWin: which is the number of consecutive same color in east, west, north, south direction, not diagonal. Basically, find path from a certain location in grid using left,right, up & down movement of same color. This is where I got stuck. Although i was given hint of BFS, i could not complete and result was rejected.  
+    Example winner after play(2,'R') and toWin=5 as total Rs is 6 from position (0,2)
+
+```
+
+Y R R - - - 
+Y Y R - - - 
+R R R - - - 
+```
+
+简单bfs
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NDM5MzAyLDE0MzI3NTkzODQsMTc1OT
-ExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIyLC02ODcxMDYyNTYs
-MTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEyMzYsMTE1MD
-M5MTQ4Nl19
+eyJoaXN0b3J5IjpbLTE1ODA5Nzc3OTgsMTQzMjc1OTM4NCwxNz
+U5MTEwNDYsMTcxMTQxMzg1OCw5NDc4MzY1MjIsLTY4NzEwNjI1
+NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nzg3MTIzNiwxMT
+UwMzkxNDg2XX0=
 -->
