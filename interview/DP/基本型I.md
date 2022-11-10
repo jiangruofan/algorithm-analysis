@@ -349,11 +349,48 @@ dp[i][j] 表示从i到leng-1区间进行匹配并且beauty的数量为j有多少
 
 ----
 
+[Doordash OA 2023](https://leetcode.com/discuss/interview-question/2797857/Doordash-OA-2023)
+
+**Problem 1 Application Deployment**  
+Hackerrank developers want to deploy an application on a set of exactly k servers with different vulnerabilities. They have an option to choose the k servers from a sequence of n servers where vulnerability[i] represents the vulnerability of the ih server.
+
+The vulnerability of the chosen & servers is defined as the maximum vulnerability amongst any of the chosen servers. To avoid congestion, they would like to choose : subsequence of & servers such that no two adjacent servers are chosen as part of the Xservers.
+
+Given an array vulnerability and an integer k, find the minimum possible vulnerability of the chosen servers such that the above condition is respected.
+
+_Example_  
+Given n = 4, k = 2 and vulnerability = [2, 3, 5, 9], only 3 subsequences of k = 2 non-adjacent servers exists.  
+• [2, 5] - max = 5  
+• [3, 9] - max = 9  
+• [2, 9] - max = 9  
+Report 5 as the answer.
+
+_Function Description_  
+Complete the function getMinVulnerability in the editor below.  
+getMin Vulnerability has the following parameters:  
+in vulnerability[n]: An array of integers  
+int k: the length of the subsequences to form
+
+**Problem 2 Task Completion**  
+Two interns at HackerRank are teamed up to complete a total of n tasks. Each task is to be completed by either of the two interns. Both interns have their reward points defined, where the first intern gains reward_1[i] points for completing the th task, while the second intern gains reward_ 2[i] points for completing the jth task. Since the interns work as a team, they wish to maximize the total reward points gained by both of them combined. Find the maximum combined reward points that can be gained if the first intern has to complete k tasks, and the second intern completes the remaining tasks.
+
+Note: The k tasks completed by the first intern could  
+be any amongst the n tasks.
+
+_Example_  
+Consider n = 5, reward_1 = [5, 4, 3, 2, 1], reward 2  
+[1, 2, 3, 4, 5] and k = 3.  
+Intern 1 has to complete 3 tasks, while intern 2 has to complete the remaining 2 tasks. In order to maximize the points gained, intern 1 completes the first 3 tasks, while intern 2 completes the last 2 tasks. Total reward points gained = 5 + 4 + 3 (from intern 1) + 4 + 5 (from intern 2) = 21, which is the maximum possible. Thus, the answer is 21.
+
+时间复杂度都是O(nk)
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTM5NDkwOCwtMTY2NDUxMDY2MSwtMj
-I0MDM3MjMwLC0xMzYxMTU4MjIwLC0yMDk4Mjg1MDgxLDk4MTM5
-MTY4MSwtNDk3NjA4OTAzLC05MDQxOTY0NDcsMTY5MDA0MjkzOC
-w3Mjg0ODc1NzgsODE1NDE5Mjc4LDc5MTIzNjc3MCwxMDIyMjA4
-MzU0LC05MTAzNTI4ODgsNjM2MTYzNDA3LC0xNDYyMzM0OTQ0LC
-05NDg4NDUyODcsMjA4NjUzMDEyNywzNDE3Mzk0NzFdfQ==
+eyJoaXN0b3J5IjpbLTgyMzMxMzE4MiwtOTU1Mzk0OTA4LC0xNj
+Y0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIwOTgy
+ODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0Ny
+wxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2
+NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNjM0MDcsLT
+E0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MTcz
+OTQ3MV19
 -->
