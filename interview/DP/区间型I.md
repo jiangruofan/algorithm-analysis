@@ -57,9 +57,9 @@ X = '' Y = ')()'
 ans = 4
 
 对于x来说 左括号一定比右括号多 对于y来说 右括号一定比左括号多
-那么先dp预处理 对于长度为n的
+那么先dp预处理 对于长度为n的括号字符串 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA2NDUyNTksLTgzMDUwMjQzOSwtMT
-A1NTc0MzUyMywxNTMxMjE2MTY2LDgzNzM2NDA4LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMTc0MDIyOTc3MywtODMwNTAyNDM5LC0xMD
+U1NzQzNTIzLDE1MzEyMTYxNjYsODM3MzY0MDgsNzMwOTk4MTE2
+XX0=
 -->
