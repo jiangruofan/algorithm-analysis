@@ -58,9 +58,12 @@ ans = 4
 
 对于x来说 左括号一定比右括号多 对于y来说 右括号一定比左括号多
 那么先dp预处理 对于长度为n的括号字符串 计算出左括号比右括号多k个有多少情况 对于右括号比左括号多的情况 答案是一样的
-然后就是枚举x的长度为i并且左括号比右括号多k
+然后就是枚举x的长度为i并且左括号比右括号多k 
+总体时间复杂度是O(n^2)
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzM2MTUsMTc0MDIyOTc3MywtODMwNT
-AyNDM5LC0xMDU1NzQzNTIzLDE1MzEyMTYxNjYsODM3MzY0MDgs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg4ODEwNzM0LC04NzMzNjE1LDE3NDAyMj
+k3NzMsLTgzMDUwMjQzOSwtMTA1NTc0MzUyMywxNTMxMjE2MTY2
+LDgzNzM2NDA4LDczMDk5ODExNl19
 -->
