@@ -38,9 +38,11 @@ So there are total 3 ways possible
 Problem Statement:  
 N village are situated on a straight line. The villages are labeled from 1 to N. You are given the population - P[i] and location L[i] of each village. You need to construct K post offices on K different locations such that the average distance taken by person to go to the nearest office is minimized.
 
-这里和力扣那个邮箱不太一样 这里需要预处理 如果把邮箱放在相邻的两个村庄之间 那么给定左边界的村庄和右边界的村庄可以计算出一个ax+b的公式 如果a大于0 那么邮箱放在右边的村庄 如果a小于0 那么邮箱放在左边的村庄 如果a等于0 那么邮箱放在村庄之间都可以 预处理时间复杂度是O(n^3) 然后就是
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0ODY1NDksLTgzMDUwMjQzOSwtMTA1NT
-c0MzUyMywxNTMxMjE2MTY2LDgzNzM2NDA4LDczMDk5ODExNl19
+这里和力扣那个邮箱不太一样 这里需要预处理 如果把邮箱放在相邻的两个村庄之间 那么给定左边界的村庄和右边界的村庄可以计算出一个ax+b的公式 如果a大于0 那么邮箱放在右边的村庄 如果a小于0 那么邮箱放在左边的村庄 如果a等于0 那么邮箱放在村庄之间都可以 预处理时间复杂度是O(n^3) 然后还需要处理一下 对于给定左村庄和右村庄 计算出放置一个邮箱的最小距离 这个时间复杂度也是O(n^3) 然后就是套路dp
 
+----
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MDQ2NTM4MjMsLTgzMDUwMjQzOSwtMT
+A1NTc0MzUyMywxNTMxMjE2MTY2LDgzNzM2NDA4LDczMDk5ODEx
+Nl19
 -->
