@@ -33,8 +33,13 @@ So there are total 3 ways possible
 
 ---
 
-[enter link description here](https://leetcode.com/discuss/interview-question/2795802/Media.net-SDE-1-or-Bengaluru-or-Oncampus)
+[Media.net SDE-1 | Bengaluru | Oncampus](https://leetcode.com/discuss/interview-question/2795802/Media.net-SDE-1-or-Bengaluru-or-Oncampus)
+
+Problem Statement:  
+N village are situated on a straight line. The villages are labeled from 1 to N. You are given the population - P[i] and location L[i] of each village. You need to construct K post offices on K different locations such that the average distance taken by person to go to the nearest office is minimized.
+
+这里和力扣那个邮箱不太一样 这里需要预处理 如果把邮箱放在相邻的两个村庄之间 那么
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUxMjU4MjUsLTEwNTU3NDM1MjMsMT
-UzMTIxNjE2Niw4MzczNjQwOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgzMDUwMjQzOSwtMTA1NTc0MzUyMywxNT
+MxMjE2MTY2LDgzNzM2NDA4LDczMDk5ODExNl19
 -->
