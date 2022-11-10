@@ -41,8 +41,25 @@ N village are situated on a straight line. The villages are labeled from 1 to N.
 这里和力扣那个邮箱不太一样 这里需要预处理 如果把邮箱放在相邻的两个村庄之间 那么给定左边界的村庄和右边界的村庄可以计算出一个ax+b的公式 如果a大于0 那么邮箱放在右边的村庄 如果a小于0 那么邮箱放在左边的村庄 如果a等于0 那么邮箱放在村庄之间都可以 预处理时间复杂度是O(n^3) 然后还需要处理一下 对于给定左村庄和右村庄 计算出放置一个邮箱的最小距离 这个时间复杂度也是O(n^3) 然后就是套路dp
 
 ----
+
+[Media.net SDE-1 | Bengaluru | Oncampus](https://leetcode.com/discuss/interview-question/2795802/Media.net-SDE-1-or-Bengaluru-or-Oncampus)
+
+Problem Statement:  
+You are given a string S consisting of only open-close paranthesis and an integer N. X and Y are prefix and suffix strings which can only contain open-close paranthesis. Find no of pairs of X and Y such that the combined string X + S + Y is of length N and is balanced.
+
+ex.  
+S = '(' N = 4  
+Possible pairs of X and Y are  
+X = '(' Y = '))'  
+X = '()' Y = ')'  
+X = '' Y = '())'  
+X = '' Y = ')()'  
+ans = 4
+
+对于x来说 左括号一定比右括号多 对于y来说 右括号一定比左括号多
+那么先dp预处理 对于长度为n的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ2NTM4MjMsLTgzMDUwMjQzOSwtMT
+eyJoaXN0b3J5IjpbLTE2MzA2NDUyNTksLTgzMDUwMjQzOSwtMT
 A1NTc0MzUyMywxNTMxMjE2MTY2LDgzNzM2NDA4LDczMDk5ODEx
 Nl19
 -->
