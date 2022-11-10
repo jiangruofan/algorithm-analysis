@@ -191,11 +191,17 @@ There are some obstacles on the grid as well.
 
 [Google | Phone Screen](https://leetcode.com/discuss/interview-question/2795760/Google-or-Phone-Screen)
 
+Given an n*(n-1) matrix with 0 or 1 in cells. Starting from top-left, you need to reach bottom right making sure you visit equal number of dark(0) and light(1) cells.
+
+0表示1 1表示-1 要求加起来为0
+这里的visited需要记录三个属性 x和y表示位置 还有一个表示sum
+
+---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMyMzYwOTksMTQzMjc1OTM4NCwxNz
-U5MTEwNDYsMTcxMTQxMzg1OCw5NDc4MzY1MjIsLTY4NzEwNjI1
-NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nzg3MTIzNiwxMT
-UwMzkxNDg2XX0=
+eyJoaXN0b3J5IjpbODI1NDM5MzAyLDE0MzI3NTkzODQsMTc1OT
+ExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIyLC02ODcxMDYyNTYs
+MTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEyMzYsMTE1MD
+M5MTQ4Nl19
 -->
