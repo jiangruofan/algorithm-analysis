@@ -33,7 +33,8 @@ So there are total 3 ways possible
 
 ---
 
+[enter link description here](https://leetcode.com/discuss/interview-question/2795802/Media.net-SDE-1-or-Bengaluru-or-Oncampus)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU3NDM1MjMsMTUzMTIxNjE2Niw4Mz
-czNjQwOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTUxMjU4MjUsLTEwNTU3NDM1MjMsMT
+UzMTIxNjE2Niw4MzczNjQwOCw3MzA5OTgxMTZdfQ==
 -->
