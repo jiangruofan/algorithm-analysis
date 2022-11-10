@@ -189,10 +189,13 @@ There are some obstacles on the grid as well.
 
 ----
 
+[Google | Phone Screen](https://leetcode.com/discuss/interview-question/2795760/Google-or-Phone-Screen)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTM1MzA2MywxNDMyNzU5Mzg0LDE3NT
-kxMTA0NiwxNzExNDEzODU4LDk0NzgzNjUyMiwtNjg3MTA2MjU2
-LDEzMTczMjk0NzEsLTEzOTIwOTcwMjcsMzk3ODcxMjM2LDExNT
-AzOTE0ODZdfQ==
+eyJoaXN0b3J5IjpbLTE3MjMyMzYwOTksMTQzMjc1OTM4NCwxNz
+U5MTEwNDYsMTcxMTQxMzg1OCw5NDc4MzY1MjIsLTY4NzEwNjI1
+NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nzg3MTIzNiwxMT
+UwMzkxNDg2XX0=
 -->
