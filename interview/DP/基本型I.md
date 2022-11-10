@@ -391,9 +391,11 @@ Intern 1 has to complete 3 tasks, while intern 2 has to complete the remaining 2
 ![image](https://assets.leetcode.com/users/images/44b7eab0-7bfe-482b-8fc2-b406a4d2875f_1668063249.8687634.jpeg)
 ![image](https://assets.leetcode.com/users/images/5bdb08fd-d29c-4086-a074-50f2ee4a3347_1668063257.921846.jpeg)
 
-类似
+类似wisdom油管上的那一道题目
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzE0NTA5OCwtOTU1Mzk0OTA4LC0xNj
+eyJoaXN0b3J5IjpbMTE2MzI2MzUzMCwtOTU1Mzk0OTA4LC0xNj
 Y0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIwOTgy
 ODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0Ny
 wxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2
