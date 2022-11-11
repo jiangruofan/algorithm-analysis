@@ -397,9 +397,11 @@ Intern 1 has to complete 3 tasks, while intern 2 has to complete the remaining 2
 
 [Snowflake OA](https://leetcode.com/discuss/interview-question/2801540/Snowflake-OA)
 
+![image](https://assets.leetcode.com/users/images/1f08afec-0012-4fbc-8a48-32a5d9a06b9b_1668119821.2091281.png)
 
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDUxNzI1NSwtOTU1Mzk0OTA4LC0xNj
+eyJoaXN0b3J5IjpbLTYwOTI4OTQxOCwtOTU1Mzk0OTA4LC0xNj
 Y0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIwOTgy
 ODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0Ny
 wxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2
