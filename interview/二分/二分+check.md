@@ -238,10 +238,12 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 
 ![image](https://assets.leetcode.com/users/images/36bfee5a-4a1e-4bb3-98ef-6a891cb54995_1668074350.9846668.png)
 
-这里有贪心的思想 假设最小值是x 那么对于一个集合 肯定是符合条件的所有元素都放进去 这样剩下来的元素就最少 构成最小值也是x的概率就越大 因为少一个元素肯定
+这里有贪心的思想 假设最小值是x 那么对于一个集合 肯定是符合条件的所有元素都放进去 这样剩下来的元素就最少 构成最小值也是x的概率就越大 因为少一个元素肯定比多一个元素好
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTkwNzMxNywtMTYyMTUxNzc0NiwtNT
-UzMDU2MjExLC0zMzQ4NDMyNTcsMTk3MjU0ODYzOSwtMTI1MzQ5
-NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3NDMxXX
-0=
+eyJoaXN0b3J5IjpbNDc5NjI1NTc5LC0xNjIxNTE3NzQ2LC01NT
+MwNTYyMTEsLTMzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMjUzNDk2
+Njc2LDY1NjkwOTExNSwtOTAwODgzNzY3LDE1NDUyMDc0MzFdfQ
+==
 -->
