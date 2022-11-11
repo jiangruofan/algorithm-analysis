@@ -233,8 +233,15 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 ![image](https://assets.leetcode.com/users/images/8010b787-24a7-48fe-a6ea-8379bed3f68e_1666869411.337894.png)
 
 ----
+
+[Can anyone give me the hint...](https://leetcode.com/discuss/interview-question/2799572/Can-anyone-give-me-the-hint...)
+
+![image](https://assets.leetcode.com/users/images/36bfee5a-4a1e-4bb3-98ef-6a891cb54995_1668074350.9846668.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE1MTc3NDYsLTU1MzA1NjIxMSwtMz
-M0ODQzMjU3LDE5NzI1NDg2MzksLTEyNTM0OTY2NzYsNjU2OTA5
-MTE1LC05MDA4ODM3NjcsMTU0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbNzMxNjIwODA0LC0xNjIxNTE3NzQ2LC01NT
+MwNTYyMTEsLTMzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMjUzNDk2
+Njc2LDY1NjkwOTExNSwtOTAwODgzNzY3LDE1NDUyMDc0MzFdfQ
+==
 -->
