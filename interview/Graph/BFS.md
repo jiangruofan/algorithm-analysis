@@ -181,6 +181,10 @@ Output: 5
 
 ----
 
+[enter link description here](https://leetcode.com/discuss/interview-question/2800205/interesting-directed-acyclic-graph-problem)
+
+---
+
 [Google vo problem](https://leetcode.com/discuss/interview-question/2794952/Google-vo-problem)
 
 My friend got this problem on Google vo. Does anyone have a clue how to solve it?  
@@ -239,8 +243,8 @@ R R R - - -
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzEwNjI5NSwxNDMyNzU5Mzg0LDE3NT
-kxMTA0NiwxNzExNDEzODU4LDk0NzgzNjUyMiwtNjg3MTA2MjU2
-LDEzMTczMjk0NzEsLTEzOTIwOTcwMjcsMzk3ODcxMjM2LDExNT
-AzOTE0ODZdfQ==
+eyJoaXN0b3J5IjpbODM1NjIzMzkyLC05NjcxMDYyOTUsMTQzMj
+c1OTM4NCwxNzU5MTEwNDYsMTcxMTQxMzg1OCw5NDc4MzY1MjIs
+LTY4NzEwNjI1NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nz
+g3MTIzNiwxMTUwMzkxNDg2XX0=
 -->
