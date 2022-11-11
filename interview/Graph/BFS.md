@@ -181,7 +181,10 @@ Output: 5
 
 ----
 
-[enter link description here](https://leetcode.com/discuss/interview-question/2800205/interesting-directed-acyclic-graph-problem)
+[interesting directed acyclic graph problem](https://leetcode.com/discuss/interview-question/2800205/interesting-directed-acyclic-graph-problem)
+
+![image](https://assets.leetcode.com/users/images/cb323cfa-b088-4afe-8fee-ebe5edf97e44_1668089207.1800365.png)
+和上题一样
 
 ---
 
@@ -243,8 +246,8 @@ R R R - - -
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NjIzMzkyLC05NjcxMDYyOTUsMTQzMj
-c1OTM4NCwxNzU5MTEwNDYsMTcxMTQxMzg1OCw5NDc4MzY1MjIs
-LTY4NzEwNjI1NiwxMzE3MzI5NDcxLC0xMzkyMDk3MDI3LDM5Nz
-g3MTIzNiwxMTUwMzkxNDg2XX0=
+eyJoaXN0b3J5IjpbMTcyMTc2MDkyMCwtOTY3MTA2Mjk1LDE0Mz
+I3NTkzODQsMTc1OTExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIy
+LC02ODcxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOT
+c4NzEyMzYsMTE1MDM5MTQ4Nl19
 -->
