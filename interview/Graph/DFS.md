@@ -673,14 +673,21 @@ For vertex 1 , distances to nodes 1,2 and 3 are 0 ,
 ![image](https://assets.leetcode.com/users/images/52cdec36-d7b1-4dd9-a354-f25918c1ecd9_1666869462.536593.png)
 
 ----
+
+[Media.net OA|SDE|2022](https://leetcode.com/discuss/interview-question/2803576/Media.net-OAorSDEor2022)
+
+![image](https://assets.leetcode.com/users/images/e6d9b7bd-50e5-4bed-b561-1140fc7d2e5c_1668173206.950137.png)
+![image](https://assets.leetcode.com/users/images/c017b7f0-386a-4244-901b-21385072d9b2_1668173207.2163472.png)
+
+dfs即可 注意这里摇一次
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDA2NDk3Myw0NTI4NTU0ODAsLTE2NT
-kyODgzNjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcw
-NDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLT
-ExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNjE3
-MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAwNzAsOT
-Y0ODg4NDE5LDExNTUxMTY0ODgsLTE2NjQxODcwNSwtMTcxNTg4
-MTQ0XX0=
+eyJoaXN0b3J5IjpbLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mj
+g1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4
+NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMT
+QxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYwMDQsMTA5Mzc5
+NzY0NiwtMzI2MTcwNTE4LDMwNjg2NzcwMSwxMDE5MTg5NjU2LC
+0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NTExNjQ4OCwtMTY2NDE4
+NzA1XX0=
 -->
