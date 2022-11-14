@@ -9,7 +9,36 @@
 如果j等于i 那么dp[i][j]=min(dp[k] + sum(k到i) for k in range(0, i)) + B
 
 ----
+
+[Media.net | OA](https://leetcode.com/discuss/interview-question/2415905/Media.net-or-OA)
+
+## 2. Lexicographically Greater String
+
+Given a string  **C**  consisting of lowercase alphabets of size  **A**. For each string  **D**  of length  **n**, its beauty relative to  **C**  is defined as the number of pairs of indexes i,j  `(1<=i<=j<=n)`  that substring  `D[i..j]`  is lexicographically larger than substring  `C[i..j]`
+
+Return the count of strings  **D**, such that their beauty relative to  **C**  equals exactly  **B**
+
+Since, the count can be very large you are required to return count modulo  **(10^9+7)**
+
+**Input Format:**
+
+```
+The first argument is an Integer A. 
+The second argument is an Integer B.
+The third argument is String C.
+
+```
+
+**Constraints:**
+
+```
+1 <= A <= 2000
+1 <= B <= 2000
+```
+
+https://codeforces.com/problemset/problem/360/C
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE0MjcyNjMsLTE2OTc5NjMyOThdfQ
-==
+eyJoaXN0b3J5IjpbMTY5MjA5MDU0NSwtMTY5Nzk2MzI5OF19
 -->
