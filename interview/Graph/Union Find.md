@@ -197,7 +197,24 @@ query =  ["USD", "JPY"]
 带权重的并查集
 
 -----
+
+[Media.net | Virtual Onsite](https://leetcode.com/discuss/interview-question/1336628/Media.net-or-Virtual-Onsite)
+
+Given an array of size n+1 such that arr[i] = i.  
+Given Q queries (Q<n) with condition:
+
+1.  Given i : Update arr[i]=0
+2.  Given (L, R) : Return max element in range (L,R)
+
+Follow up: Consider the case where n is very large
+
+答案: 
+I think the interviewer meant that Q is much smaller than N, in which case this problem can be solved with O(logQ) (or even faster!) time complexity.  
+The idea is to use DSU and initialize it normally (par[i] = i). Now, if we delete a note 'x', then we just join it to 'x-1'. Now it is easy to see that for a query (L,R), the answer will be the parent of 'R'. If this parent comes out to be less than L, then we can simple return 0 (because all numbers between L,R are set to 0).  
+To improve Query time, we can use path compression in DSU.
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MDU5MTg1LC00NDIyNTQ3NjUsNjgzNz
-c5NDM5LC03Mzk3NDE3NDRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODg5MTA3MDQsLTQ0MjI1NDc2NSw2OD
+M3Nzk0MzksLTczOTc0MTc0NF19
 -->
