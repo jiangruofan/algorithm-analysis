@@ -247,11 +247,25 @@ R R R - - -
 
 [TikTok | On-Site Round 1](https://leetcode.com/discuss/interview-question/2804546/TikTok-or-On-Site-Round-1)
 
+Q. Given a Binary Tree print the sum of egdes formed by the triangle.
 
+Example : Output : 1+2+3+4+7+8..+13 = 80. Tried solving using Level order traversal but got rejected.
+
+```
+          1
+		  /\
+		 2  3
+		/\  /\
+	   4  5 6 7
+	  /\ /\ /\ /\
+	 8 9 10 11 12 13 
+```
+
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NjIxNzM4LDE3MjE3NjA5MjAsLTk2Nz
-EwNjI5NSwxNDMyNzU5Mzg0LDE3NTkxMTA0NiwxNzExNDEzODU4
-LDk0NzgzNjUyMiwtNjg3MTA2MjU2LDEzMTczMjk0NzEsLTEzOT
-IwOTcwMjcsMzk3ODcxMjM2LDExNTAzOTE0ODZdfQ==
+eyJoaXN0b3J5IjpbLTkxNzI3OTg1MCwxNzIxNzYwOTIwLC05Nj
+cxMDYyOTUsMTQzMjc1OTM4NCwxNzU5MTEwNDYsMTcxMTQxMzg1
+OCw5NDc4MzY1MjIsLTY4NzEwNjI1NiwxMzE3MzI5NDcxLC0xMz
+kyMDk3MDI3LDM5Nzg3MTIzNiwxMTUwMzkxNDg2XX0=
 -->
