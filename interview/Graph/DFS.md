@@ -682,14 +682,22 @@ For vertex 1 , distances to nodes 1,2 and 3 are 0 ,
 dfs即可 注意对于每一个节点 摇的前几次是没有苹果掉下来的 后面才会有苹果掉下来 所以complete tree 是关键 这样前几次没有苹果掉下来的次数是一样的 然后计算苹果能往下掉多少次 假设所有父节点中掉落苹果的最大次数为x 那么对于当前节点 它掉落的次数至少为x-1次 第x次的时候苹果存在当前节点还没有掉下去 再计算父节点中其他节点的掉落次数之和 假设为sum 取min1 = min(capacity-1, sum) 最后答案就是x + min1
 
 ---
+
+[Media.Net(Directi) OA On campus Questions :)](https://leetcode.com/discuss/interview-question/2639890/Media.Net%28Directi%29-OA-On-campus-Questions-:%29)
+
+![image](https://assets.leetcode.com/users/images/c2eb8756-db23-47b5-9674-02edee503efc_1664476866.0531662.png)
+
+和那个chegg类似
+
+---
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MTI1NzIwLDk2MDY2ODg0MSwtMTUzMD
-c3NTA0MCwtMTMzMzU1MzI0LDEyNjAwNjQ5NzMsNDUyODU1NDgw
-LC0xNjU5Mjg4MzY2LC04NzQ3NTAyNDUsMTA3MTU3ODg0OCwxNT
-g5NjQ3MDQxLDE5NTAzMjAxOCwtMTkxNjM3OTM5MywxNDEyNDE3
-NDczLC0xMTY2MTEwNzQxLC01MjE2NjAwNCwxMDkzNzk3NjQ2LC
-0zMjYxNzA1MTgsMzA2ODY3NzAxLDEwMTkxODk2NTYsLTM5ODUw
-MDcwXX0=
+eyJoaXN0b3J5IjpbLTk0MzUyNTcsOTYwNjY4ODQxLC0xNTMwNz
+c1MDQwLC0xMzMzNTUzMjQsMTI2MDA2NDk3Myw0NTI4NTU0ODAs
+LTE2NTkyODgzNjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1OD
+k2NDcwNDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0
+NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLT
+MyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAw
+NzBdfQ==
 -->
