@@ -251,13 +251,13 @@ max sum => max(23, 17) = 23
 
 _I could not solve the 2nd question; it felt like I need a competitive programming spirit to solve this one._
 
-时空倒流+并查集
+时空倒流+并查集 并且用一个heap维护最大值
 
 ----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjA0Njc5MCwtMTI4MTUzNzQ4LC0xND
-g4OTEwNzA0LC00NDIyNTQ3NjUsNjgzNzc5NDM5LC03Mzk3NDE3
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTE4NzYyNTg2NTEsLTY4MjA0Njc5MCwtMT
+I4MTUzNzQ4LC0xNDg4OTEwNzA0LC00NDIyNTQ3NjUsNjgzNzc5
+NDM5LC03Mzk3NDE3NDRdfQ==
 -->
