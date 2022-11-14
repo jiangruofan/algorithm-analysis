@@ -12,7 +12,9 @@
 
 [Media.net | OA](https://leetcode.com/discuss/interview-question/2415905/Media.net-or-OA)
 
-## 2. Lexicographically Greater String
+![image](https://assets.leetcode.com/users/images/c3ae564d-94a1-45b8-a5f9-e5886719b479_1659122058.8588572.png)
+
+Lexicographically Greater String
 
 Given a string  **C**  consisting of lowercase alphabets of size  **A**. For each string  **D**  of length  **n**, its beauty relative to  **C**  is defined as the number of pairs of indexes i,j  `(1<=i<=j<=n)`  that substring  `D[i..j]`  is lexicographically larger than substring  `C[i..j]`
 
@@ -38,7 +40,9 @@ The third argument is String C.
 
 https://codeforces.com/problemset/problem/360/C
 
+这里的特殊情况就是如果当前的字符一样 那么需要往后遍历
+
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjA5MDU0NSwtMTY5Nzk2MzI5OF19
+eyJoaXN0b3J5IjpbLTY2MzQ4MDM0OSwtMTY5Nzk2MzI5OF19
 -->
