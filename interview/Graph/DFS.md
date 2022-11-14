@@ -679,15 +679,15 @@ For vertex 1 , distances to nodes 1,2 and 3 are 0 ,
 ![image](https://assets.leetcode.com/users/images/e6d9b7bd-50e5-4bed-b561-1140fc7d2e5c_1668173206.950137.png)
 ![image](https://assets.leetcode.com/users/images/c017b7f0-386a-4244-901b-21385072d9b2_1668173207.2163472.png)
 
-dfs即可 注意这里摇一次
+dfs即可 注意对于每一个节点 摇的前几次是没有苹果掉下来的 后面才会有苹果掉下来 所以complete tree 是关键 这样前几次没有苹果掉下来的次数是一样的 然后就是计算有多少个苹果超过了capacity自动掉下去了
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mj
-g1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4
-NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMT
-QxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYwMDQsMTA5Mzc5
-NzY0NiwtMzI2MTcwNTE4LDMwNjg2NzcwMSwxMDE5MTg5NjU2LC
-0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NTExNjQ4OCwtMTY2NDE4
-NzA1XX0=
+eyJoaXN0b3J5IjpbLTExNDIyNzQ1NjUsLTEzMzM1NTMyNCwxMj
+YwMDY0OTczLDQ1Mjg1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUw
+MjQ1LDEwNzE1Nzg4NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLT
+E5MTYzNzkzOTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIx
+NjYwMDQsMTA5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2NzcwMS
+wxMDE5MTg5NjU2LC0zOTg1MDA3MCw5NjQ4ODg0MTksMTE1NTEx
+NjQ4OF19
 -->
