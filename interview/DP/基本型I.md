@@ -400,12 +400,41 @@ Intern 1 has to complete 3 tasks, while intern 2 has to complete the remaining 2
 ![image](https://assets.leetcode.com/users/images/1f08afec-0012-4fbc-8a48-32a5d9a06b9b_1668119821.2091281.png)
 
 ----
+
+[Media.Net | Onsite | No. of ways an array can be split into two equal sum sequences](https://leetcode.com/discuss/interview-question/1006129/Media.Net-or-Onsite-or-No.-of-ways-an-array-can-be-split-into-two-equal-sum-sequences)
+
+You are given an integer array of size N and you have to split it into two subsequences, both must have at least one element and equal sum. There can be some elements in the array which are left undistributed. Now, count the number of ways in which the integers can be split.
+
+Example:  
+Input -> [1,2,3,4,5,11]  
+Output -> 8  
+Explanation ->  
+The splits are as follows:
+
+-   [1,2], [3] (same as [3], [1,2])
+-   [1,3], [4]
+-   [1,4], [5]
+-   [2,3], [5]
+-   [3,4], [5,2]
+-   [2,4,5], [11]
+-   [3,4,5], [1,11]
+-   [1,2,3,5], [11]
+
+Note:
+
+1.  I think the interviewer has missed some cases and the output should be more than 8 (E.g. the split [2,4], [1,5] should also be valid). (At that time the question was clear to me so I didn't verify the output that he provided)
+
+Constraints:  
+a. [N <= 100]  
+b. [-1000 <= total sum <= 1000]
+
+dp的状态值表示的是两个子序列的cha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTI4OTQxOCwtOTU1Mzk0OTA4LC0xNj
-Y0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIwOTgy
-ODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0Ny
-wxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2
-NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYxNjM0MDcsLT
-E0NjIzMzQ5NDQsLTk0ODg0NTI4NywyMDg2NTMwMTI3LDM0MTcz
-OTQ3MV19
+eyJoaXN0b3J5IjpbMjA5OTc2ODAyLC02MDkyODk0MTgsLTk1NT
+M5NDkwOCwtMTY2NDUxMDY2MSwtMjI0MDM3MjMwLC0xMzYxMTU4
+MjIwLC0yMDk4Mjg1MDgxLDk4MTM5MTY4MSwtNDk3NjA4OTAzLC
+05MDQxOTY0NDcsMTY5MDA0MjkzOCw3Mjg0ODc1NzgsODE1NDE5
+Mjc4LDc5MTIzNjc3MCwxMDIyMjA4MzU0LC05MTAzNTI4ODgsNj
+M2MTYzNDA3LC0xNDYyMzM0OTQ0LC05NDg4NDUyODcsMjA4NjUz
+MDEyN119
 -->
