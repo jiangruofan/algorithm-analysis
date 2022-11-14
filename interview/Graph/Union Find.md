@@ -215,8 +215,49 @@ To improve Query time, we can use path compression in DSU.
 
 ---
 
+[Media.net | Phone | India](https://leetcode.com/discuss/interview-question/703363/Media.net-or-Phone-or-India)
+
+Role: Senior Software Engineer  
+Location:- India
+
+Phone Screen: 45Mins to 1 hr
+
+Question 1:  
+[https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
+
+Question 2:
+
+Given two arrays:  
+Array-1 = [13, 11, 12, 22, 12, 17]  
+Array-2 = [3, 0, 4]  
+[36, 29, 23]  
+Each index in Array-2 will divide the array into two segemts(considering the main array as one one segment) , you have to return the max of sum of each segment
+
+Example:  
+index 0 of array-2 will divide the array into [[ 13,11,12 ], [12,17]] at 3rd index ->  
+sum of segement-1 => 36  
+sum of segment-2 => 29  
+max sum => max(36, 29) = 36
+
+index 1 will divide the array into [[11,12 ], [12,17]] ->  
+sum of segement => 23  
+sum of segment-2 => 29  
+max sum => max(23, 29) = 29
+
+index 1 will divide the array into [[11,12 ], [17]] ->  
+sum of segement => 23  
+sum of segment-2 => 17  
+max sum => max(23, 17) = 23
+
+_I could not solve the 2nd question; it felt like I need a competitive programming spirit to solve this one._
+
+时空倒流+并查集
+
+----
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE1Mzc0OCwtMTQ4ODkxMDcwNCwtND
-QyMjU0NzY1LDY4Mzc3OTQzOSwtNzM5NzQxNzQ0XX0=
+eyJoaXN0b3J5IjpbLTY4MjA0Njc5MCwtMTI4MTUzNzQ4LC0xND
+g4OTEwNzA0LC00NDIyNTQ3NjUsNjgzNzc5NDM5LC03Mzk3NDE3
+NDRdfQ==
 -->
