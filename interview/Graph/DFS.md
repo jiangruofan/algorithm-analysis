@@ -679,11 +679,13 @@ For vertex 1 , distances to nodes 1,2 and 3 are 0 ,
 ![image](https://assets.leetcode.com/users/images/e6d9b7bd-50e5-4bed-b561-1140fc7d2e5c_1668173206.950137.png)
 ![image](https://assets.leetcode.com/users/images/c017b7f0-386a-4244-901b-21385072d9b2_1668173207.2163472.png)
 
-dfs即可 注意对于每一个节点 摇的前几次是没有苹果掉下来的 后面才会有苹果掉下来 所以complete tree 是关键 这样前几次没有苹果掉下来的次数是一样的 然后就是计算有多少个苹果超过了capacity自动掉下去了
+dfs即可 注意对于每一个节点 摇的前几次是没有苹果掉下来的 后面才会有苹果掉下来 所以complete tree 是关键 这样前几次没有苹果掉下来的次数是一样的 然后就是计算有多少个苹果超过了capacity自动掉下去了 用所有苹果数减去这个值就可以
+
+---
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIyNzQ1NjUsLTEzMzM1NTMyNCwxMj
+eyJoaXN0b3J5IjpbLTE1MzA3NzUwNDAsLTEzMzM1NTMyNCwxMj
 YwMDY0OTczLDQ1Mjg1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUw
 MjQ1LDEwNzE1Nzg4NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLT
 E5MTYzNzkzOTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIx
