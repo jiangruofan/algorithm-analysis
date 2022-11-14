@@ -430,9 +430,11 @@ b. [-1000 <= total sum <= 1000]
 
 dp的状态值表示的是两个子序列的差值 如果对于正数没问题
 如果对于负数 还需要另一个dp计算出所有的元素和为0的子序列有多少个 然后乘2 
-再用一个
+最后把这一部分重复计算的刨掉
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTExNTY3MywtNjA5Mjg5NDE4LC05NT
+eyJoaXN0b3J5IjpbLTQyMzE0Mzk3MywtNjA5Mjg5NDE4LC05NT
 UzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMCwtMTM2MTE1
 ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5NzYwODkwMy
 wtOTA0MTk2NDQ3LDE2OTAwNDI5MzgsNzI4NDg3NTc4LDgxNTQx
