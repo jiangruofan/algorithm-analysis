@@ -679,17 +679,17 @@ For vertex 1 , distances to nodes 1,2 and 3 are 0 ,
 ![image](https://assets.leetcode.com/users/images/e6d9b7bd-50e5-4bed-b561-1140fc7d2e5c_1668173206.950137.png)
 ![image](https://assets.leetcode.com/users/images/c017b7f0-386a-4244-901b-21385072d9b2_1668173207.2163472.png)
 
-dfs即可 注意对于每一个节点 摇的前几次是没有苹果掉下来的 后面才会有苹果掉下来 所以complete tree 是关键 这样前几次没有苹果掉下来的次数是一样的 然后计算苹果能往下掉多少次 假设所有父节点中掉落苹果的最大次数为x 那么对于当前节点 它掉落的次数至少为x-1次 
+dfs即可 注意对于每一个节点 摇的前几次是没有苹果掉下来的 后面才会有苹果掉下来 所以complete tree 是关键 这样前几次没有苹果掉下来的次数是一样的 然后计算苹果能往下掉多少次 假设所有父节点中掉落苹果的最大次数为x 那么对于当前节点 它掉落的次数至少为x-1次 第x次的时候苹果存在当前节点还没有掉下去 再计算父节点中其他节点的掉落次数之和 假设为sum 
 
 ---
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNjY4ODQxLC0xNTMwNzc1MDQwLC0xMz
-MzNTUzMjQsMTI2MDA2NDk3Myw0NTI4NTU0ODAsLTE2NTkyODgz
-NjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcwNDEsMT
-k1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLTExNjYx
-MTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNjE3MDUxOC
-wzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAwNzAsOTY0ODg4
-NDE5XX0=
+eyJoaXN0b3J5IjpbMjA0NzAxNTM2Niw5NjA2Njg4NDEsLTE1Mz
+A3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mjg1NTQ4
+MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4NDgsMT
+U4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMTQxMjQx
+NzQ3MywtMTE2NjExMDc0MSwtNTIxNjYwMDQsMTA5Mzc5NzY0Ni
+wtMzI2MTcwNTE4LDMwNjg2NzcwMSwxMDE5MTg5NjU2LC0zOTg1
+MDA3MF19
 -->
