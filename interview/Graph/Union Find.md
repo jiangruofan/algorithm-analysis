@@ -214,7 +214,9 @@ The idea is to use DSU and initialize it normally (par[i] = i). Now, if we delet
 To improve Query time, we can use path compression in DSU.
 
 ---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg5MTA3MDQsLTQ0MjI1NDc2NSw2OD
-M3Nzk0MzksLTczOTc0MTc0NF19
+eyJoaXN0b3J5IjpbLTEyODE1Mzc0OCwtMTQ4ODkxMDcwNCwtND
+QyMjU0NzY1LDY4Mzc3OTQzOSwtNzM5NzQxNzQ0XX0=
 -->
