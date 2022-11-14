@@ -245,9 +245,13 @@ R R R - - -
 
 ---
 
+[TikTok | On-Site Round 1](https://leetcode.com/discuss/interview-question/2804546/TikTok-or-On-Site-Round-1)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTc2MDkyMCwtOTY3MTA2Mjk1LDE0Mz
-I3NTkzODQsMTc1OTExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIy
-LC02ODcxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOT
-c4NzEyMzYsMTE1MDM5MTQ4Nl19
+eyJoaXN0b3J5IjpbMjg3NjIxNzM4LDE3MjE3NjA5MjAsLTk2Nz
+EwNjI5NSwxNDMyNzU5Mzg0LDE3NTkxMTA0NiwxNzExNDEzODU4
+LDk0NzgzNjUyMiwtNjg3MTA2MjU2LDEzMTczMjk0NzEsLTEzOT
+IwOTcwMjcsMzk3ODcxMjM2LDExNTAzOTE0ODZdfQ==
 -->
