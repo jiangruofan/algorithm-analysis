@@ -241,9 +241,11 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 这里有贪心的思想 假设最小值是x 那么对于一个集合 肯定是符合条件的所有元素都放进去 这样剩下来的元素就最少 构成最小值也是x的概率就越大 因为少一个元素肯定比多一个元素好
 
 ----
+
+[####Walmart | OA | Subarray Sum Problem](https://leetcode.com/discuss/interview-question/2811647/Walmart-or-OA-or-Subarray-Sum-Problem)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NjI1NTc5LC0xNjIxNTE3NzQ2LC01NT
-MwNTYyMTEsLTMzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMjUzNDk2
-Njc2LDY1NjkwOTExNSwtOTAwODgzNzY3LDE1NDUyMDc0MzFdfQ
-==
+eyJoaXN0b3J5IjpbLTI0MDA2MTMxMiw0Nzk2MjU1NzksLTE2Mj
+E1MTc3NDYsLTU1MzA1NjIxMSwtMzM0ODQzMjU3LDE5NzI1NDg2
+MzksLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MDA4ODM3NjcsMT
+U0NTIwNzQzMV19
 -->
