@@ -417,7 +417,10 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 先使用扫描线 对起点和终点进行排序 然后记录每一个区间有多少tasks在里面 然后按照tasks的数量放入大根堆 每次取出一个元素 把元素尽量放入当前的区间 如果当前task没有时间了 那么直接把task删除 如果当前区间没有task了 那么不继续放入大根堆
 
 ----
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjQ3MTg1LDk2ODExODk5NiwtNzE2Mj
-U1NTEyLDEwNzYxNzE2MDYsMTAzNDg4MzUwM119
+eyJoaXN0b3J5IjpbLTk3NDQ4NzY5OSwyMTQyNDcxODUsOTY4MT
+E4OTk2LC03MTYyNTU1MTIsMTA3NjE3MTYwNiwxMDM0ODgzNTAz
+XX0=
 -->
