@@ -242,10 +242,33 @@ Let's say that the jobs can executre in parallel on nodes [N_1..N_k]. Assume we 
 
 ----
 
-[####Walmart | OA | Subarray Sum Problem](https://leetcode.com/discuss/interview-question/2811647/Walmart-or-OA-or-Subarray-Sum-Problem)
+[Walmart | OA | Subarray Sum Problem](https://leetcode.com/discuss/interview-question/2811647/Walmart-or-OA-or-Subarray-Sum-Problem)
+
+An array of length N is given.  
+1 <= N <= 21e5
+
+In one operation you can add two adjacent numbers together  
+Eg:  
+1, 4, 2, 5 --> 1, 6, 5  
+Elements at index 1 and 2 are combined.  
+You can perform any number of operations.
+
+The array needs to be made non-decreasing. Find the maximum length of the array such that it is non-decreasing.
+
+Sample Input #1  
+6  
+5 1 6 7 8 2  
+Sample Output #1  
+4
+
+( Array can be 5, 7, 7, 10 or 6, 6, 7, 10 whose length is 4 )
+
+这题很有意思 两次二分+check
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDA2MTMxMiw0Nzk2MjU1NzksLTE2Mj
-E1MTc3NDYsLTU1MzA1NjIxMSwtMzM0ODQzMjU3LDE5NzI1NDg2
-MzksLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MDA4ODM3NjcsMT
-U0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbODgxNDUzMjA3LDQ3OTYyNTU3OSwtMTYyMT
+UxNzc0NiwtNTUzMDU2MjExLC0zMzQ4NDMyNTcsMTk3MjU0ODYz
+OSwtMTI1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNT
+Q1MjA3NDMxXX0=
 -->
