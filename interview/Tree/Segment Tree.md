@@ -108,7 +108,7 @@ and so on...
 
 Basically design a data structure that supports interval insertion and querying to check if an int lies withing any of the interval
 
-Ex  
+Ex 
 Insert (1,5)  
 Insert (8,9)
 
@@ -288,9 +288,10 @@ Can anyone help me in understanding what is the expected solution for this probl
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTA3OTk1NywxMjE5NjM2NDEwLC0xOT
-A4NDc5NzAsMTM1ODQyMDk0NCwtOTk5MDUyODk2LDE2MDQwNTI4
-OTcsLTgwMDMzNDY3LDkwNzAyNTA2NiwyOTYyNzQ4NDYsLTUxNT
-kxNDg0MywxMjU1NDQwOTI0LC0xMzAxNjA2NDQ1LDIwNDE2MzE1
-MzgsNzEwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
+eyJoaXN0b3J5IjpbMTgzNDQyMTU0NywyMTQxMDc5OTU3LDEyMT
+k2MzY0MTAsLTE5MDg0Nzk3MCwxMzU4NDIwOTQ0LC05OTkwNTI4
+OTYsMTYwNDA1Mjg5NywtODAwMzM0NjcsOTA3MDI1MDY2LDI5Nj
+I3NDg0NiwtNTE1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0
+NDUsMjA0MTYzMTUzOCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ
+==
 -->
