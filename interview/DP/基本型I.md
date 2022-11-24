@@ -448,12 +448,14 @@ Constraints 1 < |S| <10^5 and S consists only lowercase English letters, ascii[a
 定义dp[i][j][k] 表示从100个的前i个元素取j个元素进行异或结果为k是否存在
 
 ---
+
+[enter link description here](https://leetcode.com/discuss/interview-question/2809936/Correct-execution-sequence-or-StanC-OA-question)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDAzNTg2MywxMTg2MjI2ODIyLC0xOT
-Y3NzA5MDY2LC00MjMxNDM5NzMsLTYwOTI4OTQxOCwtOTU1Mzk0
-OTA4LC0xNjY0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMj
-AsLTIwOTgyODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkw
-NDE5NjQ0NywxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNz
-gsNzkxMjM2NzcwLDEwMjIyMDgzNTQsLTkxMDM1Mjg4OCw2MzYx
-NjM0MDddfQ==
+eyJoaXN0b3J5IjpbLTE1ODYzODA5MSwtNjMwMDM1ODYzLDExOD
+YyMjY4MjIsLTE5Njc3MDkwNjYsLTQyMzE0Mzk3MywtNjA5Mjg5
+NDE4LC05NTUzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMC
+wtMTM2MTE1ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5
+NzYwODkwMywtOTA0MTk2NDQ3LDE2OTAwNDI5MzgsNzI4NDg3NT
+c4LDgxNTQxOTI3OCw3OTEyMzY3NzAsMTAyMjIwODM1NCwtOTEw
+MzUyODg4XX0=
 -->
