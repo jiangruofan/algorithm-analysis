@@ -724,13 +724,59 @@ I tried a recursive approach. But not sure if it is optimal. Curious to know oth
 
 ----
    
+[DoorDash | SDE | Tech Phone Interview | 2021](https://leetcode.com/discuss/interview-experience/1482159/DoorDash-or-SDE-or-Tech-Phone-Interview-or-2021)
+
+Q. Compute the total number of operations required to convert one N-ary tree to another.
+
+```
+class TreeNode {
+        String key;
+        int value;
+        List<TreeNode> children;
+    }
+
+
+```
+
+Tree-1
+
+```
+               a(1)                                                
+            /       \                                                          
+         b(2)       c(3)                                               
+        /     \         \                                                         
+      d(4)    e(5)      f(6)      
+
+```
+
+Tree-2
+
+```
+            a(1)
+                \
+               c(3)
+                   \
+                   f(66)
+
+
+```
+
+Operations:
+
+1.  b(2) was removed from Tree-1 (Count = 1)
+2.  Childrens of b(2) are removed, i.e. d(4) & e(5) (Count += 2)
+3.  f(6) was updated to f(66) in Tree-2 (Count += 1)
+
+Total Operations done  **(Count = 4)**
+
+对tree-a进行dfs 并且设置另外两个dfs yi ge
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NDM5Nzc3LC05NDM1MjU3LDk2MDY2OD
-g0MSwtMTUzMDc3NTA0MCwtMTMzMzU1MzI0LDEyNjAwNjQ5NzMs
-NDUyODU1NDgwLC0xNjU5Mjg4MzY2LC04NzQ3NTAyNDUsMTA3MT
-U3ODg0OCwxNTg5NjQ3MDQxLDE5NTAzMjAxOCwtMTkxNjM3OTM5
-MywxNDEyNDE3NDczLC0xMTY2MTEwNzQxLC01MjE2NjAwNCwxMD
-kzNzk3NjQ2LC0zMjYxNzA1MTgsMzA2ODY3NzAxLDEwMTkxODk2
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTIxOTc2MTMwNiw4MzQ0Mzk3NzcsLTk0Mz
+UyNTcsOTYwNjY4ODQxLC0xNTMwNzc1MDQwLC0xMzMzNTUzMjQs
+MTI2MDA2NDk3Myw0NTI4NTU0ODAsLTE2NTkyODgzNjYsLTg3ND
+c1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcwNDEsMTk1MDMyMDE4
+LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLTExNjYxMTA3NDEsLT
+UyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNjE3MDUxOCwzMDY4Njc3
+MDFdfQ==
 -->
