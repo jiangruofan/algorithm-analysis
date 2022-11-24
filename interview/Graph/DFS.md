@@ -773,9 +773,41 @@ Total Operations done  **(Count = 4)**
 
 ----
   
- 
+[Snowflake | Phone Screen | Patching Array](https://leetcode.com/discuss/interview-question/424385/Snowflake-or-Phone-Screen-or-Patching-Array)
+
+I recently interviewed with Snowflake for their Data Platform team. So, as there are not many posts regarding Snowflake's interview process. I would like to shed some light on their interview process and also some of the questions that I was asked during the phone screens.
+
+**Initial Recruiter Phone Screen (25 mins)**  - Basically the recruiter goes through your interests and gives you some background about the different teams at Snowflake. Some information gathering regarding any outstanding offers that you might have and some behavioral questions. After this they setup two phone screens with two of their engineers.
+
+----------
+
+**Phone Screen 1 (60 mins)**  
+10 mins - General Introduction (Background and Resume)  
+40 mins - Coding  
+10 mins - Any questions regarding Snowflake
+
+So the interviewer told me that he is going to ask me two questions starting with an easier problem.  
+Q1 - Remove all the element of B which are present in A (A and B are arrays). Both the array can consist of duplicates and are not sorted.  
+Q2 -  [https://leetcode.com/problems/binary-tree-inorder-traversal/](https://leetcode.com/problems/binary-tree-inorder-traversal/)  He told me I would get a bonus point if I could do it in constant space (Basically using Morris Inorder Traversal)
+
+----------
+
+**Phone Screen 2 (60 mins)**  
+He skipped the 10 min resume review portion as I had already talked about it in my previous interview as he wanted to give me more time for the problem.  
+50 mins - Coding  
+10 mins - Any questions regarding Snowflake
+
+Q1 -  [https://leetcode.com/problems/patching-array/](https://leetcode.com/problems/patching-array/)
+
+I feel the interviewers were super nice and helped me when I got stuck. The asked many follow ups on code optimization.
+
+Once you pass the phone screen there is a 3 round onsite including Coding, System Design, Lunch and Behavioral.
+
+morris遍历
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkzNzU3NjQsODM0NDM5Nzc3LC05ND
+eyJoaXN0b3J5IjpbLTEzMTc5OTM4MjgsODM0NDM5Nzc3LC05ND
 M1MjU3LDk2MDY2ODg0MSwtMTUzMDc3NTA0MCwtMTMzMzU1MzI0
 LDEyNjAwNjQ5NzMsNDUyODU1NDgwLC0xNjU5Mjg4MzY2LC04Nz
 Q3NTAyNDUsMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLDE5NTAzMjAx
