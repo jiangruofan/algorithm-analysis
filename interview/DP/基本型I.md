@@ -445,9 +445,11 @@ Function Description Complete the function mapLetters Two Numbers in the editor 
 Constraints 1 < |S| <10^5 and S consists only lowercase English letters, ascii[a-z]
 
 这里异或后的结果是有限的 最多255 
-定义dp[i][j][k] 表示从100个的前i个 
+定义dp[i][j][k] 表示从100个的前i个取j个元素进行异或结果为k是否存在
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ5NDM3MCwtMTk2NzcwOTA2NiwtND
+eyJoaXN0b3J5IjpbMTE4NjIyNjgyMiwtMTk2NzcwOTA2NiwtND
 IzMTQzOTczLC02MDkyODk0MTgsLTk1NTM5NDkwOCwtMTY2NDUx
 MDY2MSwtMjI0MDM3MjMwLC0xMzYxMTU4MjIwLC0yMDk4Mjg1MD
 gxLDk4MTM5MTY4MSwtNDk3NjA4OTAzLC05MDQxOTY0NDcsMTY5
