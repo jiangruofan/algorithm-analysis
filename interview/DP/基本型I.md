@@ -479,9 +479,11 @@ so among all such arrangements we need to find the  **maximumpossibleefficiency 
 2<=n<=10^5  
 1<= values in each of the 3arrays <= 10^9
 
-dp[i][j]表示对于第i个元素它是在右边元素之前还是之后出现 九
+dp[i][j]表示对于第i个元素它是在右边元素之前还是之后出现 j为1或者0表示之前还是之后
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzAwNjA0NSwtNjMwMDM1ODYzLDExOD
+eyJoaXN0b3J5IjpbLTY3MjM3NjAyNywtNjMwMDM1ODYzLDExOD
 YyMjY4MjIsLTE5Njc3MDkwNjYsLTQyMzE0Mzk3MywtNjA5Mjg5
 NDE4LC05NTUzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMC
 wtMTM2MTE1ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5
