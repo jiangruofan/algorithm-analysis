@@ -141,11 +141,12 @@ his grandma’s. Maybe there’s only one way that he can do it, with all other 
 greater distance, or there are several routs all with the same minimum distance. Second,  
 we are asked to determine the number of these minimum distance routes.
 
-因为必须要经过一个cookie 所以从起点和终点进行两次遍历 计算到每一个cookie的最短距离 然后取最短的就是答案 遍历的时候还需要记录到每一个cookie的最短距离的次数 并且还需要多一个
+因为必须要经过一个cookie 所以从起点和终点进行两次遍历 计算到每一个cookie的最短距离 然后取最短的就是答案 遍历的时候还需要记录到每一个cookie的最短距离的次数 并且还需要多一个变量计算到当前cookie时之前是否已经经过别的cookie
 对于求有多少种可能 遍历每一个cookie 看它到起点和终点的距离和是不是最短和 
+如果是的话还需要判断它zh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODY4MDUxOCwtMTI0NjQxMjYyMiwxNz
+eyJoaXN0b3J5IjpbMTU1ODYyMzEzMSwtMTI0NjQxMjYyMiwxNz
 UzNzExMzEwLDE3NjMyMjcyMjgsLTkzNzA3MTAyN119
 -->
