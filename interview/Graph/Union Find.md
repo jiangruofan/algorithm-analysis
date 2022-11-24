@@ -276,8 +276,24 @@ Explanation: As Video1 and Video3 have a coomon tag (Tag1) we'll combine them to
 
 ----
 
+[RedHat OA](https://leetcode.com/discuss/interview-question/2832770/RedHat-OA)
+
+![image](https://assets.leetcode.com/users/images/d5672712-e282-4887-a971-41418184cb46_1668935500.978573.jpeg)
+![image](https://assets.leetcode.com/users/images/778d2cca-1480-49cb-aad3-5d817494ca71_1668935501.2389295.jpeg)
+![image](https://assets.leetcode.com/users/images/f3309733-5972-4bc8-a051-ed7f880025c4_1668935501.2661815.jpeg)
+
+并查集
+
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODkyMTQ4NCwtMTg3NjI1ODY1MSwtNj
+eyJoaXN0b3J5IjpbMTUxODI3NDE1NywtMTg3NjI1ODY1MSwtNj
 gyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5MTA3MDQsLTQ0MjI1
 NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF19
 -->
