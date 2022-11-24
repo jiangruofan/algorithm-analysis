@@ -118,10 +118,32 @@ For the second market, 1 is already the lowest you can get.
 
 ----
 
-[enter link description here](https://leetcode.com/discuss/interview-question/2839991/Interesting-Question)
+[Interesting Question](https://leetcode.com/discuss/interview-question/2839991/Interesting-Question)
+
+This is a question which is given as an assignment at institute. It is not related to any company. I think that this question is too tough to solve or hard considering N in hundreds.
+
+There are no constraints for this problem. This question is very similar to this  [https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+
+Problem Two: Grandma Planner
+
+Bruce is planning a trip to his grandma’s house. There are n towns, numbered 1 to n.  
+Bruce starts in town 1, and his grandma lives in town n. Between each pair of towns is a  
+road, and we are given the length (distance) of each road.
+
+Bruce wishes to arrive at his grandma’s with a box of cookies, so he must buy it along the  
+way. Some of the towns have cookie stores; Bruce is required to hit at least one of these  
+cookie towns on his way to his grandma’s.
+
+Our task is twofold. First, we must determine the minimum distance needed for Bruce to  
+get from his starting point to his grandma’s house, picking up a box of cookies along the  
+way. That minimum distance does not tell us how many options Bruce has for getting to  
+his grandma’s. Maybe there’s only one way that he can do it, with all other routes requiring  
+greater distance, or there are several routs all with the same minimum distance. Second,  
+we are asked to determine the number of these minimum distance routes.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU2NTQ0MTAsMTc1MzcxMTMxMCwxNz
+eyJoaXN0b3J5IjpbLTEyNDY0MTI2MjIsMTc1MzcxMTMxMCwxNz
 YzMjI3MjI4LC05MzcwNzEwMjddfQ==
 -->
