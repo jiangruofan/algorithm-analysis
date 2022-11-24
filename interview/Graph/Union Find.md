@@ -255,9 +255,29 @@ _I could not solve the 2nd question; it felt like I need a competitive programmi
 
 ----
 
+[Ticktok Telephonic Round](https://leetcode.com/discuss/interview-question/2840632/Ticktok-Telephonic-Round)
+
+Given a Map<String, List[String]> where key is the distinct Videos say Video1, Video2 ... and value will be the list of tags associated with that video, like Action, Car, Gun..
+
+We need to return a list of Videos where two videos can have any number of common tags. Note: It is not necessary that all the tags must be present for all videos. Below is an example to illustrate it better.
+
+```
+Input: 
+<Video1 -> [Tag1]
+Video2 -> [Tag2]
+Video3 -> [Tag1, Tag2]
+Video4 -> [Tag4]
+Video5 -> [Tag4, Tag5]>
+
+Output: [[Video1, Video2, Video3], [Video4, Video5]]
+
+Explanation: As Video1 and Video3 have a coomon tag (Tag1) we'll combine them together and Video2 and Video3 have another tag (Tag2) as common, we'll combine all three videos as one list. Similar with Video4 and Video5.
+```
+
+----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzYyNTg2NTEsLTY4MjA0Njc5MCwtMT
-I4MTUzNzQ4LC0xNDg4OTEwNzA0LC00NDIyNTQ3NjUsNjgzNzc5
-NDM5LC03Mzk3NDE3NDRdfQ==
+eyJoaXN0b3J5IjpbMTQ0ODkyMTQ4NCwtMTg3NjI1ODY1MSwtNj
+gyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5MTA3MDQsLTQ0MjI1
+NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF19
 -->
