@@ -418,9 +418,16 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 
 ----
 
+[McKinsey CGI Intern OA (Explanations appreciated)](https://leetcode.com/discuss/interview-question/2837828/McKinsey-CGI-Intern-OA-%28Explanations-appreciated%29)
 
+![image](https://assets.leetcode.com/users/images/cd3c0c6b-a9e9-4691-9f1e-aace792c5309_1669087294.1371548.jpeg)
+![image](https://assets.leetcode.com/users/images/50bea937-b7f4-4674-ba57-8772963ba103_1669087325.0939631.jpeg)
+
+简单heap
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDQ4NzY5OSwyMTQyNDcxODUsOTY4MT
+eyJoaXN0b3J5IjpbMTE3NjE0OTE3MSwyMTQyNDcxODUsOTY4MT
 E4OTk2LC03MTYyNTU1MTIsMTA3NjE3MTYwNiwxMDM0ODgzNTAz
 XX0=
 -->
