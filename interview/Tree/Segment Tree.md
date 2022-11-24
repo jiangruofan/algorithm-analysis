@@ -302,11 +302,39 @@ Can anyone help me in understanding what is the expected solution for this probl
 需要判断k是否小于或者大于val 
 
 ----
+
+During my last interview at UBER, I was asked about data structures and algorithms.
+
+I was asked the following question:
+
+If there is an infinite stream of events and the events are as follows:
+
+user1 city1 BOOKED timestamp1
+user2 city1 CANCELLED timestamp2
+user3 city1 BOOKED timestamp3
+user4 city1 BOOKED timestamp4
+user1 city2 ENDED timestamp5
+
+On these events we have to build a system where query can be anything like
+
+How many cabs are BOOKED between timestamp1 to timestamp4.
+How many cabse are BOOKED in city1 and ended in city2 between timestamp1 to timestamp4.
+Expectation of this round was to build some generic datastructure that can support query of anytype.
+
+Expectation1- How we are going to ingest these events, since its a DS/ALGO round so a in memory datastructure was expected.
+Expectation2- Support any types of query.
+
+Would anyone be able to help me understand what the expected solution is?
+
+对于第一个问题 可以使用线段🌲
+第二个问题 hashmap即可 key用一个四个维度的元组
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDMyNzI4OSwxOTI4MjgwMDI5LDE4Mz
-Q0MjE1NDcsMjE0MTA3OTk1NywxMjE5NjM2NDEwLC0xOTA4NDc5
-NzAsMTM1ODQyMDk0NCwtOTk5MDUyODk2LDE2MDQwNTI4OTcsLT
-gwMDMzNDY3LDkwNzAyNTA2NiwyOTYyNzQ4NDYsLTUxNTkxNDg0
-MywxMjU1NDQwOTI0LC0xMzAxNjA2NDQ1LDIwNDE2MzE1MzgsNz
-EwNTEwMzY4LC0xNzc2MDYyOTcxXX0=
+eyJoaXN0b3J5IjpbLTc4MDgyMDUwMSwxMTI0MzI3Mjg5LDE5Mj
+gyODAwMjksMTgzNDQyMTU0NywyMTQxMDc5OTU3LDEyMTk2MzY0
+MTAsLTE5MDg0Nzk3MCwxMzU4NDIwOTQ0LC05OTkwNTI4OTYsMT
+YwNDA1Mjg5NywtODAwMzM0NjcsOTA3MDI1MDY2LDI5NjI3NDg0
+NiwtNTE1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMj
+A0MTYzMTUzOCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
 -->
