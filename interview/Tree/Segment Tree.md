@@ -288,12 +288,17 @@ Can anyone help me in understanding what is the expected solution for this probl
 
 ---
 
-[#SNOWFLAKE ONLINE TEST / VERY VERY HARD/](https://leetcode.com/discuss/interview-question/2838177/SNOWFLAKE-ONLINE-TEST-VERY-VERY-HARD)
+[SNOWFLAKE ONLINE TEST / VERY VERY HARD/](https://leetcode.com/discuss/interview-question/2838177/SNOWFLAKE-ONLINE-TEST-VERY-VERY-HARD)
+
+![image](https://assets.leetcode.com/users/images/55ebba5c-b0dd-4e89-9cf7-c05c17fd615e_1669096089.0370595.png)
+![image](https://assets.leetcode.com/users/images/bbdd6d2b-51ca-4f8f-b25c-5dede964066d_1669096102.8905518.png)
+![image](https://assets.leetcode.com/users/images/1724b159-f477-44d5-bb10-fda92a2eda7c_1669096129.0778818.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMzNTkzMTcsMTgzNDQyMTU0NywyMT
-QxMDc5OTU3LDEyMTk2MzY0MTAsLTE5MDg0Nzk3MCwxMzU4NDIw
-OTQ0LC05OTkwNTI4OTYsMTYwNDA1Mjg5NywtODAwMzM0NjcsOT
-A3MDI1MDY2LDI5NjI3NDg0NiwtNTE1OTE0ODQzLDEyNTU0NDA5
-MjQsLTEzMDE2MDY0NDUsMjA0MTYzMTUzOCw3MTA1MTAzNjgsLT
-E3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbOTQ1NTI1MzcwLDE4MzQ0MjE1NDcsMjE0MT
+A3OTk1NywxMjE5NjM2NDEwLC0xOTA4NDc5NzAsMTM1ODQyMDk0
+NCwtOTk5MDUyODk2LDE2MDQwNTI4OTcsLTgwMDMzNDY3LDkwNz
+AyNTA2NiwyOTYyNzQ4NDYsLTUxNTkxNDg0MywxMjU1NDQwOTI0
+LC0xMzAxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNz
+c2MDYyOTcxXX0=
 -->
