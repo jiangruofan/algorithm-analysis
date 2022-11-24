@@ -690,14 +690,45 @@ dfs即可 注意对于每一个节点 摇的前几次是没有苹果掉下来的
 和那个chegg类似
 
 ---
+
+[Google | Onsite | Coding Interview](https://leetcode.com/discuss/interview-question/2836771/Google-or-Onsite-or-Coding-Interview)
+
+Given a (n-ary)tree and a list of node values such as [“a", "b", "c”], determine if the  
+list of nodes exists in the tree in that order.
+
+```
+             O(r)
+           /       \
+          O          O(a)
+        /   \         /  \    \        \
+       O   O       O(b)  O(z) O(d)
+                  /
+                O(c)
+
+```
+
+[“a", "b", "c”]  
+["b", "a", "c"] => false  
+["a", "c"] => false  
+[] => true  
+null => true  
+[r a b] => true  
+[r a b z] => false  
+[r] => true  
+[a] => true  
+[c] => true
+
+I tried a recursive approach. But not sure if it is optimal. Curious to know other/optimal ways to solve this.
+
+如果是off l
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzUyNTcsOTYwNjY4ODQxLC0xNTMwNz
-c1MDQwLC0xMzMzNTUzMjQsMTI2MDA2NDk3Myw0NTI4NTU0ODAs
-LTE2NTkyODgzNjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1OD
-k2NDcwNDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0
-NzMsLTExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLT
-MyNjE3MDUxOCwzMDY4Njc3MDEsMTAxOTE4OTY1NiwtMzk4NTAw
-NzBdfQ==
+eyJoaXN0b3J5IjpbMTUxODkyODM3MSwtOTQzNTI1Nyw5NjA2Nj
+g4NDEsLTE1MzA3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTcz
+LDQ1Mjg1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNz
+E1Nzg4NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkz
+OTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYwMDQsMT
+A5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2NzcwMSwxMDE5MTg5
+NjU2XX0=
 -->
