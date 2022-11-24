@@ -141,9 +141,9 @@ his grandma’s. Maybe there’s only one way that he can do it, with all other 
 greater distance, or there are several routs all with the same minimum distance. Second,  
 we are asked to determine the number of these minimum distance routes.
 
-
+因为必须要经过一个
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY0MTI2MjIsMTc1MzcxMTMxMCwxNz
-YzMjI3MjI4LC05MzcwNzEwMjddfQ==
+eyJoaXN0b3J5IjpbNDk5NzgwNjgzLC0xMjQ2NDEyNjIyLDE3NT
+M3MTEzMTAsMTc2MzIyNzIyOCwtOTM3MDcxMDI3XX0=
 -->
