@@ -118,8 +118,10 @@ For the second market, 1 is already the lowest you can get.
 
 ----
 
+[enter link description here](https://leetcode.com/discuss/interview-question/2839991/Interesting-Question)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzcxMTMxMCwxNzYzMjI3MjI4LC05Mz
-cwNzEwMjddfQ==
+eyJoaXN0b3J5IjpbLTE4ODU2NTQ0MTAsMTc1MzcxMTMxMCwxNz
+YzMjI3MjI4LC05MzcwNzEwMjddfQ==
 -->
