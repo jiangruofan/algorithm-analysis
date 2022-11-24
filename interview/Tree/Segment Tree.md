@@ -293,12 +293,15 @@ Can anyone help me in understanding what is the expected solution for this probl
 ![image](https://assets.leetcode.com/users/images/55ebba5c-b0dd-4e89-9cf7-c05c17fd615e_1669096089.0370595.png)
 ![image](https://assets.leetcode.com/users/images/bbdd6d2b-51ca-4f8f-b25c-5dede964066d_1669096102.8905518.png)
 ![image](https://assets.leetcode.com/users/images/1724b159-f477-44d5-bb10-fda92a2eda7c_1669096129.0778818.png)
+![image](https://assets.leetcode.com/users/images/cb4aa11c-5478-4fc1-b505-5a18389dfe2d_1669096149.2286146.png)
+![image](https://assets.leetcode.com/users/images/a610905f-35d9-4a40-8590-963bc1f18389_1669096159.5293403.png)
 
+这里的核心是有这个mod 那么使用前缀和+哈希表即可 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NTI1MzcwLDE4MzQ0MjE1NDcsMjE0MT
-A3OTk1NywxMjE5NjM2NDEwLC0xOTA4NDc5NzAsMTM1ODQyMDk0
-NCwtOTk5MDUyODk2LDE2MDQwNTI4OTcsLTgwMDMzNDY3LDkwNz
-AyNTA2NiwyOTYyNzQ4NDYsLTUxNTkxNDg0MywxMjU1NDQwOTI0
-LC0xMzAxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEwMzY4LC0xNz
-c2MDYyOTcxXX0=
+eyJoaXN0b3J5IjpbMTQ0NDg5NjAwNiwxODM0NDIxNTQ3LDIxND
+EwNzk5NTcsMTIxOTYzNjQxMCwtMTkwODQ3OTcwLDEzNTg0MjA5
+NDQsLTk5OTA1Mjg5NiwxNjA0MDUyODk3LC04MDAzMzQ2Nyw5MD
+cwMjUwNjYsMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NTQ0MDky
+NCwtMTMwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2OCwtMT
+c3NjA2Mjk3MV19
 -->
