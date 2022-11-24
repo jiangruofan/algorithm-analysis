@@ -266,9 +266,16 @@ Sample Output #1
 这题很有意思 两次二分+check
 
 ----
+
+[Snowflake | OA | Server Selection](https://leetcode.com/discuss/interview-question/2594968/Snowflake-or-OA-or-Server-Selection)
+
+![image](https://assets.leetcode.com/users/images/c5e3281f-990e-4b8f-aa1e-80a8103ed471_1663550925.3129776.png)
+![image](https://assets.leetcode.com/users/images/c0933388-8297-4ce2-a1c9-d3510fd07c7d_1663550964.960472.png)
+![image](https://assets.leetcode.com/users/images/a132338a-e4d0-4f1a-87ad-e9ad2f0b7589_1663550985.784426.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNDUzMjA3LDQ3OTYyNTU3OSwtMTYyMT
-UxNzc0NiwtNTUzMDU2MjExLC0zMzQ4NDMyNTcsMTk3MjU0ODYz
-OSwtMTI1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNT
-Q1MjA3NDMxXX0=
+eyJoaXN0b3J5IjpbMTE2Mzc1MjYsODgxNDUzMjA3LDQ3OTYyNT
+U3OSwtMTYyMTUxNzc0NiwtNTUzMDU2MjExLC0zMzQ4NDMyNTcs
+MTk3MjU0ODYzOSwtMTI1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMD
+g4Mzc2NywxNTQ1MjA3NDMxXX0=
 -->
