@@ -278,11 +278,15 @@ Explanation: As Video1 and Video3 have a coomon tag (Tag1) we'll combine them to
 
 [RedHat OA](https://leetcode.com/discuss/interview-question/2832770/RedHat-OA)
 
+Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.com/problems/count-vowels-permutation/)
+
 ![image](https://assets.leetcode.com/users/images/d5672712-e282-4887-a971-41418184cb46_1668935500.978573.jpeg)
 ![image](https://assets.leetcode.com/users/images/778d2cca-1480-49cb-aad3-5d817494ca71_1668935501.2389295.jpeg)
 ![image](https://assets.leetcode.com/users/images/f3309733-5972-4bc8-a051-ed7f880025c4_1668935501.2661815.jpeg)
 
-并查集
+并查集+z array
+
+----
 
 
 
@@ -293,7 +297,7 @@ Explanation: As Video1 and Video3 have a coomon tag (Tag1) we'll combine them to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODI3NDE1NywtMTg3NjI1ODY1MSwtNj
-gyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5MTA3MDQsLTQ0MjI1
-NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF19
+eyJoaXN0b3J5IjpbLTE0NzIwMjE4NjcsLTE4NzYyNTg2NTEsLT
+Y4MjA0Njc5MCwtMTI4MTUzNzQ4LC0xNDg4OTEwNzA0LC00NDIy
+NTQ3NjUsNjgzNzc5NDM5LC03Mzk3NDE3NDRdfQ==
 -->
