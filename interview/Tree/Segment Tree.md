@@ -296,9 +296,12 @@ Can anyone help me in understanding what is the expected solution for this probl
 ![image](https://assets.leetcode.com/users/images/cb4aa11c-5478-4fc1-b505-5a18389dfe2d_1669096149.2286146.png)
 ![image](https://assets.leetcode.com/users/images/a610905f-35d9-4a40-8590-963bc1f18389_1669096159.5293403.png)
 
-这里的核心是有这个mod 那么使用前缀和+哈希表即可 然后求
+这里的核心是有这个mod 那么使用前缀和+哈希表即可 
+单体修改 区间查询    
+。。。。。。。。val。。。。。。。 (val表示ith前缀和)
+需要判断k是否小于或者大于val 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzU2Njc1NiwxODM0NDIxNTQ3LDIxND
+eyJoaXN0b3J5IjpbMTkyODI4MDAyOSwxODM0NDIxNTQ3LDIxND
 EwNzk5NTcsMTIxOTYzNjQxMCwtMTkwODQ3OTcwLDEzNTg0MjA5
 NDQsLTk5OTA1Mjg5NiwxNjA0MDUyODk3LC04MDAzMzQ2Nyw5MD
 cwMjUwNjYsMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NTQ0MDky
