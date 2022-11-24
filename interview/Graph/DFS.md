@@ -720,15 +720,17 @@ null => true
 
 I tried a recursive approach. But not sure if it is optimal. Curious to know other/optimal ways to solve this.
 
-如果是off l
+如果是offline的话 那么可以构造一个trie对于所有的query
+
+----
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODkyODM3MSwtOTQzNTI1Nyw5NjA2Nj
-g4NDEsLTE1MzA3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTcz
-LDQ1Mjg1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNz
-E1Nzg4NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkz
-OTMsMTQxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYwMDQsMT
-A5Mzc5NzY0NiwtMzI2MTcwNTE4LDMwNjg2NzcwMSwxMDE5MTg5
-NjU2XX0=
+eyJoaXN0b3J5IjpbODM0NDM5Nzc3LC05NDM1MjU3LDk2MDY2OD
+g0MSwtMTUzMDc3NTA0MCwtMTMzMzU1MzI0LDEyNjAwNjQ5NzMs
+NDUyODU1NDgwLC0xNjU5Mjg4MzY2LC04NzQ3NTAyNDUsMTA3MT
+U3ODg0OCwxNTg5NjQ3MDQxLDE5NTAzMjAxOCwtMTkxNjM3OTM5
+MywxNDEyNDE3NDczLC0xMTY2MTEwNzQxLC01MjE2NjAwNCwxMD
+kzNzk3NjQ2LC0zMjYxNzA1MTgsMzA2ODY3NzAxLDEwMTkxODk2
+NTZdfQ==
 -->
