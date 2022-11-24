@@ -449,9 +449,39 @@ Constraints 1 < |S| <10^5 and S consists only lowercase English letters, ascii[a
 
 ---
 
-[enter link description here](https://leetcode.com/discuss/interview-question/2809936/Correct-execution-sequence-or-StanC-OA-question)
+[Correct execution sequence | StanC OA question](https://leetcode.com/discuss/interview-question/2809936/Correct-execution-sequence-or-StanC-OA-question)
+
+A supercomputer has multiple processors(n) at its disposal ,each arranged in a sequence.  
+The processors can be used to do the job in any order.  
+The efficiency of a processor is subject to its adjacent processors.
+
+for the ith processor , the efficiency is no_adjacent[i],one_adjacent[i],both_adjacent[i] when  
+neither , one or both adjacent processors have been used respectively.
+
+**example:**  
+lets say n=4 then,  
+The efficiency of a processor, Pi, is subject to following rule :
+
+no_adjacent: [ 1,2,3,4 ]  
+one_adjacent : [ 4,4,2,1]  
+both_adjacent : [0,1,1,0]
+
+so lets say they are used in the order 0->1->2->3 where these numbers refer to index in the array.  
+then efficiency sum would be no_adjacent[0] + one_adjacent[1]+ one_adjacent[2] + one_adjacent[3]= 1+4+2+1=8
+
+if the order is 3->2->1->0 the answer would be 4+2+4+4=14  
+This 14 can be referred to as efficiency sum
+
+so among all such arrangements we need to find the  **maximumpossibleefficiency sum**
+
+**constraints:**
+
+2<=n<=10^5  
+1<= values in each of the 3arrays <= 10^9
+
+dp[i][j]表示对于第i个元素它是在右边元素之前还是之后出现 九
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYzODA5MSwtNjMwMDM1ODYzLDExOD
+eyJoaXN0b3J5IjpbLTg4NzAwNjA0NSwtNjMwMDM1ODYzLDExOD
 YyMjY4MjIsLTE5Njc3MDkwNjYsLTQyMzE0Mzk3MywtNjA5Mjg5
 NDE4LC05NTUzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMC
 wtMTM2MTE1ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5
