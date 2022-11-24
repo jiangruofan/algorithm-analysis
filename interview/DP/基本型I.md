@@ -433,12 +433,24 @@ dp的状态值表示的是两个子序列的差值 如果对于正数没问题
 最后把这一部分重复计算的刨掉
 
 ---
+
+[Oracle OA 2022](https://leetcode.com/discuss/interview-question/2835274/Oracle-OA-2022)
+
+Given a string S that consists of lowercase English letters, create a mapping M which assigns every lowercase letter (26 of them) to a distinct positive integer less than or equal to 100. Map the string to a series of integers where each letter is replaced by the integer it is mapped to. Formally, S = s1s2s3.....sn is now converted to the sequence M(s1), M(s2), M(s3),..., M(sn). Find a mapping M such that the bitwise XOR of all the numbers in the sequence is minimized.
+
+For example, string s = abc and the mapping is M('a') = 65, M('b') = 66, M('c')=3. The strings is now converted to 65, 66, 3. XOR these numbers together to get 0(zero) which is the minimum. Other characters can be mapped to any other distinct numbers less than or equal to 100, so they are not shown here for convenience.
+
+Function Description Complete the function mapLetters Two Numbers in the editor below. The function must return a vector that contains 26 distinct positive integers less than or equal to 100. Letters Numbers has the following parameter(s): s: the given input string
+
+Constraints 1 < |S| <10^5 and S consists only lowercase English letters, ascii[a-z]
+
+这里异或后的结果是有限的 最多255
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzE0Mzk3MywtNjA5Mjg5NDE4LC05NT
-UzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMCwtMTM2MTE1
-ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5NzYwODkwMy
-wtOTA0MTk2NDQ3LDE2OTAwNDI5MzgsNzI4NDg3NTc4LDgxNTQx
-OTI3OCw3OTEyMzY3NzAsMTAyMjIwODM1NCwtOTEwMzUyODg4LD
-YzNjE2MzQwNywtMTQ2MjMzNDk0NCwtOTQ4ODQ1Mjg3LDIwODY1
-MzAxMjddfQ==
+eyJoaXN0b3J5IjpbLTE5Njc3MDkwNjYsLTQyMzE0Mzk3MywtNj
+A5Mjg5NDE4LC05NTUzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAz
+NzIzMCwtMTM2MTE1ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2OD
+EsLTQ5NzYwODkwMywtOTA0MTk2NDQ3LDE2OTAwNDI5MzgsNzI4
+NDg3NTc4LDgxNTQxOTI3OCw3OTEyMzY3NzAsMTAyMjIwODM1NC
+wtOTEwMzUyODg4LDYzNjE2MzQwNywtMTQ2MjMzNDk0NCwtOTQ4
+ODQ1Mjg3XX0=
 -->
