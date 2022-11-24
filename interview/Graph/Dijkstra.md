@@ -145,13 +145,15 @@ we are asked to determine the number of these minimum distance routes.
 对于求有多少种可能 遍历每一个cookie 看它到起点和终点的距离和是不是最短和 
 如果是的话还需要判断它之前有没有经历过别的cookie 如果经历过别的那么直接忽略 因为肯定会在别的cookie那里计算过
 -----a------b------c------
-假设a b c 三个cookie a和c到起点
+假设a b c 三个cookie a和c到起点和终点的距离和都等于最小值 那么以a为cookie的情况一定包含了以c为cookie的所有情况
+
+---
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjgyOTA4MiwtNTE3ODg1NjgsLTEyND
-Y0MTI2MjIsMTc1MzcxMTMxMCwxNzYzMjI3MjI4LC05MzcwNzEw
-MjddfQ==
+eyJoaXN0b3J5IjpbLTE4ODg4NDIzNzMsLTUxNzg4NTY4LC0xMj
+Q2NDEyNjIyLDE3NTM3MTEzMTAsMTc2MzIyNzIyOCwtOTM3MDcx
+MDI3XX0=
 -->
