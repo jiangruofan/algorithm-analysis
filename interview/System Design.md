@@ -1,7 +1,4 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+[URL Shortening System Design](https://leetcode.com/discuss/interview-question/2869646/URL-Shortening-System-Design)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTkxOTMzODAxMF19
 -->
