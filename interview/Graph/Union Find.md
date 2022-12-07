@@ -278,6 +278,8 @@ Explanation: As Video1 and Video3 have a coomon tag (Tag1) we'll combine them to
 
 [RedHat OA](https://leetcode.com/discuss/interview-question/2832770/RedHat-OA)
 
+https://leetcode.com/discuss/interview-question/2844072/Find-The-STRING-Problem-(Hard).-I-am-not-getting-it
+
 Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.com/problems/count-vowels-permutation/)
 
 ![image](https://assets.leetcode.com/users/images/d5672712-e282-4887-a971-41418184cb46_1668935500.978573.jpeg)
@@ -297,7 +299,8 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIwMjE4NjcsLTE4NzYyNTg2NTEsLT
-Y4MjA0Njc5MCwtMTI4MTUzNzQ4LC0xNDg4OTEwNzA0LC00NDIy
-NTQ3NjUsNjgzNzc5NDM5LC03Mzk3NDE3NDRdfQ==
+eyJoaXN0b3J5IjpbLTExMDIxMDk2MzEsLTE0NzIwMjE4NjcsLT
+E4NzYyNTg2NTEsLTY4MjA0Njc5MCwtMTI4MTUzNzQ4LC0xNDg4
+OTEwNzA0LC00NDIyNTQ3NjUsNjgzNzc5NDM5LC03Mzk3NDE3ND
+RdfQ==
 -->
