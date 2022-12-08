@@ -432,9 +432,11 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 ![image](https://assets.leetcode.com/users/images/3714b198-1c16-4edb-a942-65c466b407b2_1669874754.7859695.png)
 ![image](https://assets.leetcode.com/users/images/e7d6b1e1-b85d-42ac-8d46-d298c6391ff6_1669874762.2140949.png)
 ![image](https://assets.leetcode.com/users/images/44f4dce0-36f6-4b6d-8c38-709c76ac5bf2_1669874768.2077923.png)
+![image](https://assets.leetcode.com/users/images/6149a5c8-6f23-48a4-8af0-fe5b8ee12154_1669874774.9237168.png)
 
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQyNjI3NCwxMTc2MTQ5MTcxLDIxND
-I0NzE4NSw5NjgxMTg5OTYsLTcxNjI1NTUxMiwxMDc2MTcxNjA2
-LDEwMzQ4ODM1MDNdfQ==
+eyJoaXN0b3J5IjpbLTEzODYzNjc5OTUsMTE3NjE0OTE3MSwyMT
+QyNDcxODUsOTY4MTE4OTk2LC03MTYyNTU1MTIsMTA3NjE3MTYw
+NiwxMDM0ODgzNTAzXX0=
 -->
