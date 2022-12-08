@@ -426,8 +426,15 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 简单heap
 
 ----
+
+[GOLDMAN SACHS/OA HARD/ ON CAMPUS](https://leetcode.com/discuss/interview-question/2865178/GOLDMAN-SACHSOA-HARD-ON-CAMPUS)
+
+![image](https://assets.leetcode.com/users/images/3714b198-1c16-4edb-a942-65c466b407b2_1669874754.7859695.png)
+![image](https://assets.leetcode.com/users/images/e7d6b1e1-b85d-42ac-8d46-d298c6391ff6_1669874762.2140949.png)
+![image](https://assets.leetcode.com/users/images/44f4dce0-36f6-4b6d-8c38-709c76ac5bf2_1669874768.2077923.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjE0OTE3MSwyMTQyNDcxODUsOTY4MT
-E4OTk2LC03MTYyNTU1MTIsMTA3NjE3MTYwNiwxMDM0ODgzNTAz
-XX0=
+eyJoaXN0b3J5IjpbLTU4MDQyNjI3NCwxMTc2MTQ5MTcxLDIxND
+I0NzE4NSw5NjgxMTg5OTYsLTcxNjI1NTUxMiwxMDc2MTcxNjA2
+LDEwMzQ4ODM1MDNdfQ==
 -->
