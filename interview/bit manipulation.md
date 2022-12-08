@@ -86,9 +86,16 @@ signed main(){
 
 ----
 
+[Maxlinear OA || Software Engineer Role](https://leetcode.com/discuss/interview-question/2770332/Maxlinear-OA-oror-Software-Engineer-Role)
+
+![image](https://assets.leetcode.com/users/images/c0cc5dd1-01b9-4707-be1a-623db236d217_1667392946.0793135.png)
+![image](https://assets.leetcode.com/users/images/756cc7ff-986b-4f2b-85cc-bb5311428712_1667392957.2363935.png)
+
+----
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NTgyMDExLC0xODgxMzY4Mzg0LC0xNT
-U3NjYxMTYyXX0=
+eyJoaXN0b3J5IjpbMTkzNjU5MTM4OCw4NTU1ODIwMTEsLTE4OD
+EzNjgzODQsLTE1NTc2NjExNjJdfQ==
 -->
