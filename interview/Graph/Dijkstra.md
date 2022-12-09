@@ -149,11 +149,14 @@ we are asked to determine the number of these minimum distance routes.
 
 ---
 
+[SALESFORCE / OA VERY HARD/ DEC 2022](https://leetcode.com/discuss/interview-question/2872087/SALESFORCE-OA-VERY-HARD-DEC-2022)
+
+![image](https://assets.leetcode.com/users/images/08e2553b-a02f-43af-9351-a59c6b5cab18_1670050800.342167.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg4NDIzNzMsLTUxNzg4NTY4LC0xMj
-Q2NDEyNjIyLDE3NTM3MTEzMTAsMTc2MzIyNzIyOCwtOTM3MDcx
-MDI3XX0=
+eyJoaXN0b3J5IjpbNjM4OTI4Mjk1LC0xODg4ODQyMzczLC01MT
+c4ODU2OCwtMTI0NjQxMjYyMiwxNzUzNzExMzEwLDE3NjMyMjcy
+MjgsLTkzNzA3MTAyN119
 -->
