@@ -158,14 +158,14 @@ we are asked to determine the number of these minimum distance routes.
 ![image](https://assets.leetcode.com/users/images/99aa2b71-d845-41f0-be0f-16682bcc51f7_1670050831.459337.png)
 
 这里如果回退1个格子 那么就是偶数正好 奇数还要多走一次 
-如果回退两个格子 那么
+如果回退大于1个格子 那么都是偶数正好 所以和回退1个格子一样
 
 ----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA5NDg2NzEsLTE5MzE5NTMzMjMsNj
-M4OTI4Mjk1LC0xODg4ODQyMzczLC01MTc4ODU2OCwtMTI0NjQx
-MjYyMiwxNzUzNzExMzEwLDE3NjMyMjcyMjgsLTkzNzA3MTAyN1
-19
+eyJoaXN0b3J5IjpbMjA2NzI2MDM2MCwtMTkzMTk1MzMyMyw2Mz
+g5MjgyOTUsLTE4ODg4NDIzNzMsLTUxNzg4NTY4LC0xMjQ2NDEy
+NjIyLDE3NTM3MTEzMTAsMTc2MzIyNzIyOCwtOTM3MDcxMDI3XX
+0=
 -->
