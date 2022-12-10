@@ -806,12 +806,47 @@ Once you pass the phone screen there is a 3 round onsite including Coding, Syste
 morris遍历
 
 -----
+
+[Need help understanding the solution](https://leetcode.com/discuss/interview-question/2877365/Need-help-understanding-the-solution)
+
+There are m campus bus routes. The i-th one (0 <= i < m) takes you from building u_i to building v_i (but not the other way around). These buses run very frequently. A building x is accessible from a building y if you can get from y to x taking at most two buses. how many buildings the most accessible building is accessible from and list all of them.
+
+Sample Input 1  
+6 5  
+0 1  
+1 2  
+2 3  
+3 4  
+4 5  
+Sample Output 1  
+3  
+2 3 4 5  
+Sample 1 Explanation  
+The first line indicates that there are 6 buildings and 5 bus routes.  
+The bus routes are described in the next 5 lines. For instance, the second route takes you from building 1 to building 2.  
+Building 0 is only accessible from itself. Building 1 is accessible from building 0 and itself. The remaining buildings are all accessible from 3 buildings, including themselves.
+
+Sample Input 2  
+6 8  
+0 1  
+2 1  
+1 3  
+4 3  
+3 5  
+0 1  
+3 0  
+1 0  
+Sample Output 2  
+5  
+0 3
+
+dfs只要进行两层 用一个dict记录每一个元素
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc5OTM4MjgsODM0NDM5Nzc3LC05ND
-M1MjU3LDk2MDY2ODg0MSwtMTUzMDc3NTA0MCwtMTMzMzU1MzI0
-LDEyNjAwNjQ5NzMsNDUyODU1NDgwLC0xNjU5Mjg4MzY2LC04Nz
-Q3NTAyNDUsMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLDE5NTAzMjAx
-OCwtMTkxNjM3OTM5MywxNDEyNDE3NDczLC0xMTY2MTEwNzQxLC
-01MjE2NjAwNCwxMDkzNzk3NjQ2LC0zMjYxNzA1MTgsMzA2ODY3
-NzAxXX0=
+eyJoaXN0b3J5IjpbLTIwOTI4MTkwNTMsLTEzMTc5OTM4MjgsOD
+M0NDM5Nzc3LC05NDM1MjU3LDk2MDY2ODg0MSwtMTUzMDc3NTA0
+MCwtMTMzMzU1MzI0LDEyNjAwNjQ5NzMsNDUyODU1NDgwLC0xNj
+U5Mjg4MzY2LC04NzQ3NTAyNDUsMTA3MTU3ODg0OCwxNTg5NjQ3
+MDQxLDE5NTAzMjAxOCwtMTkxNjM3OTM5MywxNDEyNDE3NDczLC
+0xMTY2MTEwNzQxLC01MjE2NjAwNCwxMDkzNzk3NjQ2LC0zMjYx
+NzA1MThdfQ==
 -->
