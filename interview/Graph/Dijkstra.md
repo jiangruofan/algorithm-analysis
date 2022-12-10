@@ -152,12 +152,20 @@ we are asked to determine the number of these minimum distance routes.
 [SALESFORCE / OA VERY HARD/ DEC 2022](https://leetcode.com/discuss/interview-question/2872087/SALESFORCE-OA-VERY-HARD-DEC-2022)
 
 ![image](https://assets.leetcode.com/users/images/08e2553b-a02f-43af-9351-a59c6b5cab18_1670050800.342167.png)
+![image](https://assets.leetcode.com/users/images/c99feb58-440a-492e-8f6f-94c3f69f1d0e_1670050809.424557.png)
+![image](https://assets.leetcode.com/users/images/896f4494-5fe0-4085-aa88-8af3e0672368_1670050815.6082582.png)
+![image](https://assets.leetcode.com/users/images/26d4cc06-0531-44d1-b9ed-77baa63e068c_1670050822.580976.png)
+![image](https://assets.leetcode.com/users/images/99aa2b71-d845-41f0-be0f-16682bcc51f7_1670050831.459337.png)
+
+这里如果回退1个格子 那么就是偶数正好 奇数还要多走一次 
+如果回退两个格子 那么
 
 ----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE5NTMzMjMsNjM4OTI4Mjk1LC0xOD
-g4ODQyMzczLC01MTc4ODU2OCwtMTI0NjQxMjYyMiwxNzUzNzEx
-MzEwLDE3NjMyMjcyMjgsLTkzNzA3MTAyN119
+eyJoaXN0b3J5IjpbLTIwODA5NDg2NzEsLTE5MzE5NTMzMjMsNj
+M4OTI4Mjk1LC0xODg4ODQyMzczLC01MTc4ODU2OCwtMTI0NjQx
+MjYyMiwxNzUzNzExMzEwLDE3NjMyMjcyMjgsLTkzNzA3MTAyN1
+19
 -->
