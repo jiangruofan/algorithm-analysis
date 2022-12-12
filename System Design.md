@@ -94,8 +94,19 @@ topic 2: t3,t1, tl, tl, t0, t0 -----------simple transform----- output 2
 topic 3: t4,t3,t2, t1, t1, t1 ----------simple transform------output 3  
 topic 4: t5, t4, t2, t0 ----------simple transform------output 4
 
+algorithmic,but further followup also asked how to optmize and scale
 
+Initial approach:
+
+-   Mapping of topic: in_topic -> out_topic
+-   Custom queue that takes a list of topics, we'll call  `CustomQueue`
+
+For  `CustomQueue`, it's similar to an external merge sort, you'll have a priority queue that buffers the head of each message from each topic. When you poll from  `CustomQueue`, poll from the priority queue, then read a message from the corresponding topic to replace it in the priority queue. Apply your transform and write it out to the expected output topic - this timestamp is now the latest timestamp (high watermark) you have, store it, and periodically broadcast this message to all output topics.
+
+To improve on this, instead of reading one message at a time, each topic should maintain its own buffer of messages. Our current approach is a single consumer model, you can expand this to a multiple consumer model, but implementation will depend on the provided constraint: (A) message with lowest timestamp must be processed first OR (B) message with lowest timestamp must be sent first. With (A), you can serialize the processing but parallelize writing it to the output but with (B) you can parallelize processing and serialize the sending.
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzIxNzE4MiwxNjc3NTU3MzU0LC0yMD
+eyJoaXN0b3J5IjpbLTk1NDExMDQ0MSwxNjc3NTU3MzU0LC0yMD
 cxMTQxMzcsMTE4NzMzMDkyNl19
 -->
