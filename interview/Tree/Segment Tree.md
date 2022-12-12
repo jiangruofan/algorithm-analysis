@@ -235,6 +235,10 @@ Sample Output:-
 
 oppo oa
 
+[HiLabs || SDE || OA 2022](https://leetcode.com/discuss/interview-question/2829632/HiLabs-oror-SDE-oror-OA-2022)
+
+
+
 given a string，求出每一个prefix的最长子回文串 string的长度为1e5
 使用马拉车算法 然后线段🌲更新区间最大值 最后计算每一个prefix的最大值
 时间复杂度是 nlogn
@@ -333,11 +337,11 @@ Would anyone be able to help me understand what the expected solution is?
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTAyMDM1NywxMjY2ODc3NjYyLC03OD
-A4MjA1MDEsMTEyNDMyNzI4OSwxOTI4MjgwMDI5LDE4MzQ0MjE1
-NDcsMjE0MTA3OTk1NywxMjE5NjM2NDEwLC0xOTA4NDc5NzAsMT
-M1ODQyMDk0NCwtOTk5MDUyODk2LDE2MDQwNTI4OTcsLTgwMDMz
-NDY3LDkwNzAyNTA2NiwyOTYyNzQ4NDYsLTUxNTkxNDg0MywxMj
-U1NDQwOTI0LC0xMzAxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEw
-MzY4XX0=
+eyJoaXN0b3J5IjpbMTM0MTY2NjU4LDE2MTEwMjAzNTcsMTI2Nj
+g3NzY2MiwtNzgwODIwNTAxLDExMjQzMjcyODksMTkyODI4MDAy
+OSwxODM0NDIxNTQ3LDIxNDEwNzk5NTcsMTIxOTYzNjQxMCwtMT
+kwODQ3OTcwLDEzNTg0MjA5NDQsLTk5OTA1Mjg5NiwxNjA0MDUy
+ODk3LC04MDAzMzQ2Nyw5MDcwMjUwNjYsMjk2Mjc0ODQ2LC01MT
+U5MTQ4NDMsMTI1NTQ0MDkyNCwtMTMwMTYwNjQ0NSwyMDQxNjMx
+NTM4XX0=
 -->
