@@ -237,7 +237,7 @@ oppo oa
 
 [HiLabs || SDE || OA 2022](https://leetcode.com/discuss/interview-question/2829632/HiLabs-oror-SDE-oror-OA-2022)
 
-
+![image](https://assets.leetcode.com/users/images/b8daaf21-a7cb-480e-a45d-a1c1ee4331be_1668849091.2575836.png)
 
 given a string，求出每一个prefix的最长子回文串 string的长度为1e5
 使用马拉车算法 然后线段🌲更新区间最大值 最后计算每一个prefix的最大值
@@ -337,11 +337,11 @@ Would anyone be able to help me understand what the expected solution is?
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTY2NjU4LDE2MTEwMjAzNTcsMTI2Nj
-g3NzY2MiwtNzgwODIwNTAxLDExMjQzMjcyODksMTkyODI4MDAy
-OSwxODM0NDIxNTQ3LDIxNDEwNzk5NTcsMTIxOTYzNjQxMCwtMT
-kwODQ3OTcwLDEzNTg0MjA5NDQsLTk5OTA1Mjg5NiwxNjA0MDUy
-ODk3LC04MDAzMzQ2Nyw5MDcwMjUwNjYsMjk2Mjc0ODQ2LC01MT
-U5MTQ4NDMsMTI1NTQ0MDkyNCwtMTMwMTYwNjQ0NSwyMDQxNjMx
-NTM4XX0=
+eyJoaXN0b3J5IjpbMjA4NjUyOTcyOSwxNjExMDIwMzU3LDEyNj
+Y4Nzc2NjIsLTc4MDgyMDUwMSwxMTI0MzI3Mjg5LDE5MjgyODAw
+MjksMTgzNDQyMTU0NywyMTQxMDc5OTU3LDEyMTk2MzY0MTAsLT
+E5MDg0Nzk3MCwxMzU4NDIwOTQ0LC05OTkwNTI4OTYsMTYwNDA1
+Mjg5NywtODAwMzM0NjcsOTA3MDI1MDY2LDI5NjI3NDg0NiwtNT
+E1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYz
+MTUzOF19
 -->
