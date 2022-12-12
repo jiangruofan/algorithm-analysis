@@ -227,7 +227,9 @@ Sample Output:-
 ![image](https://assets.leetcode.com/users/images/667d5ff9-313f-4c9f-825d-734479335a58_1666720741.0422642.png)
 ![image](https://assets.leetcode.com/users/images/8f35c9d3-394d-4fe3-b461-f465b37678f4_1666720741.0380628.png)
 
-单体修改 区间查询 + 二分
+单体修改 查询的话两种方法 1. 区间查询 + 二分(二分位置然后区间查询判断数量)
+2. 直接区间查询计算
+这题可以不用离散化
 
 -----
 
@@ -331,10 +333,11 @@ Would anyone be able to help me understand what the expected solution is?
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDgyMDUwMSwxMTI0MzI3Mjg5LDE5Mj
-gyODAwMjksMTgzNDQyMTU0NywyMTQxMDc5OTU3LDEyMTk2MzY0
-MTAsLTE5MDg0Nzk3MCwxMzU4NDIwOTQ0LC05OTkwNTI4OTYsMT
-YwNDA1Mjg5NywtODAwMzM0NjcsOTA3MDI1MDY2LDI5NjI3NDg0
-NiwtNTE1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMj
-A0MTYzMTUzOCw3MTA1MTAzNjgsLTE3NzYwNjI5NzFdfQ==
+eyJoaXN0b3J5IjpbMTI2Njg3NzY2MiwtNzgwODIwNTAxLDExMj
+QzMjcyODksMTkyODI4MDAyOSwxODM0NDIxNTQ3LDIxNDEwNzk5
+NTcsMTIxOTYzNjQxMCwtMTkwODQ3OTcwLDEzNTg0MjA5NDQsLT
+k5OTA1Mjg5NiwxNjA0MDUyODk3LC04MDAzMzQ2Nyw5MDcwMjUw
+NjYsMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NTQ0MDkyNCwtMT
+MwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2OCwtMTc3NjA2
+Mjk3MV19
 -->
