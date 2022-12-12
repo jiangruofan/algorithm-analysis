@@ -482,12 +482,36 @@ so among all such arrangements we need to find the  **maximumpossibleefficiency 
 dp[i][j]表示对于第i个元素它是在右边元素之前还是之后出现 j为1或者0表示之前还是之后
 
 ---
+
+[Tiktok | Grad | Online Assessment](https://leetcode.com/discuss/interview-question/2864563/Tiktok-or-Grad-or-Online-Assessment)
+
+**Can someone help me with this question?**  
+The company OnlineShopping has a budget of N SGD this financial year. The Chief Marketing Officer (CMO) wants to advertise on TikTok to guide more traffic to the platform. The TikTok ad team shared different kinds of advertisement. Each advertisement can only run at most once. Below are some sample advertisement  
+types ad team shared:  
+• Type A: S$1000 can reach 3000 TikTok users  
+• Type B: S$500 can reach 2000 TikTok users  
+• Type C: S$200 can reach 1000 TikTok users  
+• Type D: S$100 can each 800 TikTok users.  
+• Type E: S$50 can reach 200 TikTok users  
+For each type of advertisement, the performance differ. The advertisement types will be given by ad team  
+**Write an alogrithm to help CMO evaluate the highest member of users it can reach by using the budget and the advertisement types array: M**  
+**Input**  
+Budget: N  
+Advertisement types(2d array)  
+**M: [[1000,3000], [500,2000], [200,1000],[100,800],[50,200]]**  
+**Output:**  
+Max number of users can reach Limit  
+Time complexity should be at least **O(len(M) * N)**
+
+0-1背包问题
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjM3NjAyNywtNjMwMDM1ODYzLDExOD
-YyMjY4MjIsLTE5Njc3MDkwNjYsLTQyMzE0Mzk3MywtNjA5Mjg5
-NDE4LC05NTUzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMC
-wtMTM2MTE1ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5
-NzYwODkwMywtOTA0MTk2NDQ3LDE2OTAwNDI5MzgsNzI4NDg3NT
-c4LDgxNTQxOTI3OCw3OTEyMzY3NzAsMTAyMjIwODM1NCwtOTEw
-MzUyODg4XX0=
+eyJoaXN0b3J5IjpbODQwNDI3MzUwLC02NzIzNzYwMjcsLTYzMD
+AzNTg2MywxMTg2MjI2ODIyLC0xOTY3NzA5MDY2LC00MjMxNDM5
+NzMsLTYwOTI4OTQxOCwtOTU1Mzk0OTA4LC0xNjY0NTEwNjYxLC
+0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIwOTgyODUwODEsOTgx
+MzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0NywxNjkwMDQyOT
+M4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMjIy
+MDgzNTRdfQ==
 -->
