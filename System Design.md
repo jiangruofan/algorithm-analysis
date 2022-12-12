@@ -81,7 +81,21 @@ PostgreSQL in Depth:  [https://bit.ly/3UjStw5](https://bit.ly/3UjStw5)
 [URL Shortening System Design](https://leetcode.com/discuss/interview-question/2869646/URL-Shortening-System-Design)
 
 [System Design | React & Commenting System](https://leetcode.com/discuss/interview-question/2847000/System-Design-or-React-and-Commenting-System)
+
+[Google|Onsite|L4](https://leetcode.com/discuss/interview-question/2872386/GoogleorOnsiteorL4)
+
+Build a multi-threaded processing unit which processes message from N input topics. Messages on each input topic arrives in increasing time stamp. Processing unit must ensure that Message with lower time stamp are processed before. At a particular system would have a timestamp watermark indicating that messages before this timestamp has been processed across all  
+Topics.  
+For each input topic there is corresponding output topic.  
+Processing unit can have configurable threads m such that m<=n where N is the topic.
+
+topic 1: t2, t2, t2, t1, tl, tl, t0, t0 ----------simple transform------ output 1  
+topic 2: t3,t1, tl, tl, t0, t0 -----------simple transform----- output 2  
+topic 3: t4,t3,t2, t1, t1, t1 ----------simple transform------output 3  
+topic 4: t5, t4, t2, t0 ----------simple transform------output 4
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzU1NzM1NCwtMjA3MTE0MTM3LDExOD
-czMzA5MjZdfQ==
+eyJoaXN0b3J5IjpbLTgxNzIxNzE4MiwxNjc3NTU3MzU0LC0yMD
+cxMTQxMzcsMTE4NzMzMDkyNl19
 -->
