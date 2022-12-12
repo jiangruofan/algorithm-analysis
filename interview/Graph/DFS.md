@@ -861,20 +861,21 @@ dfs只要进行两层 用一个cnt记录每一个元素的accessible的个数
     res = 0
     def dfs(node, fa, sum1, hissum1):
 	    res = max(res, nums[node][1] * hissum1)
-	    total = 0
+	    total = max(sum1, 0) + val[node]
+	    his
 	    for child in edges[node]:
 		    if child == fa:
 			    continue
-			  
+			total += max(0, nums[child][1])
 	    
 	    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDA1MzA5OSwxMDY4NzA5NjMyLDE5ND
-YwMjUzMDQsLTQ2MDI5OTUzMCwxMzI4NzM3NTAxLC0xMzE3OTkz
-ODI4LDgzNDQzOTc3NywtOTQzNTI1Nyw5NjA2Njg4NDEsLTE1Mz
-A3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mjg1NTQ4
-MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4NDgsMT
-U4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMTQxMjQx
-NzQ3M119
+eyJoaXN0b3J5IjpbMjY2NjI4NTkxLDEwNjg3MDk2MzIsMTk0Nj
+AyNTMwNCwtNDYwMjk5NTMwLDEzMjg3Mzc1MDEsLTEzMTc5OTM4
+MjgsODM0NDM5Nzc3LC05NDM1MjU3LDk2MDY2ODg0MSwtMTUzMD
+c3NTA0MCwtMTMzMzU1MzI0LDEyNjAwNjQ5NzMsNDUyODU1NDgw
+LC0xNjU5Mjg4MzY2LC04NzQ3NTAyNDUsMTA3MTU3ODg0OCwxNT
+g5NjQ3MDQxLDE5NTAzMjAxOCwtMTkxNjM3OTM5MywxNDEyNDE3
+NDczXX0=
 -->
