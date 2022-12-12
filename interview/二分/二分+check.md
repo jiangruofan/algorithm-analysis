@@ -275,9 +275,14 @@ Sample Output #1
 
 
 -----
+
+[Red Hat Software Internship 2023 OA || Off-Campus](https://leetcode.com/discuss/interview-question/2833538/Red-Hat-Software-Internship-2023-OA-oror-Off-Campus)
+
+![image](https://assets.leetcode.com/users/images/549fec1f-1dd5-41e2-a260-86e594dec00d_1668954724.0770314.jpeg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDU0NTMyMyw4ODE0NTMyMDcsNDc5Nj
-I1NTc5LC0xNjIxNTE3NzQ2LC01NTMwNTYyMTEsLTMzNDg0MzI1
-NywxOTcyNTQ4NjM5LC0xMjUzNDk2Njc2LDY1NjkwOTExNSwtOT
-AwODgzNzY3LDE1NDUyMDc0MzFdfQ==
+eyJoaXN0b3J5IjpbMTEyODAwOTEzNCwtODIwNTQ1MzIzLDg4MT
+Q1MzIwNyw0Nzk2MjU1NzksLTE2MjE1MTc3NDYsLTU1MzA1NjIx
+MSwtMzM0ODQzMjU3LDE5NzI1NDg2MzksLTEyNTM0OTY2NzYsNj
+U2OTA5MTE1LC05MDA4ODM3NjcsMTU0NTIwNzQzMV19
 -->
