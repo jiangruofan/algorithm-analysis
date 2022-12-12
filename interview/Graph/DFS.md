@@ -857,12 +857,15 @@ dfs只要进行两层 用一个cnt记录每一个元素的accessible的个数
 
 先进行预处理 对每个节点计算4个数值 1. 以当前节点为根的子树的maxsum(必须包含当前节点) 2. 以当前节点为根的子树的maxsum(不一定包含当前节点) 3. 以当前节点为根的子树的minsum(必须包含当前节点) 4. 以当前节点为根的子树的minsum(不一定包含当前节点)
 然后就是dfs遍历
+
+    def dfs(node, sum1, hi)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTI4MDI3OCwxOTQ2MDI1MzA0LC00Nj
-AyOTk1MzAsMTMyODczNzUwMSwtMTMxNzk5MzgyOCw4MzQ0Mzk3
-NzcsLTk0MzUyNTcsOTYwNjY4ODQxLC0xNTMwNzc1MDQwLC0xMz
-MzNTUzMjQsMTI2MDA2NDk3Myw0NTI4NTU0ODAsLTE2NTkyODgz
-NjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcwNDEsMT
-k1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLTExNjYx
-MTA3NDFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTQ3MTc4OTgsMTk0NjAyNTMwNCwtND
+YwMjk5NTMwLDEzMjg3Mzc1MDEsLTEzMTc5OTM4MjgsODM0NDM5
+Nzc3LC05NDM1MjU3LDk2MDY2ODg0MSwtMTUzMDc3NTA0MCwtMT
+MzMzU1MzI0LDEyNjAwNjQ5NzMsNDUyODU1NDgwLC0xNjU5Mjg4
+MzY2LC04NzQ3NTAyNDUsMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLD
+E5NTAzMjAxOCwtMTkxNjM3OTM5MywxNDEyNDE3NDczLC0xMTY2
+MTEwNzQxXX0=
 -->
