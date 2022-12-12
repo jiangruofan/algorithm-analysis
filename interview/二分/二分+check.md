@@ -282,10 +282,12 @@ Sample Output #1
 
 简单二分+check
 
+`Solution :`  [https://discuss.codechef.com/t/hackerrank-recycling-cartridges/85101/2](https://discuss.codechef.com/t/hackerrank-recycling-cartridges/85101/2)
+
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk2ODEwNDQsLTgyMDU0NTMyMyw4OD
-E0NTMyMDcsNDc5NjI1NTc5LC0xNjIxNTE3NzQ2LC01NTMwNTYy
-MTEsLTMzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMjUzNDk2Njc2LD
-Y1NjkwOTExNSwtOTAwODgzNzY3LDE1NDUyMDc0MzFdfQ==
+eyJoaXN0b3J5IjpbMTI2NjAzNTk0OCwtODIwNTQ1MzIzLDg4MT
+Q1MzIwNyw0Nzk2MjU1NzksLTE2MjE1MTc3NDYsLTU1MzA1NjIx
+MSwtMzM0ODQzMjU3LDE5NzI1NDg2MzksLTEyNTM0OTY2NzYsNj
+U2OTA5MTE1LC05MDA4ODM3NjcsMTU0NTIwNzQzMV19
 -->
