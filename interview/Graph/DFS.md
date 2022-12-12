@@ -843,12 +843,21 @@ Sample Output 2
 dfs只要进行两层 用一个cnt记录每一个元素的accessible的个数
 
 ---
+
+[can anyone solve this question?](https://leetcode.com/discuss/interview-question/2870539/can-anyone-solve-this-question)
+
+![image](https://assets.leetcode.com/users/images/d1117a63-dc09-46b1-b47d-a5db5b7d84d8_1670001662.0808864.jpeg)
+![image](https://assets.leetcode.com/users/images/012df55f-0cee-4372-8155-ed3baed2ca5c_1670001661.5800242.jpeg)
+
+不知道数据范围 暴力方式是n^3
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODczNzUwMSwtMTMxNzk5MzgyOCw4Mz
-Q0Mzk3NzcsLTk0MzUyNTcsOTYwNjY4ODQxLC0xNTMwNzc1MDQw
-LC0xMzMzNTUzMjQsMTI2MDA2NDk3Myw0NTI4NTU0ODAsLTE2NT
-kyODgzNjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcw
-NDEsMTk1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLT
-ExNjYxMTA3NDEsLTUyMTY2MDA0LDEwOTM3OTc2NDYsLTMyNjE3
-MDUxOF19
+eyJoaXN0b3J5IjpbLTQ2MDI5OTUzMCwxMzI4NzM3NTAxLC0xMz
+E3OTkzODI4LDgzNDQzOTc3NywtOTQzNTI1Nyw5NjA2Njg4NDEs
+LTE1MzA3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mj
+g1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4
+NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMT
+QxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYwMDQsMTA5Mzc5
+NzY0Nl19
 -->
