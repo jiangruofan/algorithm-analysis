@@ -285,9 +285,14 @@ Sample Output #1
 `Solution :`  [https://discuss.codechef.com/t/hackerrank-recycling-cartridges/85101/2](https://discuss.codechef.com/t/hackerrank-recycling-cartridges/85101/2)
 
 ----
+
+[PayPal SDE1 OA](https://leetcode.com/discuss/interview-question/2800113/PayPal-SDE1-OA)
+
+![image](https://assets.leetcode.com/users/images/b98e6b15-3215-434d-b90c-a9f69d2c5d9d_1668087437.365687.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjAzNTk0OCwtODIwNTQ1MzIzLDg4MT
-Q1MzIwNyw0Nzk2MjU1NzksLTE2MjE1MTc3NDYsLTU1MzA1NjIx
-MSwtMzM0ODQzMjU3LDE5NzI1NDg2MzksLTEyNTM0OTY2NzYsNj
-U2OTA5MTE1LC05MDA4ODM3NjcsMTU0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbLTg3Njg2MjE5NiwxMjY2MDM1OTQ4LC04Mj
+A1NDUzMjMsODgxNDUzMjA3LDQ3OTYyNTU3OSwtMTYyMTUxNzc0
+NiwtNTUzMDU2MjExLC0zMzQ4NDMyNTcsMTk3MjU0ODYzOSwtMT
+I1MzQ5NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3
+NDMxXX0=
 -->
