@@ -539,12 +539,24 @@ _longint_: the maximum possible sum of strengths of all indices after the operat
 getMaximumSumOfStrengths([1,9,7,3,2]) returns 66
 
 ----
+
+[Media.Net | Onsite | Coding Round](https://leetcode.com/discuss/interview-question/2349539/Media.Net-or-Onsite-or-Coding-Round)
+
+Can someone pls. help me with this problem?  
+I have my coding round of  [Media.net](http://media.net/)  and this question was asked previously.
+
+N strings of varying lengths are given. Each character used in the strings has some value. The value of a string is the sum of all characters used in that string. Given a length L, we have to use a subset of the given strings so that the total length of the strings used is L and the sum of values of all strings is maximised.  
+Hint: Knapsack
+
+简单背包
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgwOTY0OTcsODQwNDI3MzUwLC02Nz
-IzNzYwMjcsLTYzMDAzNTg2MywxMTg2MjI2ODIyLC0xOTY3NzA5
-MDY2LC00MjMxNDM5NzMsLTYwOTI4OTQxOCwtOTU1Mzk0OTA4LC
-0xNjY0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIw
-OTgyODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5Nj
-Q0NywxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkx
-MjM2NzcwXX0=
+eyJoaXN0b3J5IjpbLTMyNzI4MDE4OCwtMTQ3ODA5NjQ5Nyw4ND
+A0MjczNTAsLTY3MjM3NjAyNywtNjMwMDM1ODYzLDExODYyMjY4
+MjIsLTE5Njc3MDkwNjYsLTQyMzE0Mzk3MywtNjA5Mjg5NDE4LC
+05NTUzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMCwtMTM2
+MTE1ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5NzYwOD
+kwMywtOTA0MTk2NDQ3LDE2OTAwNDI5MzgsNzI4NDg3NTc4LDgx
+NTQxOTI3OF19
 -->
