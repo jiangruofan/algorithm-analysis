@@ -6,6 +6,10 @@
 
 ----
 
+[System Design](https://leetcode.com/discuss/interview-question/2896181/Layoff-Tech-Interview-Preparation)
+
+[💥 Important FAANG - Solved Complete System Design Case Studies](https://leetcode.com/discuss/interview-question/2805706/Important-FAANG-Solved-Complete-System-Design-Case-Studies)
+
 **System Design Case Studies**
 
 Design Google Drive :  [https://bit.ly/3uXdQZ7](https://bit.ly/3uXdQZ7)  
@@ -52,6 +56,25 @@ Map Reduce, Patterns and Microservices :  [https://bit.ly/3zcsfmv](https://bit.l
 SQL vs NoSQL and Cloud :  [https://bit.ly/3z8Aa49](https://bit.ly/3z8Aa49)  
 Most Popular System Design Questions :  [https://bit.ly/3Dp40Ux](https://bit.ly/3Dp40Ux)
 
+**Advanced SQL**
+
+SQL Basics and Kick start of Advanced SQL Series :  [https://bit.ly/3fC3Y2Q](https://bit.ly/3fC3Y2Q)  
+SQL Basics, Query Structure, Built In functions Conditions :  [https://bit.ly/3U7dFoI](https://bit.ly/3U7dFoI)  
+Most Important Commands, Joins and Filters :  [https://bit.ly/3zI6Im7](https://bit.ly/3zI6Im7)  
+Set Theory Operations, Stored Procedures and CASE statements in SQL :  [https://bit.ly/3Nxj9qz](https://bit.ly/3Nxj9qz)  
+Wildcards, Aggregation and Sequences in SQL :  [https://bit.ly/3t11QVn](https://bit.ly/3t11QVn)  
+Subqueries, Group by, order by and Having clauses in SQL and Analytical Functions :  [https://bit.ly/3Un3eNx](https://bit.ly/3Un3eNx)  
+Window Functions, Grouping Sets and Constraints in SQL :  [https://bit.ly/3DF4Dbv](https://bit.ly/3DF4Dbv)  
+BigQuery Basics, SELECT, FROM, WHERE and Date and Extract in BigQuery :  [https://bit.ly/3UixI3z](https://bit.ly/3UixI3z)  
+Common Expression Table, UNNEST Clause, SQL vs NoSQL Databases :  [https://bit.ly/3WI74Tr](https://bit.ly/3WI74Tr)  
+Triggers, Pivot and Cursors in SQL :  [https://bit.ly/3fOUWzm](https://bit.ly/3fOUWzm)  
+Views, Indexes and Auto Increment in SQL :  [https://bit.ly/3zVOg9q](https://bit.ly/3zVOg9q)  
+Query optimizations, Performance tuning in SQL :  [https://bit.ly/3EeUfZL](https://bit.ly/3EeUfZL)  
+Introduction to MySQL, PostgreSQL and Mongo DB, Comparison between MySQL and PostgreSQL and Mongo  
+DB, Introduction to SQL and NoSQL Databases :  [https://bit.ly/3DXpHKO](https://bit.ly/3DXpHKO)  
+MySQL in Depth :  [https://bit.ly/3EoDRWN](https://bit.ly/3EoDRWN)  
+PostgreSQL in Depth:  [https://bit.ly/3UjStw5](https://bit.ly/3UjStw5)
+
 ---
 
 
@@ -59,6 +82,6 @@ Most Popular System Design Questions :  [https://bit.ly/3Dp40Ux](https://bit.ly/
 
 [System Design | React & Commenting System](https://leetcode.com/discuss/interview-question/2847000/System-Design-or-React-and-Commenting-System)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAzMDY2NTgsLTIwNzExNDEzNywxMT
-g3MzMwOTI2XX0=
+eyJoaXN0b3J5IjpbMTY3NzU1NzM1NCwtMjA3MTE0MTM3LDExOD
+czMzA5MjZdfQ==
 -->
