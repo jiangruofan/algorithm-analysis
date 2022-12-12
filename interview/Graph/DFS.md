@@ -852,12 +852,16 @@ dfs只要进行两层 用一个cnt记录每一个元素的accessible的个数
 不知道数据范围 暴力方式是n^3
 
 ----
+
+[Maximum Disjoint Subtree Product](https://www.hackerrank.com/contests/world-codesprint-10/challenges/maximum-disjoint-subtree-product/problem)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDI5OTUzMCwxMzI4NzM3NTAxLC0xMz
-E3OTkzODI4LDgzNDQzOTc3NywtOTQzNTI1Nyw5NjA2Njg4NDEs
-LTE1MzA3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mj
-g1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4
-NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMT
-QxMjQxNzQ3MywtMTE2NjExMDc0MSwtNTIxNjYwMDQsMTA5Mzc5
-NzY0Nl19
+eyJoaXN0b3J5IjpbMTk0NjAyNTMwNCwtNDYwMjk5NTMwLDEzMj
+g3Mzc1MDEsLTEzMTc5OTM4MjgsODM0NDM5Nzc3LC05NDM1MjU3
+LDk2MDY2ODg0MSwtMTUzMDc3NTA0MCwtMTMzMzU1MzI0LDEyNj
+AwNjQ5NzMsNDUyODU1NDgwLC0xNjU5Mjg4MzY2LC04NzQ3NTAy
+NDUsMTA3MTU3ODg0OCwxNTg5NjQ3MDQxLDE5NTAzMjAxOCwtMT
+kxNjM3OTM5MywxNDEyNDE3NDczLC0xMTY2MTEwNzQxLC01MjE2
+NjAwNF19
 -->
