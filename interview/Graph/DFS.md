@@ -859,17 +859,18 @@ dfs只要进行两层 用一个cnt记录每一个元素的accessible的个数
 然后就是dfs遍历
 
     res = 0
-    def dfs(node, sum1, hissum1):
+    def dfs(node, fa, sum1, hissum1):
 	    res = max(res, nums[node][1] * hissum1)
+	    
 	    
 	    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODcwOTYzMiwxOTQ2MDI1MzA0LC00Nj
-AyOTk1MzAsMTMyODczNzUwMSwtMTMxNzk5MzgyOCw4MzQ0Mzk3
-NzcsLTk0MzUyNTcsOTYwNjY4ODQxLC0xNTMwNzc1MDQwLC0xMz
-MzNTUzMjQsMTI2MDA2NDk3Myw0NTI4NTU0ODAsLTE2NTkyODgz
-NjYsLTg3NDc1MDI0NSwxMDcxNTc4ODQ4LDE1ODk2NDcwNDEsMT
-k1MDMyMDE4LC0xOTE2Mzc5MzkzLDE0MTI0MTc0NzMsLTExNjYx
-MTA3NDFdfQ==
+eyJoaXN0b3J5IjpbMTk1MzIwMTI4NywxMDY4NzA5NjMyLDE5ND
+YwMjUzMDQsLTQ2MDI5OTUzMCwxMzI4NzM3NTAxLC0xMzE3OTkz
+ODI4LDgzNDQzOTc3NywtOTQzNTI1Nyw5NjA2Njg4NDEsLTE1Mz
+A3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mjg1NTQ4
+MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4NDgsMT
+U4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMTQxMjQx
+NzQ3M119
 -->
