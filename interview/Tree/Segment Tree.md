@@ -298,7 +298,7 @@ Can anyone help me in understanding what is the expected solution for this probl
 ![image](https://assets.leetcode.com/users/images/cb4aa11c-5478-4fc1-b505-5a18389dfe2d_1669096149.2286146.png)
 ![image](https://assets.leetcode.com/users/images/a610905f-35d9-4a40-8590-963bc1f18389_1669096159.5293403.png)
 
-这里的核心是有这个mod 那么使用前缀和+哈希表即可 
+这里的核心是有这个mod 那么使用前缀和即可 
 单体修改 区间查询    
 。。。。。。。。val。。。。。。。 (val表示ith前缀和)
 需要判断k是否小于或者大于val 
@@ -333,11 +333,11 @@ Would anyone be able to help me understand what the expected solution is?
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Njg3NzY2MiwtNzgwODIwNTAxLDExMj
-QzMjcyODksMTkyODI4MDAyOSwxODM0NDIxNTQ3LDIxNDEwNzk5
-NTcsMTIxOTYzNjQxMCwtMTkwODQ3OTcwLDEzNTg0MjA5NDQsLT
-k5OTA1Mjg5NiwxNjA0MDUyODk3LC04MDAzMzQ2Nyw5MDcwMjUw
-NjYsMjk2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NTQ0MDkyNCwtMT
-MwMTYwNjQ0NSwyMDQxNjMxNTM4LDcxMDUxMDM2OCwtMTc3NjA2
-Mjk3MV19
+eyJoaXN0b3J5IjpbMTYxMTAyMDM1NywxMjY2ODc3NjYyLC03OD
+A4MjA1MDEsMTEyNDMyNzI4OSwxOTI4MjgwMDI5LDE4MzQ0MjE1
+NDcsMjE0MTA3OTk1NywxMjE5NjM2NDEwLC0xOTA4NDc5NzAsMT
+M1ODQyMDk0NCwtOTk5MDUyODk2LDE2MDQwNTI4OTcsLTgwMDMz
+NDY3LDkwNzAyNTA2NiwyOTYyNzQ4NDYsLTUxNTkxNDg0MywxMj
+U1NDQwOTI0LC0xMzAxNjA2NDQ1LDIwNDE2MzE1MzgsNzEwNTEw
+MzY4XX0=
 -->
