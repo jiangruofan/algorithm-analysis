@@ -861,12 +861,16 @@ dfs只要进行两层 用一个cnt记录每一个元素的accessible的个数
     res = 0
     def dfs(node, fa, sum1, hissum1):
 	    res = max(res, nums[node][1] * hissum1)
-	    
+	    total = 0
+	    for child in edges[node]:
+		    if child == fa:
+			    continue
+			  
 	    
 	    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzIwMTI4NywxMDY4NzA5NjMyLDE5ND
+eyJoaXN0b3J5IjpbMTQwNDA1MzA5OSwxMDY4NzA5NjMyLDE5ND
 YwMjUzMDQsLTQ2MDI5OTUzMCwxMzI4NzM3NTAxLC0xMzE3OTkz
 ODI4LDgzNDQzOTc3NywtOTQzNTI1Nyw5NjA2Njg4NDEsLTE1Mz
 A3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mjg1NTQ4
