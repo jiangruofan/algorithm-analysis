@@ -106,7 +106,14 @@ For  `CustomQueue`, it's similar to an external merge sort, you'll have a priori
 To improve on this, instead of reading one message at a time, each topic should maintain its own buffer of messages. Our current approach is a single consumer model, you can expand this to a multiple consumer model, but implementation will depend on the provided constraint: (A) message with lowest timestamp must be processed first OR (B) message with lowest timestamp must be sent first. With (A), you can serialize the processing but parallelize writing it to the output but with (B) you can parallelize processing and serialize the sending.
 
 ----
+
+[Hinge Software Engineer OA | USA](https://leetcode.com/discuss/interview-question/2895020/Hinge-Software-Engineer-OA-or-USA)
+
+![image](https://assets.leetcode.com/users/images/6b8b372e-545c-4d89-bfd7-3fd0e2737f20_1670604897.859011.png)
+![image](https://assets.leetcode.com/users/images/4f11546e-9d11-4e28-8d48-c114318443f6_1670604905.1869214.png)
+![image](https://assets.leetcode.com/users/images/a84a86ca-39b6-45bd-b986-1fc0ad82b0cb_1670604908.8087463.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDExMDQ0MSwxNjc3NTU3MzU0LC0yMD
-cxMTQxMzcsMTE4NzMzMDkyNl19
+eyJoaXN0b3J5IjpbLTExMzc5MjczMDIsLTk1NDExMDQ0MSwxNj
+c3NTU3MzU0LC0yMDcxMTQxMzcsMTE4NzMzMDkyNl19
 -->
