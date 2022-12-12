@@ -506,12 +506,45 @@ Time complexity should be at least **O(len(M) * N)**
 0-1背包问题
 
 ----
+
+[Starbucks | OA | Element Swapping](https://leetcode.com/discuss/interview-question/2902387/Starbucks-or-OA-or-Element-Swapping)
+
+**Question:**
+
+A software development firm is hiring engineers and used the following challenge in its online test.
+
+Given an array arrthat contains n integers, the following operation can be performed on it any number of times (possibly zero):
+
+• Choose any index i(O i < n - 1) and swap arr[i] and arr[i+1].  
+• Each element of the array can be swapped at most once during the whole process.
+
+The strength of an index i is defined as (arr[i] * (i + 1)), using 0-based indexing. Find the maximum possible sum of the strength of all indices after optimal swaps. Mathematically, maximize the following.
+
+![image](https://assets.leetcode.com/users/images/4737dc64-49ec-4e86-b978-33c659ed64a1_1670792175.99601.png)
+
+Example:  
+Consider n = 4, arr=[2, 1, 4, 3].  
+It is optimal to swap (arr[2], arr[3]) and (arr[0], arr[1]). The final array is [1 , 2, 3, 4]. The sum of strengths =(1 * 1 +2 * 2+3 * 3+4 * 4) = 30, which is maximum possible. Thus, the answer is 30.
+
+**Function Description**:  
+Complete the function getMaximumSumOfStrengths().
+
+getMaximumSumOfStrengths() has the following parameter:  
+_int arr[n]_:the initial array
+
+**Returns**:  
+_longint_: the maximum possible sum of strengths of all indices after the operations are applied optimally
+
+**Sample Case:**  
+getMaximumSumOfStrengths([1,9,7,3,2]) returns 66
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNDI3MzUwLC02NzIzNzYwMjcsLTYzMD
-AzNTg2MywxMTg2MjI2ODIyLC0xOTY3NzA5MDY2LC00MjMxNDM5
-NzMsLTYwOTI4OTQxOCwtOTU1Mzk0OTA4LC0xNjY0NTEwNjYxLC
-0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIwOTgyODUwODEsOTgx
-MzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5NjQ0NywxNjkwMDQyOT
-M4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkxMjM2NzcwLDEwMjIy
-MDgzNTRdfQ==
+eyJoaXN0b3J5IjpbLTE0NzgwOTY0OTcsODQwNDI3MzUwLC02Nz
+IzNzYwMjcsLTYzMDAzNTg2MywxMTg2MjI2ODIyLC0xOTY3NzA5
+MDY2LC00MjMxNDM5NzMsLTYwOTI4OTQxOCwtOTU1Mzk0OTA4LC
+0xNjY0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMjAsLTIw
+OTgyODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkwNDE5Nj
+Q0NywxNjkwMDQyOTM4LDcyODQ4NzU3OCw4MTU0MTkyNzgsNzkx
+MjM2NzcwXX0=
 -->
