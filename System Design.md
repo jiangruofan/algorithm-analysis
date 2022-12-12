@@ -2,11 +2,13 @@
 
 [What is the CAP theorem?](https://www.educative.io/blog/what-is-cap-theorem)
 
+[What is the CAP Theorem? MongoDB vs Cassandra vs RDBMS, where do they stand in the CAP theorem?](https://bikas-katwal.medium.com/mongodb-vs-cassandra-vs-rdbms-where-do-they-stand-in-the-cap-theorem-1bae779a7a15)
+
 ----
 
 [URL Shortening System Design](https://leetcode.com/discuss/interview-question/2869646/URL-Shortening-System-Design)
 
 [System Design | React & Commenting System](https://leetcode.com/discuss/interview-question/2847000/System-Design-or-React-and-Commenting-System)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzMzMDkyNl19
+eyJoaXN0b3J5IjpbLTIwNzExNDEzNywxMTg3MzMwOTI2XX0=
 -->
