@@ -190,6 +190,37 @@ Third output is , /b/c because the remaining paths/files are similar .
 字典🌲 + 最近公共祖先判断 
 
 ---
+
+[HRT Code Signal Question](https://leetcode.com/discuss/interview-question/2846303/HRT-Code-Signal-Question)
+
+I recently got this as my final question with 7 minutes left on my HRT OA, I don't exactly remember the exact details but here goes.
+
+You are given a array of strings,  **arr**  and your task is to return the number of strings which fulfill the given condition
+
+-   0 <=j < i < arr.length
+-   arr[j] == arr[i] or arr[i] starts with arr[j] or arr[j] starts with arr[i]
+
+```
+arr = ["back", "backdoor", "background", "ground", "yard", "backyard", "groundwater"]
+/*
+back and backdoor
+back and background
+back and backyard
+ground and groundwater
+*/
+ans = 4
+
+```
+
+This questions seems familar, but I couldn't seem to find it anywhere, does anyone know which question this was? I want to try to solve it again with more time.
+
+I solved it quickly with O(n^2) for the points, but it TLE for the last 5 hidden testcases, my next approach would be to make a trie, but I haven't touch Trie in Python, I mostly program in Javascript and Java. OA was locked to Python or C++.
+
+The questions given were 1 leetcode easy, 2 mediums, and this question.  
+One of the notable medium question was creating a UI screen with given userWidth, screnWidth, and text message, which was time consuming.
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQyNjcyNzksLTc1OTI3NjUyN119
+eyJoaXN0b3J5IjpbMTkwMzkxMDY5MywtMTQxNDI2NzI3OSwtNz
+U5Mjc2NTI3XX0=
 -->
