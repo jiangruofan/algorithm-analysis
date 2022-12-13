@@ -220,8 +220,21 @@ One of the notable medium question was creating a UI screen with given userWidth
 
 [Uber OA | SDE-1 | New Grad | Dec 2022](https://leetcode.com/discuss/interview-question/2904947/Uber-OA-or-SDE-1-or-New-Grad-or-Dec-2022)
 
+```
+Q1 : Given an array of strings` words` find the number of, pairs where either the strings are equal or one string starts with another.
+In other words, find the number of such pairs i, j (0 <= i < j < words.length ) 'that words[i] is a prefix Of' words [j] ,
+or words [j] is a prefix of words[i].
+
+Examples : 
+words = { "back", "backdoor", "gammon", "backgammon", "comeback", "come", "door" }
+Output : 3
+
+words = {"abc", "a", "a", "b", "ab", "ac"}
+Output : 8
+```
+
 -----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTg2Nzg3NCwxOTAzOTEwNjkzLC0xND
-E0MjY3Mjc5LC03NTkyNzY1MjddfQ==
+eyJoaXN0b3J5IjpbMzE2ODI2MjczLDE5MDM5MTA2OTMsLTE0MT
+QyNjcyNzksLTc1OTI3NjUyN119
 -->
