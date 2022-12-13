@@ -4,6 +4,8 @@
 
 [What is the CAP Theorem? MongoDB vs Cassandra vs RDBMS, where do they stand in the CAP theorem?](https://bikas-katwal.medium.com/mongodb-vs-cassandra-vs-rdbms-where-do-they-stand-in-the-cap-theorem-1bae779a7a15)
 
+[NoSQL概述-从Mongo和Cassandra谈谈NoSQL](https://cloud.tencent.com/developer/article/1480386)
+
 ----
 
 [System Design](https://leetcode.com/discuss/interview-question/2896181/Layoff-Tech-Interview-Preparation)
@@ -124,6 +126,7 @@ To improve on this, instead of reading one message at a time, each topic should 
 
 -----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDY2Nzk4NCwtOTU0MTEwNDQxLDE2Nz
-c1NTczNTQsLTIwNzExNDEzNywxMTg3MzMwOTI2XX0=
+eyJoaXN0b3J5IjpbMTM1NzA0NTk2NSwxOTIwNjY3OTg0LC05NT
+QxMTA0NDEsMTY3NzU1NzM1NCwtMjA3MTE0MTM3LDExODczMzA5
+MjZdfQ==
 -->
