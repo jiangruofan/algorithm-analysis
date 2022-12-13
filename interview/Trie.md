@@ -209,7 +209,6 @@ back and backyard
 ground and groundwater
 */
 ans = 4
-
 ```
 
 This questions seems familar, but I couldn't seem to find it anywhere, does anyone know which question this was? I want to try to solve it again with more time.
@@ -219,8 +218,10 @@ I solved it quickly with O(n^2) for the points, but it TLE for the last 5 hidden
 The questions given were 1 leetcode easy, 2 mediums, and this question.  
 One of the notable medium question was creating a UI screen with given userWidth, screnWidth, and text message, which was time consuming.
 
+[Uber OA | SDE-1 | New Grad | Dec 2022](https://leetcode.com/discuss/interview-question/2904947/Uber-OA-or-SDE-1-or-New-Grad-or-Dec-2022)
+
 -----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzkxMDY5MywtMTQxNDI2NzI3OSwtNz
-U5Mjc2NTI3XX0=
+eyJoaXN0b3J5IjpbLTMzNTg2Nzg3NCwxOTAzOTEwNjkzLC0xND
+E0MjY3Mjc5LC03NTkyNzY1MjddfQ==
 -->
