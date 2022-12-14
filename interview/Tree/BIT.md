@@ -168,11 +168,11 @@ first 4 indices satisfy the given condition.
 1.  Given 2 interval arrays, A and B, find an interval in A that is completely in B
     -   eg. A --> [[1,2], [3,6]] B --> [[1,4], [5, 8]]. The answer would be [[1,2], [5, 8]]
 
-就是给定一些interval 
+就是给定一些interval和一些query 判断query是否被某一个interval包含
 
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODUwNjA2MywtMTAwOTEyOTQ5MSwtOT
+eyJoaXN0b3J5IjpbLTQ0Mzk4NDUzNCwtMTAwOTEyOTQ5MSwtOT
 cyNzA3ODA1LDQxOTMwMDM3MSw1NTE1NzkzMjUsMTcyMTQ5Njcy
 MF19
 -->
