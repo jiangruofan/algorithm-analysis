@@ -266,6 +266,13 @@ minimum Division has the follow](https://media.cheggcdn.com/media/b9c/b9cfeb19-e
 
 ------
 
+[Tekion | SSE | Rejected](https://leetcode.com/discuss/interview-question/2907614/Tekion-or-SSE-or-Rejected)
+
+1.  Give a set of n numbers and integer K  
+    a) subset of length k such that diff between min and max should be minimum  
+    b) subarray of length k such that diff between min and max should be minimum
+
+----
 
 
 
@@ -274,7 +281,8 @@ minimum Division has the follow](https://media.cheggcdn.com/media/b9c/b9cfeb19-e
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NzI3MDYxLC00OTEzNTIyMDMsNDgwMD
-k1NTQxLDE0OTE0NzkzOTksNTk1MTIyODAzLDEyNjMxOTQyMDQs
-MzIwNDIzODA4LC0xMTMyMjU5MDEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTcyMTIzNjA0NCw4NjQ3MjcwNjEsLTQ5MT
+M1MjIwMyw0ODAwOTU1NDEsMTQ5MTQ3OTM5OSw1OTUxMjI4MDMs
+MTI2MzE5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OT
+gxMTZdfQ==
 -->
