@@ -162,7 +162,17 @@ first 4 indices satisfy the given condition.
 遍历k和j 时间复杂度是O(n^2logn)
 
 ---
+
+[Interview Question](https://leetcode.com/discuss/interview-question/2905326/Interview-Question)
+
+1.  Given 2 interval arrays, A and B, find an interval in A that is completely in B
+    -   eg. A --> [[1,2], [3,6]] B --> [[1,4], [5, 8]]. The answer would be [[1,2], [5, 8]]
+
+就是给定一些interval 
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkxMjk0OTEsLTk3MjcwNzgwNSw0MT
-kzMDAzNzEsNTUxNTc5MzI1LDE3MjE0OTY3MjBdfQ==
+eyJoaXN0b3J5IjpbLTk5ODUwNjA2MywtMTAwOTEyOTQ5MSwtOT
+cyNzA3ODA1LDQxOTMwMDM3MSw1NTE1NzkzMjUsMTcyMTQ5Njcy
+MF19
 -->
