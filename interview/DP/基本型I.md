@@ -551,12 +551,67 @@ Hint: Knapsack
 简单背包
 
 ----
+
+[ZOMATO INTERVIEW QUESTION](https://leetcode.com/discuss/interview-question/2906746/ZOMATO-INTERVIEW-QUESTION)
+
+Tom is decorating the pavement in his garden with N square tiles. Each tile is divided into four triangles of different colors (white - 'W', red - 'R', green - 'G' and blue - 'B'). A tile is described as a string of four characters denoting respectively, the color of the upper, right, bottom and left triangle. For example, the tile in the figure below is described as "WRGB".
+
+The image illustrates an examples of tile
+
+Tom arranged the tiles in a row and decided to rotate some of them to obtain a pretty sequence. He considers a sequence of tiles pretty if each pair of adjacent tiles shares one side of the same color.
+
+Write a function:
+
+class Solution { public int solution(String[] A); }
+
+that, given an array A of N strings, representing the sequence of tiles, returns the minimum number of 90-degree rotations (clockwise or counter-clockwise) that Tom has to perform.
+
+Examples:
+
+1.  Given A = ["RGBW", "GBRW"], the function should return 1.
+
+The image illustrates the first example test.
+
+Tom can rotate the second tile counter-clockwise once to obtain a pretty sequence.
+
+The image illustrates the answer to the first example test.
+
+2.  Given A = ["WBGR", "WBGR", "WRGB", "WRGB", "RBGW"], the function should return 4.
+
+The image illustrates the second example test.
+
+Tom can obtain a pretty sequence by rotating the first and third tiles counter-clockwise and the second and fourth tiles clockwise.
+
+The image illustrates the answer to the second example test.
+
+3.  Given A = ["RBGW", "GBRW", "RWGB", "GBRW"], the function should return 2.
+
+The image illustrates the third example test.
+
+Tom can rotate the first tile clockwise twice to obtain a pretty sequence.
+
+The image illustrates the answer to the third example test.
+
+4.  Given A = ["GBRW", "RBGW", "BWGR", "BRGW"], the function should return 2.
+
+The image illustrates the fourth example test.
+
+Tom can rotate the first two tiles clockwise to obtain a pretty sequence.
+
+The image illustrates the answer to the fourth example test.
+
+Write an efficient algorithm for the following assumptions:
+
+N is an integer within the range [1..100,000];  
+string representing a tile has 4 letters (exactly one occurrence of 'R', 'G', 'B' and 'W').
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzI4MDE4OCwtMTQ3ODA5NjQ5Nyw4ND
-A0MjczNTAsLTY3MjM3NjAyNywtNjMwMDM1ODYzLDExODYyMjY4
-MjIsLTE5Njc3MDkwNjYsLTQyMzE0Mzk3MywtNjA5Mjg5NDE4LC
-05NTUzOTQ5MDgsLTE2NjQ1MTA2NjEsLTIyNDAzNzIzMCwtMTM2
-MTE1ODIyMCwtMjA5ODI4NTA4MSw5ODEzOTE2ODEsLTQ5NzYwOD
-kwMywtOTA0MTk2NDQ3LDE2OTAwNDI5MzgsNzI4NDg3NTc4LDgx
-NTQxOTI3OF19
+eyJoaXN0b3J5IjpbMTE0NDEwOTM4OSwtMzI3MjgwMTg4LC0xND
+c4MDk2NDk3LDg0MDQyNzM1MCwtNjcyMzc2MDI3LC02MzAwMzU4
+NjMsMTE4NjIyNjgyMiwtMTk2NzcwOTA2NiwtNDIzMTQzOTczLC
+02MDkyODk0MTgsLTk1NTM5NDkwOCwtMTY2NDUxMDY2MSwtMjI0
+MDM3MjMwLC0xMzYxMTU4MjIwLC0yMDk4Mjg1MDgxLDk4MTM5MT
+Y4MSwtNDk3NjA4OTAzLC05MDQxOTY0NDcsMTY5MDA0MjkzOCw3
+Mjg0ODc1NzhdfQ==
 -->
