@@ -171,8 +171,14 @@ first 4 indices satisfy the given condition.
 就是给定一些interval和一些query 判断query是否被某一个interval包含
 
 ----
+
+[SAP Labs OA 2022](https://leetcode.com/discuss/interview-question/2917273/SAP-Labs-OA-2022)
+
+![image](https://assets.leetcode.com/users/images/a36d2429-8761-45c3-bbd6-6e0791e4f15b_1671178695.5640762.png)
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mzk4NDUzNCwtMTAwOTEyOTQ5MSwtOT
+eyJoaXN0b3J5IjpbMTQ0NjY3OTg4MCwtMTAwOTEyOTQ5MSwtOT
 cyNzA3ODA1LDQxOTMwMDM3MSw1NTE1NzkzMjUsMTcyMTQ5Njcy
 MF19
 -->
