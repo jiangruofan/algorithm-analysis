@@ -235,8 +235,45 @@ Output : 8
 
 -----
 
-[#####Google | SWE - SRE](https://leetcode.com/discuss/interview-question/2910244/Google-or-SWE-SRE)
+[Google | SWE - SRE](https://leetcode.com/discuss/interview-question/2910244/Google-or-SWE-SRE)
+
+file operations:  
+this was a bit wierd question seems like forcefully made type of question.
+
+Given a list of all files. minimize the output by consolidating the directory if all files of that directory is selected  
+example:  
+assume-  
+a  
+- a.txt  
+- b  
+- a.txt  
+- b.txt  
+- c  
+- z.txt  
+- k.txt  
+all files would be  
+-/a/a.txt  
+-/a/b/a.txt  
+-/a/b/b.txt  
+-/a/c/z.txt  
+-/a/c/k.txt
+
+if selected file would be
+
+-   /a/a.txt
+-   /a/b/a.txt
+-   /a/b/b.txt  
+    output  
+    -/a/a.txt  
+    -/a/b (as all files from a are selected)
+
+It get too complex when there is more nesting.  
+I started wit some set type of solution then I realized I was in wrong direction.
+
+I tried implement to tree but unable to get to the solution. any one can help sovling this problem.
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3ODcxNjUxLDMxNjgyNjI3MywxOTAzOT
-EwNjkzLC0xNDE0MjY3Mjc5LC03NTkyNzY1MjddfQ==
+eyJoaXN0b3J5IjpbLTEzNzY5MTgzODgsMzE2ODI2MjczLDE5MD
+M5MTA2OTMsLTE0MTQyNjcyNzksLTc1OTI3NjUyN119
 -->
