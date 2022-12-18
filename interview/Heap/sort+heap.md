@@ -31,7 +31,13 @@ Output: 31 (You choose the first two items because if you chose the 3rd item, th
 
 ---------
 
+[PayPal Interview Question](https://leetcode.com/discuss/interview-question/2915943/PayPal-Interview-Question)
+
+Given a budget B and an array of n * 2 dimension, where arr[i][0] is value and arr[i][1] is price, find the maximum value that we can obtain with budget B by purchasing at most two items.
+
+----
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTU2NjM1Nl19
+eyJoaXN0b3J5IjpbMTEyNTIxMTc0MCwtODcxNTY2MzU2XX0=
 -->
