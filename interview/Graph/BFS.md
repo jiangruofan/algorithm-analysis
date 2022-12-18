@@ -265,10 +265,23 @@ Example : Output : 1+2+3+4+7+8..+13 = 80. Tried solving using Level order traver
 
 [Google | Cloud Engineer | L4 | Pune | Round 1 | Router Question](https://leetcode.com/discuss/interview-question/2914144/Google-or-Cloud-Engineer-or-L4-or-Pune-or-Round-1-or-Router-Question)
 
+Given a set of N routers in 2-D coordinate, a source router, a destination router. The problem is to find if it is possible to transmit a signal from source to destination.
 
+[(0,0),(0,8),(11,0),(20,30)]
+
+Range = 10
+
+so if we start from (0,0) we can reach to (0,8) and range is less than 10  
+similarly, from (0,8) - (11,0) but then from (11,0) - (20,30) we couldn't reach as from 0 to 30 we can not travel in range 10
+
+I reached to solution by DFS in half an hour and then interviewer asked me to code it and then came with followed up question I was able to code that as well.
+
+bfs即可
+
+----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTI1ODg3OSwtOTE3Mjc5ODUwLDE3Mj
+eyJoaXN0b3J5IjpbLTYyNjc3MTgwNiwtOTE3Mjc5ODUwLDE3Mj
 E3NjA5MjAsLTk2NzEwNjI5NSwxNDMyNzU5Mzg0LDE3NTkxMTA0
 NiwxNzExNDEzODU4LDk0NzgzNjUyMiwtNjg3MTA2MjU2LDEzMT
 czMjk0NzEsLTEzOTIwOTcwMjcsMzk3ODcxMjM2LDExNTAzOTE0
