@@ -35,9 +35,12 @@ Output: 31 (You choose the first two items because if you chose the 3rd item, th
 
 Given a budget B and an array of n * 2 dimension, where arr[i][0] is value and arr[i][1] is price, find the maximum value that we can obtain with budget B by purchasing at most two items.
 
+双指针不行 因为存在重复选择
+
 ----
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTIxMTc0MCwtODcxNTY2MzU2XX0=
+eyJoaXN0b3J5IjpbLTE0MjAwMzIyMzAsMTEyNTIxMTc0MCwtOD
+cxNTY2MzU2XX0=
 -->
