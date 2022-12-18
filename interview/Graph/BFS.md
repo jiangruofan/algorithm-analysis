@@ -263,9 +263,14 @@ Example : Output : 1+2+3+4+7+8..+13 = 80. Tried solving using Level order traver
 
 ---
 
+[Google | Cloud Engineer | L4 | Pune | Round 1 | Router Question](https://leetcode.com/discuss/interview-question/2914144/Google-or-Cloud-Engineer-or-L4-or-Pune-or-Round-1-or-Router-Question)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzI3OTg1MCwxNzIxNzYwOTIwLC05Nj
-cxMDYyOTUsMTQzMjc1OTM4NCwxNzU5MTEwNDYsMTcxMTQxMzg1
-OCw5NDc4MzY1MjIsLTY4NzEwNjI1NiwxMzE3MzI5NDcxLC0xMz
-kyMDk3MDI3LDM5Nzg3MTIzNiwxMTUwMzkxNDg2XX0=
+eyJoaXN0b3J5IjpbMTUyMTI1ODg3OSwtOTE3Mjc5ODUwLDE3Mj
+E3NjA5MjAsLTk2NzEwNjI5NSwxNDMyNzU5Mzg0LDE3NTkxMTA0
+NiwxNzExNDEzODU4LDk0NzgzNjUyMiwtNjg3MTA2MjU2LDEzMT
+czMjk0NzEsLTEzOTIwOTcwMjcsMzk3ODcxMjM2LDExNTAzOTE0
+ODZdfQ==
 -->
