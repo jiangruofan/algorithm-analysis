@@ -242,9 +242,11 @@ B = [5, 1, 5, 5, 4, 6]
 `Node 5 is jealous of 7`  
 `Total jealousy = 6 + 1 + 1 = 8`
 
-这里传递bit 每到一个
+这里传递bit 每到一个节点 查看比它index小的元素有多少个
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA0MjA4MjEsLTEwMDkxMjk0OTEsLT
+eyJoaXN0b3J5IjpbLTEyNTM1MzM2NDEsLTEwMDkxMjk0OTEsLT
 k3MjcwNzgwNSw0MTkzMDAzNzEsNTUxNTc5MzI1LDE3MjE0OTY3
 MjBdfQ==
 -->
