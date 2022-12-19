@@ -290,6 +290,13 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 
 ----
 
+[DE Shaw off campus OA for 2023 batch](https://leetcode.com/discuss/interview-question/2924772/DE-Shaw-off-campus-OA-for-2023-batch)
+
+![image](https://assets.leetcode.com/users/images/1b1f9a4d-dea1-460c-8a86-fb79822a8114_1671354443.5641224.jpeg)
+![image](https://assets.leetcode.com/users/images/173c7b71-bbec-4190-9e28-4de9d8ea16d0_1671354459.135055.jpeg)
+![image](https://assets.leetcode.com/users/images/17bfe4b4-db0e-418d-9d18-c614aee3907f_1671354470.4818919.jpeg)
+
+
 
 
 
@@ -299,8 +306,8 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIxMDk2MzEsLTE0NzIwMjE4NjcsLT
-E4NzYyNTg2NTEsLTY4MjA0Njc5MCwtMTI4MTUzNzQ4LC0xNDg4
-OTEwNzA0LC00NDIyNTQ3NjUsNjgzNzc5NDM5LC03Mzk3NDE3ND
-RdfQ==
+eyJoaXN0b3J5IjpbMTc0NTk1NTYwNSwtMTQ3MjAyMTg2NywtMT
+g3NjI1ODY1MSwtNjgyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5
+MTA3MDQsLTQ0MjI1NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF
+19
 -->
