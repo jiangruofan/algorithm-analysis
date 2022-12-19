@@ -49,8 +49,12 @@ https://codeforces.com/problemset/problem/360/C
 ![image](https://assets.leetcode.com/users/images/e3136e52-13d3-4d25-83e9-552d02de7ccf_1671354141.5021994.jpeg)
 ![image](https://assets.leetcode.com/users/images/60630004-c7ad-4e70-a228-803051aed1fd_1671354146.3915162.jpeg)
 ![image](https://assets.leetcode.com/users/images/1ade8934-7845-4875-8d09-b53c326a8b29_1671354152.7762477.jpeg)
+![image](https://assets.leetcode.com/users/images/f2251c8c-7b04-4319-a69d-bf98009fa062_1671354162.1698763.jpeg)
 
+z-array 预处理
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc2ODkxNTEsLTY2MzQ4MDM0OSwtMT
+eyJoaXN0b3J5IjpbLTIwMDg4NzU4OTMsLTY2MzQ4MDM0OSwtMT
 Y5Nzk2MzI5OF19
 -->
