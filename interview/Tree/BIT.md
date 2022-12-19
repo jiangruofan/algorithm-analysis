@@ -178,8 +178,73 @@ first 4 indices satisfy the given condition.
 
 ----
 
+[Trilogy Innovations | Internship | August 2022 | Oncampus | Coding Assessment](https://leetcode.com/discuss/interview-question/2926196/Trilogy-Innovations-or-Internship-or-August-2022-or-Oncampus-or-Coding-Assessment)
+
+**Problem Description**  
+In the world where avataar is missing, the fire nation has started a war against all other kingdoms. The fire nation has  **N**  cities numbered from  **1**  to  **N**  connected with some roads. Given arrays  **A**  and  **B**  of size  **N-1**, there is a bidirectional road from  **A[i]**  to  **B[i]**  and we can reach each city from any other city. We consider city with index 1 (1 based index ) as the root city.
+
+These cities need to work together in order to conquer the world but they are very egoistic. Each city is associated with some jealousy value.
+
+**ith**  city's jealousy value will be equal to number of cities with  **index**  >  **i**  in its subtree.
+
+The Fire Lord gave you a very important task. Find the total sum of all the jealousy values of all the cities.
+
+Since the answer can be big, return the output %  **1000000007**
+
+**Problem Constraints**
+
+```
+1 <= N <= 10^5
+1 <= A[i], B[i] <= N
+
+```
+
+**Input Format**  
+`First argument contains A.`  
+`Second argument contains B.`
+
+**Output Format**  
+`Return a single integer as the answer to question`
+
+**Example Input**
+
+`Input 1:`
+
+```
+A = [1, 2, 3]
+B = [4, 1, 2]
+
+```
+
+`Input 2:`
+
+```
+A = [1, 6, 4, 2, 7, 3]
+B = [5, 1, 5, 5, 4, 6]
+
+```
+
+**Expected Output**  
+`Output1: 4`
+
+`Output2: 8`
+
+**Example Explanation**
+
+**For Input 1:**  
+`Node 1 is jealous of 2, 3, 4.`  
+`Node 2 is jealous of 3.`  
+`Total jealousy = 3 + 1 = 4`
+
+**For Input 2:**  
+`Node 1 is jealous of 2, 3, 4, 5, 6, 7`  
+`Node 4 is jealous of 7`  
+`Node 5 is jealous of 7`  
+`Total jealousy = 6 + 1 + 1 = 8`
+
+这里传递bit 每到一个
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNTQ2NDg2LC0xMDA5MTI5NDkxLC05Nz
-I3MDc4MDUsNDE5MzAwMzcxLDU1MTU3OTMyNSwxNzIxNDk2NzIw
-XX0=
+eyJoaXN0b3J5IjpbLTE4OTA0MjA4MjEsLTEwMDkxMjk0OTEsLT
+k3MjcwNzgwNSw0MTkzMDAzNzEsNTUxNTc5MzI1LDE3MjE0OTY3
+MjBdfQ==
 -->
