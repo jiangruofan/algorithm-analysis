@@ -177,8 +177,9 @@ first 4 indices satisfy the given condition.
 ![image](https://assets.leetcode.com/users/images/a36d2429-8761-45c3-bbd6-6e0791e4f15b_1671178695.5640762.png)
 
 ----
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjY3OTg4MCwtMTAwOTEyOTQ5MSwtOT
-cyNzA3ODA1LDQxOTMwMDM3MSw1NTE1NzkzMjUsMTcyMTQ5Njcy
-MF19
+eyJoaXN0b3J5IjpbNzIzNTQ2NDg2LC0xMDA5MTI5NDkxLC05Nz
+I3MDc4MDUsNDE5MzAwMzcxLDU1MTU3OTMyNSwxNzIxNDk2NzIw
+XX0=
 -->
