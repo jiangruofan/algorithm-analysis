@@ -62,8 +62,12 @@ ans = 4
 总体时间复杂度是O(n^2)
 
 ---
+
+[DP question asked in Trilogy Inovations can anyone solve it?](https://leetcode.com/discuss/interview-question/2924118/DP-question-asked-in-Trilogy-Inovations-can-anyone-solve-it)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODEwNzM0LC04NzMzNjE1LDE3NDAyMj
-k3NzMsLTgzMDUwMjQzOSwtMTA1NTc0MzUyMywxNTMxMjE2MTY2
-LDgzNzM2NDA4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTg2Mzc4MTY2MywxODg4MTA3MzQsLTg3Mz
+M2MTUsMTc0MDIyOTc3MywtODMwNTAyNDM5LC0xMDU1NzQzNTIz
+LDE1MzEyMTYxNjYsODM3MzY0MDgsNzMwOTk4MTE2XX0=
 -->
