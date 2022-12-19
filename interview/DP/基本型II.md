@@ -43,6 +43,14 @@ https://codeforces.com/problemset/problem/360/C
 这里的特殊情况就是如果当前的字符一样 那么需要往后遍历
 
 ---
+
+[DE Shaw off campus OA for 2023 batch](https://leetcode.com/discuss/interview-question/2924772/DE-Shaw-off-campus-OA-for-2023-batch)
+
+![image](https://assets.leetcode.com/users/images/e3136e52-13d3-4d25-83e9-552d02de7ccf_1671354141.5021994.jpeg)
+![image](https://assets.leetcode.com/users/images/60630004-c7ad-4e70-a228-803051aed1fd_1671354146.3915162.jpeg)
+![image](https://assets.leetcode.com/users/images/1ade8934-7845-4875-8d09-b53c326a8b29_1671354152.7762477.jpeg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzQ4MDM0OSwtMTY5Nzk2MzI5OF19
+eyJoaXN0b3J5IjpbLTIxMDc2ODkxNTEsLTY2MzQ4MDM0OSwtMT
+Y5Nzk2MzI5OF19
 -->
