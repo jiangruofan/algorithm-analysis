@@ -300,7 +300,9 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 ![image](https://assets.leetcode.com/users/images/db65ec65-103f-47ec-a34a-03b0373469f6_1671354528.2080586.jpeg)
 ![image](https://assets.leetcode.com/users/images/d1f0c736-8228-4f30-9141-965a11d23689_1671354540.0082858.jpeg)
 
-首先所有的disconnected nodes自己所在的集合先把
+首先所有的disconnected nodes自己所在的集合先把边加满 然后根据贪心思想 所有的不存在disconnected nodes的集合肯定都是连接在节点数最多的一个disconnected nodes集合上
+
+--
 
 
 
@@ -311,8 +313,8 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjQxMzgyMiwtMTQ3MjAyMTg2NywtMT
-g3NjI1ODY1MSwtNjgyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5
-MTA3MDQsLTQ0MjI1NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF
-19
+eyJoaXN0b3J5IjpbNTQxODE3NDExLC0xNDcyMDIxODY3LC0xOD
+c2MjU4NjUxLC02ODIwNDY3OTAsLTEyODE1Mzc0OCwtMTQ4ODkx
+MDcwNCwtNDQyMjU0NzY1LDY4Mzc3OTQzOSwtNzM5NzQxNzQ0XX
+0=
 -->
