@@ -295,6 +295,11 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 ![image](https://assets.leetcode.com/users/images/1b1f9a4d-dea1-460c-8a86-fb79822a8114_1671354443.5641224.jpeg)
 ![image](https://assets.leetcode.com/users/images/173c7b71-bbec-4190-9e28-4de9d8ea16d0_1671354459.135055.jpeg)
 ![image](https://assets.leetcode.com/users/images/17bfe4b4-db0e-418d-9d18-c614aee3907f_1671354470.4818919.jpeg)
+![image](https://assets.leetcode.com/users/images/4e923eb6-25dc-4392-ab2c-23343327f9b9_1671354485.7323103.jpeg)
+![image](https://assets.leetcode.com/users/images/404e54d4-fd08-404d-ac5c-2a060e84f2d8_1671354515.8854613.jpeg)
+![image](https://assets.leetcode.com/users/images/db65ec65-103f-47ec-a34a-03b0373469f6_1671354528.2080586.jpeg)
+![image](https://assets.leetcode.com/users/images/d1f0c736-8228-4f30-9141-965a11d23689_1671354540.0082858.jpeg)
+
 
 
 
@@ -306,7 +311,7 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTk1NTYwNSwtMTQ3MjAyMTg2NywtMT
+eyJoaXN0b3J5IjpbMTExMTU3MTE3MCwtMTQ3MjAyMTg2NywtMT
 g3NjI1ODY1MSwtNjgyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5
 MTA3MDQsLTQ0MjI1NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF
 19
