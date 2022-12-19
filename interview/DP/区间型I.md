@@ -65,9 +65,13 @@ ans = 4
 
 [DP question asked in Trilogy Inovations can anyone solve it?](https://leetcode.com/discuss/interview-question/2924118/DP-question-asked-in-Trilogy-Inovations-can-anyone-solve-it)
 
+![image](https://assets.leetcode.com/users/images/a4d4dc4c-d93f-48bf-8ed4-95d07821aaee_1671343168.5672874.png)
+![image](https://assets.leetcode.com/users/images/cc8110f9-04f7-40f3-9c69-602da2042be5_1671343183.7495482.png)
+![image](https://assets.leetcode.com/users/images/e0eeed59-230b-4c75-ab9b-acc1e9bf6ca2_1671343203.079298.png)
 
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzc4MTY2MywxODg4MTA3MzQsLTg3Mz
+eyJoaXN0b3J5IjpbLTkzNjc0Njk0MiwxODg4MTA3MzQsLTg3Mz
 M2MTUsMTc0MDIyOTc3MywtODMwNTAyNDM5LC0xMDU1NzQzNTIz
 LDE1MzEyMTYxNjYsODM3MzY0MDgsNzMwOTk4MTE2XX0=
 -->
