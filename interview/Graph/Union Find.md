@@ -300,7 +300,7 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 ![image](https://assets.leetcode.com/users/images/db65ec65-103f-47ec-a34a-03b0373469f6_1671354528.2080586.jpeg)
 ![image](https://assets.leetcode.com/users/images/d1f0c736-8228-4f30-9141-965a11d23689_1671354540.0082858.jpeg)
 
-
+首先suo you
 
 
 
@@ -311,8 +311,8 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTU3MTE3MCwtMTQ3MjAyMTg2NywtMT
-g3NjI1ODY1MSwtNjgyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5
-MTA3MDQsLTQ0MjI1NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF
-19
+eyJoaXN0b3J5IjpbLTE2MDQzODAyMDQsLTE0NzIwMjE4NjcsLT
+E4NzYyNTg2NTEsLTY4MjA0Njc5MCwtMTI4MTUzNzQ4LC0xNDg4
+OTEwNzA0LC00NDIyNTQ3NjUsNjgzNzc5NDM5LC03Mzk3NDE3ND
+RdfQ==
 -->
