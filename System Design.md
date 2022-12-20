@@ -125,8 +125,34 @@ To improve on this, instead of reading one message at a time, each topic should 
 ![image](https://assets.leetcode.com/users/images/fd47d40e-dcfe-428d-989f-ad8b22e2025b_1670604941.2920136.png)
 
 -----
+
+[Roblox Onsite - IC3 - San Mateo](https://leetcode.com/discuss/interview-question/2929932/Roblox-Onsite-IC3-San-Mateo)
+
+Roblox On Site - IC3
+
+2 code, 1 system design, 1 behavioral
+
+Interview 1: Code
+
+1.  [https://leetcode.com/problems/design-browser-history/](https://leetcode.com/problems/design-browser-history/)
+2.  follow up, how would you support tabs
+3.  follow up, on above, how would you store this offline?
+
+Interview 2: Code
+
+1.  [https://leetcode.com/problems/minimum-number-of-frogs-croaking/](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)  except with a different word. same concept tho
+
+Interview 3: System
+
+1.  Design a system for roblox avatar marketplace bookmarking
+2.  Individual components, endpoints, scaling for heavy bookmarks (cache on heavy writes, etc)
+3.  Scaling QPS for individual endpoints to 1m+
+
+Interview 4: Behavioral
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzA0NTk2NSwxOTIwNjY3OTg0LC05NT
-QxMTA0NDEsMTY3NzU1NzM1NCwtMjA3MTE0MTM3LDExODczMzA5
-MjZdfQ==
+eyJoaXN0b3J5IjpbMTA1MjA4MTkyMCwxMzU3MDQ1OTY1LDE5Mj
+A2Njc5ODQsLTk1NDExMDQ0MSwxNjc3NTU3MzU0LC0yMDcxMTQx
+MzcsMTE4NzMzMDkyNl19
 -->
