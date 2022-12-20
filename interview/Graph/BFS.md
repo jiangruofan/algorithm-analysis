@@ -289,9 +289,11 @@ Given a char[][] representing a graph, where 'O' is empty space, 'X' is block wh
 This is really harder than previous questions.
 
 这里的visited记录的是位置和已经收集到的宝藏 
-如果已经经过了这个点但是回来了bi
+如果已经经过了这个点但是回来了并且收集到了新的宝藏 这是可以的 但是如果是重复经过一个位置但是却没有收集到新的宝藏 这种情况是不需要的
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzMzMDQ4OSwtNjI2NzcxODA2LC05MT
+eyJoaXN0b3J5IjpbMTQ1NzEzOTA0MiwtNjI2NzcxODA2LC05MT
 cyNzk4NTAsMTcyMTc2MDkyMCwtOTY3MTA2Mjk1LDE0MzI3NTkz
 ODQsMTc1OTExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIyLC02OD
 cxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEy
