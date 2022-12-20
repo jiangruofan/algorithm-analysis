@@ -280,10 +280,20 @@ bfs即可
 
 ----
 
+[Amazon | VO | Treasure hunt new version](https://leetcode.com/discuss/interview-question/2930385/Amazon-or-VO-or-Treasure-hunt-new-version)
+
+Get a question realated to treasure hunt questions asked before, but this was an newer version.
+
+Given a char[][] representing a graph, where 'O' is empty space, 'X' is block which you can't go in, and 'T' is treasure. The method takes in a start posisiton and an end position, returns the minum path starting from start, end at end, and collect all treasures in the map.
+
+This is really harder than previous questions.
+
+这里的visited记录的是位置和已经收集到的宝藏 
+如果已经经过了这个点但是回来了bi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjc3MTgwNiwtOTE3Mjc5ODUwLDE3Mj
-E3NjA5MjAsLTk2NzEwNjI5NSwxNDMyNzU5Mzg0LDE3NTkxMTA0
-NiwxNzExNDEzODU4LDk0NzgzNjUyMiwtNjg3MTA2MjU2LDEzMT
-czMjk0NzEsLTEzOTIwOTcwMjcsMzk3ODcxMjM2LDExNTAzOTE0
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTk5MzMzMDQ4OSwtNjI2NzcxODA2LC05MT
+cyNzk4NTAsMTcyMTc2MDkyMCwtOTY3MTA2Mjk1LDE0MzI3NTkz
+ODQsMTc1OTExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIyLC02OD
+cxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEy
+MzYsMTE1MDM5MTQ4Nl19
 -->
