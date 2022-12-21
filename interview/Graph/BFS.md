@@ -282,6 +282,8 @@ bfs即可
 
 [Amazon | VO | Treasure hunt new version](https://leetcode.com/discuss/interview-question/2930385/Amazon-or-VO-or-Treasure-hunt-new-version)
 
+#### [864. Shortest Path to Get All Keys](https://leetcode.cn/problems/shortest-path-to-get-all-keys/)
+
 Get a question realated to treasure hunt questions asked before, but this was an newer version.
 
 Given a char[][] representing a graph, where 'O' is empty space, 'X' is block which you can't go in, and 'T' is treasure. The method takes in a start posisiton and an end position, returns the minum path starting from start, end at end, and collect all treasures in the map.
@@ -293,9 +295,9 @@ This is really harder than previous questions.
 
 -----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzEzOTA0MiwtNjI2NzcxODA2LC05MT
-cyNzk4NTAsMTcyMTc2MDkyMCwtOTY3MTA2Mjk1LDE0MzI3NTkz
-ODQsMTc1OTExMDQ2LDE3MTE0MTM4NTgsOTQ3ODM2NTIyLC02OD
-cxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5NzAyNywzOTc4NzEy
-MzYsMTE1MDM5MTQ4Nl19
+eyJoaXN0b3J5IjpbLTEwMTU0NDY2NTgsMTQ1NzEzOTA0MiwtNj
+I2NzcxODA2LC05MTcyNzk4NTAsMTcyMTc2MDkyMCwtOTY3MTA2
+Mjk1LDE0MzI3NTkzODQsMTc1OTExMDQ2LDE3MTE0MTM4NTgsOT
+Q3ODM2NTIyLC02ODcxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5
+NzAyNywzOTc4NzEyMzYsMTE1MDM5MTQ4Nl19
 -->
