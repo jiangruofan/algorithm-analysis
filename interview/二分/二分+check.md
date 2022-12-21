@@ -300,10 +300,48 @@ Sample Output #1
 ![image](https://assets.leetcode.com/users/images/46543e6b-a325-4937-bf59-8cf66ae21799_1668422711.005035.jpeg)
 
 ------
+
+[DE Shaw OA Question? Any Approach?](https://leetcode.com/discuss/interview-question/2879828/DE-Shaw-OA-Question-Any-Approach)
+
+Given an integer array of length n and two integers number_of_opr and subarray_length, in one operation you can choose any subarray of size subarray_length and increase the elements of it by 1, you have perform this operation number_of_opr times, find the maximum value of minimum element by doing this procedure.
+
+ex:  
+[1,2,3,4,5,1,2] number-of_opr=2, subarray_size=3  
+select first subarray [2,3,4,4,5,1,2], select last subarray [2,3,4,4,6,2,3] hence max val of min element is 2.
+
+Priority Queue failed for this.
+
+用到差分的技巧
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MjUzOTc5LC05NzkxNzI4MTQsMTI2Nj
-AzNTk0OCwtODIwNTQ1MzIzLDg4MTQ1MzIwNyw0Nzk2MjU1Nzks
-LTE2MjE1MTc3NDYsLTU1MzA1NjIxMSwtMzM0ODQzMjU3LDE5Nz
-I1NDg2MzksLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MDA4ODM3
-NjcsMTU0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbMjA5NzM5NjAyMiwtOTc5MTcyODE0LDEyNj
+YwMzU5NDgsLTgyMDU0NTMyMyw4ODE0NTMyMDcsNDc5NjI1NTc5
+LC0xNjIxNTE3NzQ2LC01NTMwNTYyMTEsLTMzNDg0MzI1NywxOT
+cyNTQ4NjM5LC0xMjUzNDk2Njc2LDY1NjkwOTExNSwtOTAwODgz
+NzY3LDE1NDUyMDc0MzFdfQ==
 -->
