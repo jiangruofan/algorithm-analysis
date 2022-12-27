@@ -89,7 +89,7 @@ and so on.
 
 [Google Internship Test question.](https://leetcode.com/discuss/interview-question/848057/Google-Internship-Test-question.)
 
-原题: #### [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.cn/problems/checking-existence-of-edge-length-limited-paths/)
+原题: [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.cn/problems/checking-existence-of-edge-length-limited-paths/)
 
 ----------------
 
@@ -313,7 +313,7 @@ Q1) [https://leetcode.com/problems/count-vowels-permutation/](https://leetcode.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzU5MTU4MSwtMTQ3MjAyMTg2NywtMT
+eyJoaXN0b3J5IjpbMTI0ODY3NzcyMywtMTQ3MjAyMTg2NywtMT
 g3NjI1ODY1MSwtNjgyMDQ2NzkwLC0xMjgxNTM3NDgsLTE0ODg5
 MTA3MDQsLTQ0MjI1NDc2NSw2ODM3Nzk0MzksLTczOTc0MTc0NF
 19
