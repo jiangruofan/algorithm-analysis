@@ -26,6 +26,10 @@
 假设树状数组为 [0, y]
 要求: 对于一个index为i的值 更新i i+1 .. y 的值为一个最大值 并且可以求得某一个index的值
 操作: 对于update操作 使用最后一位+1 对于query操作 使用最后一位减1 看那张图模拟 很清楚
+
+[code](https://github.com/wisdompeak/CodeForces/blob/master/Edu_Round_67/D.Subarray-Sorting/D.Subarray-Sorting.cpp)
+
+[Subarray Sorting](https://codeforces.com/contest/1187/problem/D)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjI0MDBdfQ==
+eyJoaXN0b3J5IjpbNDM1ODE2NTgzLC05ODYyNDAwXX0=
 -->
