@@ -173,9 +173,20 @@ My approach:
 5.  If the phones don't sell immediately, the you must allow people from the waiting room to try to purchase the phones in a FIFO manner.
 6.  Make sure to use a SQL database to manage the inventory for the iPhones.
 7.  If the waiting room service fails, then you must start recovery. Use a messaging queue to restore the waiting room service.
----
+
+-------
+
+[Spinny round 2| LLD - Design Call Center](https://leetcode.com/discuss/interview-question/2963473/Spinny-round-2or-LLD-Design-Call-Center)
+
+Problem: There is a call center in which there is a hierarchy of employees who can attend the call. Freshers should attend the call first, followed by leads and finally the manager. If the fresher wants to escalate the call he/she can escalate it to the leads. Also, a lead can escalate the call to the manager. We can suppose that there are many freshers, many leads, and only one manager. If at any point in time no employees are free to attend the call, the caller should wait in the queue. Once an employee is free he/she can take the call.
+
+Found a medium article regarding this question:  [https://medium.com/@mithoonkumar/design-call-centre-ood-9f5d3baff82a](https://medium.com/@mithoonkumar/design-call-centre-ood-9f5d3baff82a)
+
+Verdict: Rejected. I couldn't think of an efficient way of adding the callers to queue.
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjM3MzgzLDcwNTA2Mjc1MywxMDUyMD
+eyJoaXN0b3J5IjpbODIwMTI3NDg3LDcwNTA2Mjc1MywxMDUyMD
 gxOTIwLDEzNTcwNDU5NjUsMTkyMDY2Nzk4NCwtOTU0MTEwNDQx
 LDE2Nzc1NTczNTQsLTIwNzExNDEzNywxMTg3MzMwOTI2XX0=
 -->
