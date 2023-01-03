@@ -82,6 +82,14 @@ N, H Value Range from 1 to 100000
 
 -----
 
+[epiFi / Fi Online Assessment Questions [SDE II] - HackerRank](https://leetcode.com/discuss/interview-question/2945953/epiFi-Fi-Online-Assessment-Questions-SDE-II-HackerRank)
+
+![image](https://assets.leetcode.com/users/images/913d906d-0896-4517-bc83-41bc4ed8292f_1671889695.283183.png)
+
+和上题一样
+
+-----
+
 [Google | Onsite | SDE | Maze question | L4](https://leetcode.com/discuss/interview-question/2711886/Google-or-Onsite-or-SDE-or-Maze-question-or-L4)
 
 I was asked the following maze traversal question and I was not able to solve a specific test case.
@@ -295,9 +303,10 @@ This is really harder than previous questions.
 
 -----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU0NDY2NTgsMTQ1NzEzOTA0MiwtNj
-I2NzcxODA2LC05MTcyNzk4NTAsMTcyMTc2MDkyMCwtOTY3MTA2
-Mjk1LDE0MzI3NTkzODQsMTc1OTExMDQ2LDE3MTE0MTM4NTgsOT
-Q3ODM2NTIyLC02ODcxMDYyNTYsMTMxNzMyOTQ3MSwtMTM5MjA5
-NzAyNywzOTc4NzEyMzYsMTE1MDM5MTQ4Nl19
+eyJoaXN0b3J5IjpbLTg1NjMzODI5NSwtMTAxNTQ0NjY1OCwxND
+U3MTM5MDQyLC02MjY3NzE4MDYsLTkxNzI3OTg1MCwxNzIxNzYw
+OTIwLC05NjcxMDYyOTUsMTQzMjc1OTM4NCwxNzU5MTEwNDYsMT
+cxMTQxMzg1OCw5NDc4MzY1MjIsLTY4NzEwNjI1NiwxMzE3MzI5
+NDcxLC0xMzkyMDk3MDI3LDM5Nzg3MTIzNiwxMTUwMzkxNDg2XX
+0=
 -->
