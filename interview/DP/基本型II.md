@@ -54,7 +54,27 @@ https://codeforces.com/problemset/problem/360/C
 z-array 预处理
 
 ----
+
+[An interesting OA problem](https://leetcode.com/discuss/interview-question/2969173/An-interesting-OA-problem)
+
+given an array of integers and m. partition the given array in such a way that sum of elements in each part should be less than or equal to m and sum of maximum values in each part should be minimised.
+
+1<=n<=1e6  
+1<=m<=1e6  
+1<=arr[i]<=1e6
+
+i managed to solve this in O(n^2) using dp.
+
+dp[0] = arr[0];  
+dp[i] for remaining i= min(dp[j-1] + max[j:i]) for all j<=i and sum[j:i]<=m
+
+How can i optimise it furthur and solve it in O(n)?
+
+Solution:  
+[https://www.youtube.com/watch?v=NIHYJIGYMww](https://www.youtube.com/watch?v=NIHYJIGYMww)
+
+------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg4NzU4OTMsLTY2MzQ4MDM0OSwtMT
-Y5Nzk2MzI5OF19
+eyJoaXN0b3J5IjpbLTEzNjg3ODkzNTUsLTIwMDg4NzU4OTMsLT
+Y2MzQ4MDM0OSwtMTY5Nzk2MzI5OF19
 -->
