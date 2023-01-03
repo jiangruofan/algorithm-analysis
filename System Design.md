@@ -160,8 +160,22 @@ Interview 4: Behavioral
 ![image](https://assets.leetcode.com/users/images/708c37ef-500d-4b8b-b816-4bf81bd39e1b_1672079925.2192848.png)
 
 -----
+
+[TikTok | 2-2 Senior | System Design and Behavioral](https://leetcode.com/discuss/interview-question/2965137/TikTok-or-2-2-Senior-or-System-Design-and-Behavioral)
+
+Imagine you have 100 new iPhones and you're going to sell them at a massive discount for a promotion for $100/phone. This promotion starts at exactly 12:00. You anticipate 100 million users will try to buy the phones. Design a system for this promotion.  
+My approach:
+
+1.  Have a CDN with 2 pages - one page allowing people to enter a waiting room and one page telling people that the phones have been sold.
+2.  From 12:00:00 to 12:00:10, you show the page to enter the waiting room. After 12:00:10, you show the page telling people the phones have been sold.
+3.  Only 1,000 people are allowed in the waiting room. The rest are told the phones have been sold.
+4.  The first 120 people in the waiting room are allowed 5 minutes to complete their purchase. If 100 phones sell, then the remaining 20 are told that the promotion is over.
+5.  If the phones don't sell immediately, the you must allow people from the waiting room to try to purchase the phones in a FIFO manner.
+6.  Make sure to use a SQL database to manage the inventory for the iPhones.
+7.  If the waiting room service fails, then you must start recovery. Use a messaging queue to restore the waiting room service.
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MDYyNzUzLDEwNTIwODE5MjAsMTM1Nz
-A0NTk2NSwxOTIwNjY3OTg0LC05NTQxMTA0NDEsMTY3NzU1NzM1
-NCwtMjA3MTE0MTM3LDExODczMzA5MjZdfQ==
+eyJoaXN0b3J5IjpbLTQyMjM3MzgzLDcwNTA2Mjc1MywxMDUyMD
+gxOTIwLDEzNTcwNDU5NjUsMTkyMDY2Nzk4NCwtOTU0MTEwNDQx
+LDE2Nzc1NTczNTQsLTIwNzExNDEzNywxMTg3MzMwOTI2XX0=
 -->
