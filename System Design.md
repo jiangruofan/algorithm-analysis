@@ -151,8 +151,17 @@ Interview 3: System
 Interview 4: Behavioral
 
 -----
+
+[Can someone please answer this past OA Question?](https://leetcode.com/discuss/interview-question/2954868/Can-someone-please-answer-this-past-OA-Question)
+
+![image](https://assets.leetcode.com/users/images/9759b33d-bbf9-4819-a14c-565b53739787_1672079832.7936137.png)
+![image](https://assets.leetcode.com/users/images/5e9979f5-c470-46e9-987b-176c57a7905d_1672079871.7169597.png)
+![image](https://assets.leetcode.com/users/images/7837d392-2847-4fd5-8e03-275d0b0c503a_1672079899.9412324.png)
+![image](https://assets.leetcode.com/users/images/708c37ef-500d-4b8b-b816-4bf81bd39e1b_1672079925.2192848.png)
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjA4MTkyMCwxMzU3MDQ1OTY1LDE5Mj
-A2Njc5ODQsLTk1NDExMDQ0MSwxNjc3NTU3MzU0LC0yMDcxMTQx
-MzcsMTE4NzMzMDkyNl19
+eyJoaXN0b3J5IjpbNzA1MDYyNzUzLDEwNTIwODE5MjAsMTM1Nz
+A0NTk2NSwxOTIwNjY3OTg0LC05NTQxMTA0NDEsMTY3NzU1NzM1
+NCwtMjA3MTE0MTM3LDExODczMzA5MjZdfQ==
 -->
