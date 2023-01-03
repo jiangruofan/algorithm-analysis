@@ -350,13 +350,15 @@ For Ex: 1 2 4. means query of type-1.
 In JIO's OA, we were given two questions in 45 mintues and another one was medium, however, the problem statements were huge, thus making it difficult to understand quickly.**
 
 type1 type2 可以优化到n^2logn 对于type3 没法处理
-对x和y分别排序 然后对于每一个点构造
+对x和y分别排序 然后对于每一个点构造线段🌲 每次查询遍历区间内所有点 然后logn求出这个点到其他点的最小值是多少 最后取所有点的最小值
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3Njc5MDcwLDIwODY1Mjk3MjksMTYxMT
-AyMDM1NywxMjY2ODc3NjYyLC03ODA4MjA1MDEsMTEyNDMyNzI4
-OSwxOTI4MjgwMDI5LDE4MzQ0MjE1NDcsMjE0MTA3OTk1NywxMj
-E5NjM2NDEwLC0xOTA4NDc5NzAsMTM1ODQyMDk0NCwtOTk5MDUy
-ODk2LDE2MDQwNTI4OTcsLTgwMDMzNDY3LDkwNzAyNTA2NiwyOT
-YyNzQ4NDYsLTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMzAxNjA2
-NDQ1XX0=
+eyJoaXN0b3J5IjpbMTg4NTA3Njk2NiwyMDg2NTI5NzI5LDE2MT
+EwMjAzNTcsMTI2Njg3NzY2MiwtNzgwODIwNTAxLDExMjQzMjcy
+ODksMTkyODI4MDAyOSwxODM0NDIxNTQ3LDIxNDEwNzk5NTcsMT
+IxOTYzNjQxMCwtMTkwODQ3OTcwLDEzNTg0MjA5NDQsLTk5OTA1
+Mjg5NiwxNjA0MDUyODk3LC04MDAzMzQ2Nyw5MDcwMjUwNjYsMj
+k2Mjc0ODQ2LC01MTU5MTQ4NDMsMTI1NTQ0MDkyNCwtMTMwMTYw
+NjQ0NV19
 -->
