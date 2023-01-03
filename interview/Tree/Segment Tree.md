@@ -336,12 +336,27 @@ Would anyone be able to help me understand what the expected solution is?
 第二个问题 hashmap即可 key用一个四个维度的元组
 
 ---
+
+[JIO OA Problem](https://leetcode.com/discuss/interview-question/2961276/JIO-OA-Problem)
+
+**I don't have the exact question screenshot since the test was on SHL and SHL tracks everything, therefore, I did not try to take a screenshot.**  
+We were given **N** coordinates of the form **(X, Y)** where X is the x-coordinate and Y is the y-coordinate of the location. There are **Q queries** of three types and their first element represents the type of query.  
+For Ex: 1 2 4. means query of type-1.  
+**Type1**: Type-1 is of the form: (type, lower_range_of_x, upper_range_of_x). We have to find the output of the minimum distance possible from all the coordinates satisfying the above range criteria.  
+**Type2**: Type-2 is of the form: (type, lower_range_of_y, upper_range_of_y). We also have to find the output of the minimum distance possible from all the coordinates lying in the range.  
+**Type3**: Type-3 is of the form: (type, lower_range_of_x, upper_range_of_x, lower_range_of_y, upper_range_of_y). We also have to find the output of the minimum distance possible satisfying the above range criteria for both x and y coordinates.  
+**We have to return a vector which contains the answers of the queries.**  
+**I tried to solve it using segment trees, but I am not sure how to do that. Do we need to create multiple segment trees?  
+In JIO's OA, we were given two questions in 45 mintues and another one was medium, however, the problem statements were huge, thus making it difficult to understand quickly.**
+
+type1 type2 可以优化到n^2logn 对于type3 没法处理
+对x和y分别排序 然后对于每一个点构造
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjUyOTcyOSwxNjExMDIwMzU3LDEyNj
-Y4Nzc2NjIsLTc4MDgyMDUwMSwxMTI0MzI3Mjg5LDE5MjgyODAw
-MjksMTgzNDQyMTU0NywyMTQxMDc5OTU3LDEyMTk2MzY0MTAsLT
-E5MDg0Nzk3MCwxMzU4NDIwOTQ0LC05OTkwNTI4OTYsMTYwNDA1
-Mjg5NywtODAwMzM0NjcsOTA3MDI1MDY2LDI5NjI3NDg0NiwtNT
-E1OTE0ODQzLDEyNTU0NDA5MjQsLTEzMDE2MDY0NDUsMjA0MTYz
-MTUzOF19
+eyJoaXN0b3J5IjpbMzA3Njc5MDcwLDIwODY1Mjk3MjksMTYxMT
+AyMDM1NywxMjY2ODc3NjYyLC03ODA4MjA1MDEsMTEyNDMyNzI4
+OSwxOTI4MjgwMDI5LDE4MzQ0MjE1NDcsMjE0MTA3OTk1NywxMj
+E5NjM2NDEwLC0xOTA4NDc5NzAsMTM1ODQyMDk0NCwtOTk5MDUy
+ODk2LDE2MDQwNTI4OTcsLTgwMDMzNDY3LDkwNzAyNTA2NiwyOT
+YyNzQ4NDYsLTUxNTkxNDg0MywxMjU1NDQwOTI0LC0xMzAxNjA2
+NDQ1XX0=
 -->
