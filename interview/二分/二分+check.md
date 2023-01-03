@@ -319,7 +319,10 @@ Priority Queue failed for this.
 
 ![image](https://assets.leetcode.com/users/images/e8c956b2-296d-4514-90f7-b58489735b87_1671889680.9089642.png)
 
-er fe
+二分 + 双指针 
+这里不可以indirect transfer 不然的话答案肯定是1
+
+----
 
 
 
@@ -344,9 +347,9 @@ er fe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzI5OTYwMSwyMDk3Mzk2MDIyLC05Nz
-kxNzI4MTQsMTI2NjAzNTk0OCwtODIwNTQ1MzIzLDg4MTQ1MzIw
-Nyw0Nzk2MjU1NzksLTE2MjE1MTc3NDYsLTU1MzA1NjIxMSwtMz
-M0ODQzMjU3LDE5NzI1NDg2MzksLTEyNTM0OTY2NzYsNjU2OTA5
-MTE1LC05MDA4ODM3NjcsMTU0NTIwNzQzMV19
+eyJoaXN0b3J5IjpbLTE1NDUxOTgyNDUsMjA5NzM5NjAyMiwtOT
+c5MTcyODE0LDEyNjYwMzU5NDgsLTgyMDU0NTMyMyw4ODE0NTMy
+MDcsNDc5NjI1NTc5LC0xNjIxNTE3NzQ2LC01NTMwNTYyMTEsLT
+MzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMjUzNDk2Njc2LDY1Njkw
+OTExNSwtOTAwODgzNzY3LDE1NDUyMDc0MzFdfQ==
 -->
