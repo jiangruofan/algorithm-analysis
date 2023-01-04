@@ -39,8 +39,11 @@ Given a budget B and an array of n * 2 dimension, where arr[i][0] is value and a
 
 ----
 
+[Need help with Bytedance OA](https://leetcode.com/discuss/interview-question/2966265/Need-help-with-Bytedance-OA)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAwMzIyMzAsMTEyNTIxMTc0MCwtOD
-cxNTY2MzU2XX0=
+eyJoaXN0b3J5IjpbLTU4NDkwNjM5MCwtMTQyMDAzMjIzMCwxMT
+I1MjExNzQwLC04NzE1NjYzNTZdfQ==
 -->
