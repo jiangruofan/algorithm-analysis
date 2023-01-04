@@ -41,9 +41,19 @@ Given a budget B and an array of n * 2 dimension, where arr[i][0] is value and a
 
 [Need help with Bytedance OA](https://leetcode.com/discuss/interview-question/2966265/Need-help-with-Bytedance-OA)
 
+![image](https://assets.leetcode.com/users/images/4c003d06-947e-4c41-92c6-dcac23db77ce_1672299704.006492.png)
+![image](https://assets.leetcode.com/users/images/735604be-dd8e-4dd7-9da5-8f25487e6c33_1672299704.2958272.png)
+![image](https://assets.leetcode.com/users/images/3a4a4c58-c393-49ed-8d10-07a237fc6fac_1672299704.3207173.png)
+![image](https://assets.leetcode.com/users/images/ecfe8909-fccb-40d7-9b32-ce9256bd535f_1672299704.4476304.png)
+![image](https://assets.leetcode.com/users/images/5075e33b-6227-4b83-9672-cf94b27b9203_1672299704.3939502.png)
+![image](https://assets.leetcode.com/users/images/0627c21b-598c-408a-9551-cc1d058e8d07_1672299704.6060402.png)
+![image](https://assets.leetcode.com/users/images/c6b29a1c-c6bd-47a1-b135-c83a3bf344d6_1672299704.4349833.png)
 
+和上题类似
+
+----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDkwNjM5MCwtMTQyMDAzMjIzMCwxMT
-I1MjExNzQwLC04NzE1NjYzNTZdfQ==
+eyJoaXN0b3J5IjpbOTg5MjY3MzY3LC0xNDIwMDMyMjMwLDExMj
+UyMTE3NDAsLTg3MTU2NjM1Nl19
 -->
