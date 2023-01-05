@@ -435,8 +435,12 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 ![image](https://assets.leetcode.com/users/images/6149a5c8-6f23-48a4-8af0-fe5b8ee12154_1669874774.9237168.png)
 
 -----
+
+[Uber | SDE 2 | Onsite](https://leetcode.com/discuss/interview-question/2992102/Uber-or-SDE-2-or-Onsite)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYzNjc5OTUsMTE3NjE0OTE3MSwyMT
-QyNDcxODUsOTY4MTE4OTk2LC03MTYyNTU1MTIsMTA3NjE3MTYw
-NiwxMDM0ODgzNTAzXX0=
+eyJoaXN0b3J5IjpbNzA5NjE5MDE3LC0xMzg2MzY3OTk1LDExNz
+YxNDkxNzEsMjE0MjQ3MTg1LDk2ODExODk5NiwtNzE2MjU1NTEy
+LDEwNzYxNzE2MDYsMTAzNDg4MzUwM119
 -->
