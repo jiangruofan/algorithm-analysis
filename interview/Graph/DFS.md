@@ -879,15 +879,64 @@ dfs只要进行两层 用一个cnt记录每一个元素的accessible的个数
 	dfs(0, -1, 0, -float('inf'))
 			
 ------
-	    
+
+[Deloitte | OA | Punishment Number](https://leetcode.com/discuss/interview-question/2988001/Deloitte-or-OA-or-Punishment-Number)
+
+#### Punishment Number
+
+Given an integer  `N`, find the punishment number of  `N`.  
+Punishment number of number  `N`  is defined as sum of squares of all  `x`'s such that:
+
+-   `1 <= x <= N`
+-   square of  `x`  can be converted to  `x`  by dividing it into integers and taking sum of them.  
+    For example:
+    -   square of  `9`  i.e.,  `81`  can be converted to  `9`  like this:  `8 + 1 = 9`.
+    -   square of  `99`  i.e.,  `9801`  can be converted to  `99`  like this:  `98 + 0 + 1 = 99`.
+    -   square of  `10`  i.e.,  `100`  can be converted to  `10`  like this:  `10 + 0 = 10`.
+    -   square of  `36`  i..e,  `1296`  can be converted to  `36`  like this:  `1 + 29 + 6 = 36`.
+
+**Example 1:**
+
+```
+Input: N = 10
+Output: 182
+Explanation: Among all the numbers from 1 to 10, following numbers follows the conditions:
+- square of 1 is already 1.
+- square of 9 i.e., 81 can be converted to 9 like this: 8 + 1 = 9.
+- square of 10 i.e., 100 can be converted to 10 like this: 10 + 0 = 10. 
+So sum of squares of 1, 9 and 10 is 1 + 81 + 100 = 182. 
+
+```
+
+**Example 2:**
+
+```
+Input: N = 37
+Output: 1478
+Explanation: Among all the numbers from 1 to 10, following numbers follows the conditions:
+- square of 1 is already 1.
+- square of 9 i.e., 81 can be converted to 9 like this: 8 + 1 = 9.
+- square of 10 i.e., 100 can be converted to 10 like this: 10 + 0 = 10. 
+- square of 36 i.e., 1296 can be converted to 36 like this: 1 + 29 + 6 = 36. 
+So sum of squares of 1, 9, 10 and 36 is 1 + 81 + 100 + 1296 = 1478. 
+
+```
+
+**Constraints:**
+
+-   `1 <= N <= 10000`
+
+遍历每一个元素 用backtracking检查是否满足条件
+
+-----
 	    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzc5MTcwMywxMDY4NzA5NjMyLDE5ND
-YwMjUzMDQsLTQ2MDI5OTUzMCwxMzI4NzM3NTAxLC0xMzE3OTkz
-ODI4LDgzNDQzOTc3NywtOTQzNTI1Nyw5NjA2Njg4NDEsLTE1Mz
-A3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0OTczLDQ1Mjg1NTQ4
-MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LDEwNzE1Nzg4NDgsMT
-U4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYzNzkzOTMsMTQxMjQx
-NzQ3M119
+eyJoaXN0b3J5IjpbLTE1NDA3ODI1MjMsLTMxNzc5MTcwMywxMD
+Y4NzA5NjMyLDE5NDYwMjUzMDQsLTQ2MDI5OTUzMCwxMzI4NzM3
+NTAxLC0xMzE3OTkzODI4LDgzNDQzOTc3NywtOTQzNTI1Nyw5Nj
+A2Njg4NDEsLTE1MzA3NzUwNDAsLTEzMzM1NTMyNCwxMjYwMDY0
+OTczLDQ1Mjg1NTQ4MCwtMTY1OTI4ODM2NiwtODc0NzUwMjQ1LD
+EwNzE1Nzg4NDgsMTU4OTY0NzA0MSwxOTUwMzIwMTgsLTE5MTYz
+NzkzOTNdfQ==
 -->
