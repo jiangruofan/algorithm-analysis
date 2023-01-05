@@ -274,15 +274,30 @@ minimum Division has the follow](https://media.cheggcdn.com/media/b9c/b9cfeb19-e
 
 ----
 
+[Walmart | Onsite | grumpy-bookstore-owner](https://leetcode.com/discuss/interview-question/2997924/Walmart-or-Onsite-or-grumpy-bookstore-owner)
 
+For DSA round of walmart was asked the following question  
+Grumpy Bookstore Owner
+
+There is a bookstore owner that has a store open for n minutes. Every minute, some number of customers enter the store. You are given an integer array customers of length n where customers[i] is the number of the customer that enters the store at the start of the ith minute and all those customers leave after the end of that minute.
+
+On some minutes, the bookstore owner is grumpy. You are given a binary array grumpy where grumpy[i] is 1 if the bookstore owner is grumpy during the ith minute, and is 0 otherwise.
+
+When the bookstore owner is grumpy, the customers of that minute are not satisfied, otherwise, they are satisfied.
+
+The bookstore owner knows a secret technique to keep themselves not grumpy for minutes consecutive minutes, but can only use it once.
+
+Return the maximum number of customers that can be satisfied throughout the day.
+
+----
 
 
 
         
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTIzNjA0NCw4NjQ3MjcwNjEsLTQ5MT
-M1MjIwMyw0ODAwOTU1NDEsMTQ5MTQ3OTM5OSw1OTUxMjI4MDMs
-MTI2MzE5NDIwNCwzMjA0MjM4MDgsLTExMzIyNTkwMSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU5MzEwMDIxMSwtNzIxMjM2MDQ0LDg2ND
+cyNzA2MSwtNDkxMzUyMjAzLDQ4MDA5NTU0MSwxNDkxNDc5Mzk5
+LDU5NTEyMjgwMywxMjYzMTk0MjA0LDMyMDQyMzgwOCwtMTEzMj
+I1OTAxLDczMDk5ODExNl19
 -->
