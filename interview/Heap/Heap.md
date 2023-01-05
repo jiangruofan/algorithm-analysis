@@ -436,43 +436,13 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 
 -----
 
-[Uber | SDE 2 | Onsite](https://leetcode.com/discuss/interview-question/2992102/Uber-or-SDE-2-or-Onsite)
 
-Given N and an array of length 3*N.
 
-You have to remove exactly N elements from this array.  
-From the remaining array of length 2N, assuming S1 is the sum of first N elements and S2 is the sum of remaining N elements, what is ths maximum possible value of S1 - S2 we can get.
-
-Example:
-
-```
-N = 2, A = [3,1,5,2,1,1]
-remove 2 and 1 array will become 3,5,1,1
-and ans is (3+5)-(1+1) = 6
-
-```
-
-```
-N = 2, A = [1,2,5,3,5,1]
-remove 1, 5 and array will become 2,5,3,1
-ans will be (2+5)-(3+1) = 3
-
-```
-
-```
-N = 2, A = [1,2,5,3,1,1]
-remove 1, 2 and array will become 5,3,1,1
-ans will be (5+3)-(1+1) = 6
-```
-
-its leetcode question [https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) similar to this
-
------
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTkwNzAzMSw3MDk2MTkwMTcsLTEzOD
+eyJoaXN0b3J5IjpbMTMwMjQ4MDE1Myw3MDk2MTkwMTcsLTEzOD
 YzNjc5OTUsMTE3NjE0OTE3MSwyMTQyNDcxODUsOTY4MTE4OTk2
 LC03MTYyNTU1MTIsMTA3NjE3MTYwNiwxMDM0ODgzNTAzXX0=
 -->
