@@ -330,7 +330,9 @@ Please share nO(logn) approach for the below mentioned question. I was only able
 ![image](https://assets.leetcode.com/users/images/4c72c8a4-7cd4-40b5-9c1c-079df8ccd97f_1673071237.8259835.png)
 PS:- using priority queue also it will be still n^2O(logn) in worst case.
 
-二分答案 然后对于每一个job 二分检查最少需要
+二分答案 然后对于每一个job 二分检查最少需要多少次被选择为major job 
+
+------
 
 
 
@@ -355,7 +357,7 @@ PS:- using priority queue also it will be still n^2O(logn) in worst case.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMTg5Nzk5LC0xNTQ1MTk4MjQ1LDIwOT
+eyJoaXN0b3J5IjpbNzA0NjMxNDY2LC0xNTQ1MTk4MjQ1LDIwOT
 czOTYwMjIsLTk3OTE3MjgxNCwxMjY2MDM1OTQ4LC04MjA1NDUz
 MjMsODgxNDUzMjA3LDQ3OTYyNTU3OSwtMTYyMTUxNzc0NiwtNT
 UzMDU2MjExLC0zMzQ4NDMyNTcsMTk3MjU0ODYzOSwtMTI1MzQ5
