@@ -324,6 +324,14 @@ Priority Queue failed for this.
 
 ----
 
+[CRED Site Reliability Engineering Intern Questions](https://leetcode.com/discuss/interview-question/3011991/CRED-Site-Reliability-Engineering-Intern-Questions)
+
+Please share nO(logn) approach for the below mentioned question. I was only able to implement n^2O(logn) and half of the test cases were passed.
+![image](https://assets.leetcode.com/users/images/4c72c8a4-7cd4-40b5-9c1c-079df8ccd97f_1673071237.8259835.png)
+PS:- using priority queue also it will be still n^2O(logn) in worst case.
+
+二分答案 然后对于每一个job 二分检查最少需要
+
 
 
 
@@ -347,9 +355,10 @@ Priority Queue failed for this.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUxOTgyNDUsMjA5NzM5NjAyMiwtOT
-c5MTcyODE0LDEyNjYwMzU5NDgsLTgyMDU0NTMyMyw4ODE0NTMy
-MDcsNDc5NjI1NTc5LC0xNjIxNTE3NzQ2LC01NTMwNTYyMTEsLT
-MzNDg0MzI1NywxOTcyNTQ4NjM5LC0xMjUzNDk2Njc2LDY1Njkw
-OTExNSwtOTAwODgzNzY3LDE1NDUyMDc0MzFdfQ==
+eyJoaXN0b3J5IjpbMjIyMTg5Nzk5LC0xNTQ1MTk4MjQ1LDIwOT
+czOTYwMjIsLTk3OTE3MjgxNCwxMjY2MDM1OTQ4LC04MjA1NDUz
+MjMsODgxNDUzMjA3LDQ3OTYyNTU3OSwtMTYyMTUxNzc0NiwtNT
+UzMDU2MjExLC0zMzQ4NDMyNTcsMTk3MjU0ODYzOSwtMTI1MzQ5
+NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3NDMxXX
+0=
 -->
