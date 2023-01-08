@@ -164,12 +164,18 @@ we are asked to determine the number of these minimum distance routes.
 
 [Graph interview question](https://leetcode.com/discuss/interview-question/3012832/Graph-interview-question)
 
+ou are given an undirected weighted graph and an integer representing the total of minutes. Each node is a city and the weights on the edges are the minutes that take to reach the next city. Starting from position 0 find the path that passes the most number of cities(nodes) and ends in position 0 under the given total time ( you can pass multiple times one city as the graph is undirected). Could you think of an algorithm for this problem?
 
+![image](https://assets.leetcode.com/users/images/36c0a753-22c1-426e-9632-6bb99ef999bd_1673081592.7019997.png)
+Minutes: 68 (integer)  
+Path: 0->1->5->2->3->2->0
+
+这里dijkstra计算回去的最短距离 出发只能用dfs遍历所有情况 然后剪枝
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MzMzNjE3LDIwNjcyNjAzNjAsLTE5Mz
-E5NTMzMjMsNjM4OTI4Mjk1LC0xODg4ODQyMzczLC01MTc4ODU2
-OCwtMTI0NjQxMjYyMiwxNzUzNzExMzEwLDE3NjMyMjcyMjgsLT
-kzNzA3MTAyN119
+eyJoaXN0b3J5IjpbLTEyNjk4NjY2MDIsMjA2NzI2MDM2MCwtMT
+kzMTk1MzMyMyw2Mzg5MjgyOTUsLTE4ODg4NDIzNzMsLTUxNzg4
+NTY4LC0xMjQ2NDEyNjIyLDE3NTM3MTEzMTAsMTc2MzIyNzIyOC
+wtOTM3MDcxMDI3XX0=
 -->
