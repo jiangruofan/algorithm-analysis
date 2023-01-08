@@ -21,7 +21,39 @@ Tell an efficient algorithm to tell which of the strings in this stream of strin
 
 -----------
 
+[UniSwap | OA | DFS Matrix traversal](https://leetcode.com/discuss/interview-question/3011356/UniSwap-or-OA-or-DFS-Matrix-traversal)
+
+Given a rectangular matrix of English lowercase letters board and a string word, your task is to find the number of occurrences of word in the rows(→), columns(↓) and diagonals(↘) of board.
+
+Example
+
+```
+For
+
+board = [['s', 'o', 's', 'o'],
+         ['s', 'o', 'o', 's'],
+         ['s', 's', 's', 's']]
+
+and word = "sos", the output should be solution(board, word) = 3.
+
+There are 2 occurrences of word starting from board[0][0](going → and ↘), and one starting from board[0][2](going ↓).
+
+No other occurrences of word were counted, so the answer is 3.
+
+For
+
+board = [['a', 'a'],
+         ['a', 'a']]
+
+and word = "aa", the output should be
+solution(board, word) = 5.
+
+There are 2 horizontal, 2, vertical, and 1 diagonal occurrence of word, for a total of 5.
+```
+
+-----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc0NTYyNDVdfQ==
+eyJoaXN0b3J5IjpbLTE5Njk3NTk1MDEsLTEwNTc0NTYyNDVdfQ
+==
 -->
