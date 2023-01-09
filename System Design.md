@@ -185,8 +185,15 @@ Found a medium article regarding this question:  [https://medium.com/@mithoonkum
 Verdict: Rejected. I couldn't think of an efficient way of adding the callers to queue.
 
 -----
+
+[CRED SRE Intern - 2023](https://leetcode.com/discuss/interview-question/3010222/CRED-SRE-Intern-2023)
+
+![image](https://assets.leetcode.com/users/images/6f4cbf8d-6424-4221-bc3f-db660166cefe_1672930684.8036788.jpeg)
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMTI3NDg3LDcwNTA2Mjc1MywxMDUyMD
-gxOTIwLDEzNTcwNDU5NjUsMTkyMDY2Nzk4NCwtOTU0MTEwNDQx
-LDE2Nzc1NTczNTQsLTIwNzExNDEzNywxMTg3MzMwOTI2XX0=
+eyJoaXN0b3J5IjpbNDU0NjM1MjQ1LDgyMDEyNzQ4Nyw3MDUwNj
+I3NTMsMTA1MjA4MTkyMCwxMzU3MDQ1OTY1LDE5MjA2Njc5ODQs
+LTk1NDExMDQ0MSwxNjc3NTU3MzU0LC0yMDcxMTQxMzcsMTE4Nz
+MzMDkyNl19
 -->
