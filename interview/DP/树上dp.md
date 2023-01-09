@@ -76,7 +76,10 @@ Sample Output #2
 ![image](https://assets.leetcode.com/users/images/ea56165d-2a6d-4758-abee-22c064f8f87b_1672898238.5163288.png)
 
 -----
+
+[Reverse Edges | OA 2023](https://leetcode.com/discuss/interview-question/3001299/Reverse-Edges-or-OA-2023)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDIyMzU2MiwtMTIyNjM5NjM0OSwtMj
-A1MTM2NzQzMywtMTc5MjEzMzQwNywtMTYzMTA2NDU2N119
+eyJoaXN0b3J5IjpbLTEwNTY2MjY0MzksLTEyMjYzOTYzNDksLT
+IwNTEzNjc0MzMsLTE3OTIxMzM0MDcsLTE2MzEwNjQ1NjddfQ==
+
 -->
