@@ -83,10 +83,20 @@ The country of hackerland can be represented as represented as as a graph of g_n
 The graph is such that if the roads were bidirectional, every node would be reachable from every other node. Note that if the edges were undirected, the resulting graph would be a tree.  
 For each city  `i ( 1<= i <= g_nodes)`  find the minimum number of edges that must be reversed so that it is possible to travel from ith city to any other city of the graph using the directed edges.  
 For ex.
+```
+g_nodes = 4
+g_edges = 3
+g_from = [1, 2, 3]
+g_to = [4, 4, 4]
+```
+![image](https://assets.leetcode.com/users/images/3e5ec820-fe7f-491a-aa50-03767b8edb89_1672897366.4790876.png)
 
+这题和dfs那几题类似 
+
+-----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIwODc0ODQsLTEwNTY2MjY0MzksLT
-EyMjYzOTYzNDksLTIwNTEzNjc0MzMsLTE3OTIxMzM0MDcsLTE2
-MzEwNjQ1NjddfQ==
+eyJoaXN0b3J5IjpbNTA5NTczMTg4LC0xMDU2NjI2NDM5LC0xMj
+I2Mzk2MzQ5LC0yMDUxMzY3NDMzLC0xNzkyMTMzNDA3LC0xNjMx
+MDY0NTY3XX0=
 -->
