@@ -78,8 +78,10 @@ Sample Output #2
 -----
 
 [Reverse Edges | OA 2023](https://leetcode.com/discuss/interview-question/3001299/Reverse-Edges-or-OA-2023)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY2MjY0MzksLTEyMjYzOTYzNDksLT
-IwNTEzNjc0MzMsLTE3OTIxMzM0MDcsLTE2MzEwNjQ1NjddfQ==
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk2MzQxMjgyMSwtMTA1NjYyNjQzOSwtMT
+IyNjM5NjM0OSwtMjA1MTM2NzQzMywtMTc5MjEzMzQwNywtMTYz
+MTA2NDU2N119
 -->
