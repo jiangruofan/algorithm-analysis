@@ -631,9 +631,15 @@ I tried using recursive dp but there were too many cases.
 [Dunzo | Backend Intern](https://leetcode.com/discuss/interview-question/3003479/Dunzo-or-Backend-Intern)
 
 ![image](https://assets.leetcode.com/users/images/2db1fcd2-5187-43ab-9491-58afd8cd5540_1672930616.2342517.jpeg)
+![image](https://assets.leetcode.com/users/images/610c31b0-b02f-4d87-b560-deb81ed3f202_1672930616.3695486.jpeg)
+![image](https://assets.leetcode.com/users/images/4b2ed75f-0675-466a-a3c5-fbc6285e8171_1672931135.747588.jpeg)
 
+这题是特殊区间型 正常来说应该是遍历n然后遍历m 但是本题是遍历m再遍历n
+然后用一个heap维护2k长度的区间的最大值
+
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjYzNDk5LC0xMTY5Mzk4OTE0LC01Mz
+eyJoaXN0b3J5IjpbNTE1NTY1MTE4LC0xMTY5Mzk4OTE0LC01Mz
 k3MTE3ODMsMTg5OTYyMjY0LDExNDQxMDkzODksLTMyNzI4MDE4
 OCwtMTQ3ODA5NjQ5Nyw4NDA0MjczNTAsLTY3MjM3NjAyNywtNj
 MwMDM1ODYzLDExODYyMjY4MjIsLTE5Njc3MDkwNjYsLTQyMzE0
