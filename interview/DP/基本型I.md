@@ -614,13 +614,15 @@ I tried using recursive dp but there were too many cases.
 ![image](https://assets.leetcode.com/users/images/0f1794a2-9cc6-4be4-a15f-526258eee1f3_1673116672.9985902.png)
 
 这题很有意思 
-正确的dp顺序应该是 1 3 5 6  4 2
+正确的dp顺序应该是 1 3 5 6 4 2
+对于3 5 要求和前前一个元素不一样
+对于6 4 要求和前一个元素并且和前前一个元素不一样
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjA4MzMwMSwxODk5NjIyNjQsMTE0ND
-EwOTM4OSwtMzI3MjgwMTg4LC0xNDc4MDk2NDk3LDg0MDQyNzM1
-MCwtNjcyMzc2MDI3LC02MzAwMzU4NjMsMTE4NjIyNjgyMiwtMT
-k2NzcwOTA2NiwtNDIzMTQzOTczLC02MDkyODk0MTgsLTk1NTM5
-NDkwOCwtMTY2NDUxMDY2MSwtMjI0MDM3MjMwLC0xMzYxMTU4Mj
-IwLC0yMDk4Mjg1MDgxLDk4MTM5MTY4MSwtNDk3NjA4OTAzLC05
-MDQxOTY0NDddfQ==
+eyJoaXN0b3J5IjpbNjU3Mjg0OTI1LDE4OTk2MjI2NCwxMTQ0MT
+A5Mzg5LC0zMjcyODAxODgsLTE0NzgwOTY0OTcsODQwNDI3MzUw
+LC02NzIzNzYwMjcsLTYzMDAzNTg2MywxMTg2MjI2ODIyLC0xOT
+Y3NzA5MDY2LC00MjMxNDM5NzMsLTYwOTI4OTQxOCwtOTU1Mzk0
+OTA4LC0xNjY0NTEwNjYxLC0yMjQwMzcyMzAsLTEzNjExNTgyMj
+AsLTIwOTgyODUwODEsOTgxMzkxNjgxLC00OTc2MDg5MDMsLTkw
+NDE5NjQ0N119
 -->
