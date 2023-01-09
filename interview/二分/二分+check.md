@@ -334,6 +334,24 @@ PS:- using priority queue also it will be still n^2O(logn) in worst case.
 
 ------
 
+[Rubrik OA | Minimum time to collect points](https://leetcode.com/discuss/interview-question/2761121/Rubrik-OA-or-Minimum-time-to-collect-points)
+
+Problem: You are given two arrays of integers,  `players`  and  `points`, of size n and m respectively. These integers represent points on a 1-dimensional line. Players can "collect" a point if the position of the player is equal to the position of the point he or she wants to collect.
+
+All players have the ability to move one space to the left or right in exactly one second, and they can move independently from one another. Given  `players`  and  `points`, return the minimum number of seconds needed for the players to collect all points if they move optimally.
+
+Example:  
+n = 3, players = [3, 6, 7]  
+m = 4, points = [2, 4, 7, 9]
+
+The answer to this example is 2.
+
+-   Player 0 (at position 3) can move 1 left to get point 0 (at position 2)
+-   Player 1 can 2 left to get point 1 (position 4)
+-   Player 2 can move 2 right to get points 2 and 3 (positions 7, 9)
+
+这题注意 check的时候 需要从两边各自开始遍历一遍
+
 
 
 
@@ -357,10 +375,10 @@ PS:- using priority queue also it will be still n^2O(logn) in worst case.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NjMxNDY2LC0xNTQ1MTk4MjQ1LDIwOT
-czOTYwMjIsLTk3OTE3MjgxNCwxMjY2MDM1OTQ4LC04MjA1NDUz
-MjMsODgxNDUzMjA3LDQ3OTYyNTU3OSwtMTYyMTUxNzc0NiwtNT
-UzMDU2MjExLC0zMzQ4NDMyNTcsMTk3MjU0ODYzOSwtMTI1MzQ5
-NjY3Niw2NTY5MDkxMTUsLTkwMDg4Mzc2NywxNTQ1MjA3NDMxXX
-0=
+eyJoaXN0b3J5IjpbNjI3NDgzMTA3LDcwNDYzMTQ2NiwtMTU0NT
+E5ODI0NSwyMDk3Mzk2MDIyLC05NzkxNzI4MTQsMTI2NjAzNTk0
+OCwtODIwNTQ1MzIzLDg4MTQ1MzIwNyw0Nzk2MjU1NzksLTE2Mj
+E1MTc3NDYsLTU1MzA1NjIxMSwtMzM0ODQzMjU3LDE5NzI1NDg2
+MzksLTEyNTM0OTY2NzYsNjU2OTA5MTE1LC05MDA4ODM3NjcsMT
+U0NTIwNzQzMV19
 -->
