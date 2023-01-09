@@ -57,6 +57,8 @@ z-array 预处理
 
 [An interesting OA problem](https://leetcode.com/discuss/interview-question/2969173/An-interesting-OA-problem)
 
+[I feel I've seen this question before, but couldn't solve it.](https://leetcode.com/discuss/interview-question/3005007/I-feel-I%27ve-seen-this-question-before-but-couldn%27t-solve-it.)
+
 given an array of integers and m. partition the given array in such a way that sum of elements in each part should be less than or equal to m and sum of maximum values in each part should be minimised.
 
 1<=n<=1e6  
@@ -75,6 +77,6 @@ Solution:
 
 ------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg3ODkzNTUsLTIwMDg4NzU4OTMsLT
-Y2MzQ4MDM0OSwtMTY5Nzk2MzI5OF19
+eyJoaXN0b3J5IjpbLTEzNzk0ODY5MjIsLTEzNjg3ODkzNTUsLT
+IwMDg4NzU4OTMsLTY2MzQ4MDM0OSwtMTY5Nzk2MzI5OF19
 -->
