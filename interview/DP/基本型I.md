@@ -606,12 +606,19 @@ N is an integer within the range [1..100,000];
 string representing a tile has 4 letters (exactly one occurrence of 'R', 'G', 'B' and 'W').
 
 -----
+
+[Chubb OA | Coloring Houses | DP](https://leetcode.com/discuss/interview-question/3015337/Chubb-OA-or-Coloring-Houses-or-DP)
+
+I tried using recursive dp but there were too many cases.  
+1 <= n <= 1e5.
+![image](https://assets.leetcode.com/users/images/0f1794a2-9cc6-4be4-a15f-526258eee1f3_1673116672.9985902.png)
+这题很有意思
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDEwOTM4OSwtMzI3MjgwMTg4LC0xND
-c4MDk2NDk3LDg0MDQyNzM1MCwtNjcyMzc2MDI3LC02MzAwMzU4
-NjMsMTE4NjIyNjgyMiwtMTk2NzcwOTA2NiwtNDIzMTQzOTczLC
-02MDkyODk0MTgsLTk1NTM5NDkwOCwtMTY2NDUxMDY2MSwtMjI0
-MDM3MjMwLC0xMzYxMTU4MjIwLC0yMDk4Mjg1MDgxLDk4MTM5MT
-Y4MSwtNDk3NjA4OTAzLC05MDQxOTY0NDcsMTY5MDA0MjkzOCw3
-Mjg0ODc1NzhdfQ==
+eyJoaXN0b3J5IjpbMTg5OTYyMjY0LDExNDQxMDkzODksLTMyNz
+I4MDE4OCwtMTQ3ODA5NjQ5Nyw4NDA0MjczNTAsLTY3MjM3NjAy
+NywtNjMwMDM1ODYzLDExODYyMjY4MjIsLTE5Njc3MDkwNjYsLT
+QyMzE0Mzk3MywtNjA5Mjg5NDE4LC05NTUzOTQ5MDgsLTE2NjQ1
+MTA2NjEsLTIyNDAzNzIzMCwtMTM2MTE1ODIyMCwtMjA5ODI4NT
+A4MSw5ODEzOTE2ODEsLTQ5NzYwODkwMywtOTA0MTk2NDQ3LDE2
+OTAwNDI5MzhdfQ==
 -->
