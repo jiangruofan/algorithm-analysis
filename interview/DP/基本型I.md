@@ -612,13 +612,15 @@ string representing a tile has 4 letters (exactly one occurrence of 'R', 'G', 'B
 I tried using recursive dp but there were too many cases.  
 1 <= n <= 1e5.
 ![image](https://assets.leetcode.com/users/images/0f1794a2-9cc6-4be4-a15f-526258eee1f3_1673116672.9985902.png)
-这题很有意思
+
+这题很有意思 
+正确的dp顺序应该是 1 3 5 6  4 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTYyMjY0LDExNDQxMDkzODksLTMyNz
-I4MDE4OCwtMTQ3ODA5NjQ5Nyw4NDA0MjczNTAsLTY3MjM3NjAy
-NywtNjMwMDM1ODYzLDExODYyMjY4MjIsLTE5Njc3MDkwNjYsLT
-QyMzE0Mzk3MywtNjA5Mjg5NDE4LC05NTUzOTQ5MDgsLTE2NjQ1
-MTA2NjEsLTIyNDAzNzIzMCwtMTM2MTE1ODIyMCwtMjA5ODI4NT
-A4MSw5ODEzOTE2ODEsLTQ5NzYwODkwMywtOTA0MTk2NDQ3LDE2
-OTAwNDI5MzhdfQ==
+eyJoaXN0b3J5IjpbMTM0MjA4MzMwMSwxODk5NjIyNjQsMTE0ND
+EwOTM4OSwtMzI3MjgwMTg4LC0xNDc4MDk2NDk3LDg0MDQyNzM1
+MCwtNjcyMzc2MDI3LC02MzAwMzU4NjMsMTE4NjIyNjgyMiwtMT
+k2NzcwOTA2NiwtNDIzMTQzOTczLC02MDkyODk0MTgsLTk1NTM5
+NDkwOCwtMTY2NDUxMDY2MSwtMjI0MDM3MjMwLC0xMzYxMTU4Mj
+IwLC0yMDk4Mjg1MDgxLDk4MTM5MTY4MSwtNDk3NjA4OTAzLC05
+MDQxOTY0NDddfQ==
 -->
