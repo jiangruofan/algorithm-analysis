@@ -352,6 +352,8 @@ The answer to this example is 2.
 
 这题注意 check的时候 需要从两边各自开始遍历一遍
 
+-----
+
 
 
 
@@ -375,7 +377,7 @@ The answer to this example is 2.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NDgzMTA3LDcwNDYzMTQ2NiwtMTU0NT
+eyJoaXN0b3J5IjpbNjc3MzIwODEyLDcwNDYzMTQ2NiwtMTU0NT
 E5ODI0NSwyMDk3Mzk2MDIyLC05NzkxNzI4MTQsMTI2NjAzNTk0
 OCwtODIwNTQ1MzIzLDg4MTQ1MzIwNyw0Nzk2MjU1NzksLTE2Mj
 E1MTc3NDYsLTU1MzA1NjIxMSwtMzM0ODQzMjU3LDE5NzI1NDg2
