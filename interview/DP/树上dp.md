@@ -79,9 +79,14 @@ Sample Output #2
 
 [Reverse Edges | OA 2023](https://leetcode.com/discuss/interview-question/3001299/Reverse-Edges-or-OA-2023)
 
+The country of hackerland can be represented as represented as as a graph of g_nodes cities connected with  `g_nodes -1`  uni-directional edges. The ith edge connects cities`g_from[i]`  to  `g_to[i]`.  
+The graph is such that if the roads were bidirectional, every node would be reachable from every other node. Note that if the edges were undirected, the resulting graph would be a tree.  
+For each city  `i ( 1<= i <= g_nodes)`  find the minimum number of edges that must be reversed so that it is possible to travel from ith city to any other city of the graph using the directed edges.  
+For ex.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzQxMjgyMSwtMTA1NjYyNjQzOSwtMT
-IyNjM5NjM0OSwtMjA1MTM2NzQzMywtMTc5MjEzMzQwNywtMTYz
-MTA2NDU2N119
+eyJoaXN0b3J5IjpbLTE5MTIwODc0ODQsLTEwNTY2MjY0MzksLT
+EyMjYzOTYzNDksLTIwNTEzNjc0MzMsLTE3OTIxMzM0MDcsLTE2
+MzEwNjQ1NjddfQ==
 -->
