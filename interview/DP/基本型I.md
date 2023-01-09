@@ -627,12 +627,17 @@ I tried using recursive dp but there were too many cases.
 第i个任务 做或者不做
 
 -----
+
+[Dunzo | Backend Intern](https://leetcode.com/discuss/interview-question/3003479/Dunzo-or-Backend-Intern)
+
+![image](https://assets.leetcode.com/users/images/2db1fcd2-5187-43ab-9491-58afd8cd5540_1672930616.2342517.jpeg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkzOTg5MTQsLTUzOTcxMTc4MywxOD
-k5NjIyNjQsMTE0NDEwOTM4OSwtMzI3MjgwMTg4LC0xNDc4MDk2
-NDk3LDg0MDQyNzM1MCwtNjcyMzc2MDI3LC02MzAwMzU4NjMsMT
-E4NjIyNjgyMiwtMTk2NzcwOTA2NiwtNDIzMTQzOTczLC02MDky
-ODk0MTgsLTk1NTM5NDkwOCwtMTY2NDUxMDY2MSwtMjI0MDM3Mj
-MwLC0xMzYxMTU4MjIwLC0yMDk4Mjg1MDgxLDk4MTM5MTY4MSwt
-NDk3NjA4OTAzXX0=
+eyJoaXN0b3J5IjpbMTAxMjYzNDk5LC0xMTY5Mzk4OTE0LC01Mz
+k3MTE3ODMsMTg5OTYyMjY0LDExNDQxMDkzODksLTMyNzI4MDE4
+OCwtMTQ3ODA5NjQ5Nyw4NDA0MjczNTAsLTY3MjM3NjAyNywtNj
+MwMDM1ODYzLDExODYyMjY4MjIsLTE5Njc3MDkwNjYsLTQyMzE0
+Mzk3MywtNjA5Mjg5NDE4LC05NTUzOTQ5MDgsLTE2NjQ1MTA2Nj
+EsLTIyNDAzNzIzMCwtMTM2MTE1ODIyMCwtMjA5ODI4NTA4MSw5
+ODEzOTE2ODFdfQ==
 -->
