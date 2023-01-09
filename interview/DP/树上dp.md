@@ -71,7 +71,12 @@ Sample Output #2
 
 ----
 
+[Seap Trees | Inflection.io | OA 2023](https://leetcode.com/discuss/interview-question/3001318/Seap-Trees-or-Inflection.io-or-OA-2023)
+
+![image](https://assets.leetcode.com/users/images/ea56165d-2a6d-4758-abee-22c064f8f87b_1672898238.5163288.png)
+
+-----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYzOTYzNDksLTIwNTEzNjc0MzMsLT
-E3OTIxMzM0MDcsLTE2MzEwNjQ1NjddfQ==
+eyJoaXN0b3J5IjpbMTUzNDIyMzU2MiwtMTIyNjM5NjM0OSwtMj
+A1MTM2NzQzMywtMTc5MjEzMzQwNywtMTYzMTA2NDU2N119
 -->
