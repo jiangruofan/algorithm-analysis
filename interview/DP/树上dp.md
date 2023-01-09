@@ -79,24 +79,17 @@ Sample Output #2
 
 [Reverse Edges | OA 2023](https://leetcode.com/discuss/interview-question/3001299/Reverse-Edges-or-OA-2023)
 
-The country of hackerland can be represented as represented as as a graph of g_nodes cities connected with  `g_nodes -1`  uni-directional edges. The ith edge connects cities`g_from[i]`  to  `g_to[i]`.  
-The graph is such that if the roads were bidirectional, every node would be reachable from every other node. Note that if the edges were undirected, the resulting graph would be a tree.  
-For each city  `i ( 1<= i <= g_nodes)`  find the minimum number of edges that must be reversed so that it is possible to travel from ith city to any other city of the graph using the directed edges.  
-For ex.
-```
-g_nodes = 4
-g_edges = 3
-g_from = [1, 2, 3]
-g_to = [4, 4, 4]
-```
-![image](https://assets.leetcode.com/users/images/3e5ec820-fe7f-491a-aa50-03767b8edb89_1672897366.4790876.png)
+[Reverse edges | Standard Chartered Bank OA](https://leetcode.com/discuss/interview-question/2972137/Reverse-edges-or-Standard-Chartered-Bank-OA)
+
+![image](https://assets.leetcode.com/users/images/2a3f97b8-04dc-45d3-b4c7-c12ced68d15e_1672417147.463916.png)
+![image](https://assets.leetcode.com/users/images/7c2d2bd7-5f4e-409a-b3b8-a15e9e68942a_1672417216.3451102.png)
 
 这题和dfs那几题类似 
 
 -----
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NTczMTg4LC0xMDU2NjI2NDM5LC0xMj
-I2Mzk2MzQ5LC0yMDUxMzY3NDMzLC0xNzkyMTMzNDA3LC0xNjMx
-MDY0NTY3XX0=
+eyJoaXN0b3J5IjpbMTE5MTE3NjQ3Niw1MDk1NzMxODgsLTEwNT
+Y2MjY0MzksLTEyMjYzOTYzNDksLTIwNTEzNjc0MzMsLTE3OTIx
+MzM0MDcsLTE2MzEwNjQ1NjddfQ==
 -->
