@@ -97,6 +97,9 @@ Find minimum number of operations to transform array into a "**PrimeArray**".
 ![image](https://assets.leetcode.com/users/images/d108cb6e-f4a7-4b95-9fd5-e45b066fb2c4_1673170360.2884042.png)
 ![image](https://assets.leetcode.com/users/images/5afec309-b826-4c84-acfa-cfd0c48717ae_1673170368.405006.png)
 
+这里的divisor存在很多情况 有歧义
+
+-----
 
 
 
@@ -119,7 +122,7 @@ Find minimum number of operations to transform array into a "**PrimeArray**".
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTEzODY5MSwxNDkyMzM2NTQxLDQxNj
+eyJoaXN0b3J5IjpbLTczMTcxOTE3OCwxNDkyMzM2NTQxLDQxNj
 U2OTkzMywtNTkzNTQ4NjQwLDQ3MTA0Njc1LDM3NDg4Njc3Nywt
 NTg0ODA4NjUwXX0=
 -->
