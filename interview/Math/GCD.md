@@ -91,6 +91,13 @@ Find minimum number of operations to transform array into a "**PrimeArray**".
 
 ----
 
+[CodeAgon 2023 || Trilogy Innovations Hiring Contest](https://leetcode.com/discuss/interview-question/3018724/CodeAgon-2023-oror-Trilogy-Innovations-Hiring-Contest)
+
+![image](https://assets.leetcode.com/users/images/2cc79e7a-c367-4b94-aa6e-ad054778f338_1673170354.3029327.png)
+![image](https://assets.leetcode.com/users/images/d108cb6e-f4a7-4b95-9fd5-e45b066fb2c4_1673170360.2884042.png)
+![image](https://assets.leetcode.com/users/images/5afec309-b826-4c84-acfa-cfd0c48717ae_1673170368.405006.png)
+
+
 
 
 
@@ -112,7 +119,7 @@ Find minimum number of operations to transform array into a "**PrimeArray**".
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjMzNjU0MSw0MTY1Njk5MzMsLTU5Mz
-U0ODY0MCw0NzEwNDY3NSwzNzQ4ODY3NzcsLTU4NDgwODY1MF19
-
+eyJoaXN0b3J5IjpbLTc3NTEzODY5MSwxNDkyMzM2NTQxLDQxNj
+U2OTkzMywtNTkzNTQ4NjQwLDQ3MTA0Njc1LDM3NDg4Njc3Nywt
+NTg0ODA4NjUwXX0=
 -->
