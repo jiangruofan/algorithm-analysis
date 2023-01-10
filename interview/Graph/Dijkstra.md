@@ -181,12 +181,14 @@ Path: 0->1->5->2->3->2->0
 ![image](https://assets.leetcode.com/users/images/ae0ed34f-7da1-4c93-8574-8aaf3c401ca6_1673170328.1007774.png)
 
 关键在于条件3和4 对于条件3就是dijkstra 对于条件4就是bfs
-因为对于条件三 边的数目不一定是最少的 所以为了让条件4更好 所以一定是减少边的数目 那么边最少就是bfs求得 bi
+因为对于条件三 边的数目不一定是最少的 所以为了让条件4更好 所以一定是减少边的数目 那么边最少就是bfs求得 并且这时候是最优解 因为增加边的话条件3和条件4的cost都将增加
+
+---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDA5NTkyNCwyMDY3MjYwMzYwLC0xOT
-MxOTUzMzIzLDYzODkyODI5NSwtMTg4ODg0MjM3MywtNTE3ODg1
-NjgsLTEyNDY0MTI2MjIsMTc1MzcxMTMxMCwxNzYzMjI3MjI4LC
-05MzcwNzEwMjddfQ==
+eyJoaXN0b3J5IjpbLTQ0NzMzMjY3LDIwNjcyNjAzNjAsLTE5Mz
+E5NTMzMjMsNjM4OTI4Mjk1LC0xODg4ODQyMzczLC01MTc4ODU2
+OCwtMTI0NjQxMjYyMiwxNzUzNzExMzEwLDE3NjMyMjcyMjgsLT
+kzNzA3MTAyN119
 -->
