@@ -638,12 +638,18 @@ I tried using recursive dp but there were too many cases.
 然后用一个heap维护2k长度的区间的最大值
 
 ----
+
+[CodeAgon 2023 || Trilogy Innovations Hiring Contest](https://leetcode.com/discuss/interview-question/3018724/CodeAgon-2023-oror-Trilogy-Innovations-Hiring-Contest)
+
+![image](https://assets.leetcode.com/users/images/896877d1-2b97-4fa8-804f-41192eb9b106_1673170288.7320492.png)
+![image](https://assets.leetcode.com/users/images/ae44d60f-ba7e-409e-bbc5-e3a13f3b3ab6_1673170293.8374653.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NTY1MTE4LC0xMTY5Mzk4OTE0LC01Mz
-k3MTE3ODMsMTg5OTYyMjY0LDExNDQxMDkzODksLTMyNzI4MDE4
-OCwtMTQ3ODA5NjQ5Nyw4NDA0MjczNTAsLTY3MjM3NjAyNywtNj
-MwMDM1ODYzLDExODYyMjY4MjIsLTE5Njc3MDkwNjYsLTQyMzE0
-Mzk3MywtNjA5Mjg5NDE4LC05NTUzOTQ5MDgsLTE2NjQ1MTA2Nj
-EsLTIyNDAzNzIzMCwtMTM2MTE1ODIyMCwtMjA5ODI4NTA4MSw5
-ODEzOTE2ODFdfQ==
+eyJoaXN0b3J5IjpbLTY2OTg3NjMwNCw1MTU1NjUxMTgsLTExNj
+kzOTg5MTQsLTUzOTcxMTc4MywxODk5NjIyNjQsMTE0NDEwOTM4
+OSwtMzI3MjgwMTg4LC0xNDc4MDk2NDk3LDg0MDQyNzM1MCwtNj
+cyMzc2MDI3LC02MzAwMzU4NjMsMTE4NjIyNjgyMiwtMTk2Nzcw
+OTA2NiwtNDIzMTQzOTczLC02MDkyODk0MTgsLTk1NTM5NDkwOC
+wtMTY2NDUxMDY2MSwtMjI0MDM3MjMwLC0xMzYxMTU4MjIwLC0y
+MDk4Mjg1MDgxXX0=
 -->
