@@ -174,9 +174,16 @@ Path: 0->1->5->2->3->2->0
 
 -----
 
+[CodeAgon 2023 || Trilogy Innovations Hiring Contest](https://leetcode.com/discuss/interview-question/3018724/CodeAgon-2023-oror-Trilogy-Innovations-Hiring-Contest)
+
+![image](https://assets.leetcode.com/users/images/1570ee87-de03-4f40-a71c-9e14b1c55911_1673170316.162462.png)
+![image](https://assets.leetcode.com/users/images/8bcbe188-7360-4ed5-bc26-94b6c9969c66_1673170321.6473434.png)
+![image](https://assets.leetcode.com/users/images/ae0ed34f-7da1-4c93-8574-8aaf3c401ca6_1673170328.1007774.png)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTU0MTg5LDIwNjcyNjAzNjAsLTE5Mz
+eyJoaXN0b3J5IjpbNjkzMzExMzM1LDIwNjcyNjAzNjAsLTE5Mz
 E5NTMzMjMsNjM4OTI4Mjk1LC0xODg4ODQyMzczLC01MTc4ODU2
 OCwtMTI0NjQxMjYyMiwxNzUzNzExMzEwLDE3NjMyMjcyMjgsLT
 kzNzA3MTAyN119
