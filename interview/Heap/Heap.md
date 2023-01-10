@@ -436,13 +436,23 @@ Given this shards[] array, design an algorithm that modifies shards[] when a ser
 
 -----
 
+[Chubb OA | Minimum subsequence sum](https://leetcode.com/discuss/interview-question/3018240/Chubb-OA-or-Minimum-subsequence-sum)
+
+The question was like this:  
+You are given an array and you have to find the minimum sum of a subsequence of length 3 such that arr[0] < arr[1] > arr[2].  
+1 <= n <= 1e5  
+1 <= arr[i] <= 1e9.  
+For eg: [3, 4, 5, 1, 2, 1], ans = 1 + 2 + 1 = 4.  
+I tried using dp, but it would be great if somebody could help.
+
+-----
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjQ4MDE1Myw3MDk2MTkwMTcsLTEzOD
+eyJoaXN0b3J5IjpbMTY0OTMwMTEwOCw3MDk2MTkwMTcsLTEzOD
 YzNjc5OTUsMTE3NjE0OTE3MSwyMTQyNDcxODUsOTY4MTE4OTk2
 LC03MTYyNTU1MTIsMTA3NjE3MTYwNiwxMDM0ODgzNTAzXX0=
 -->
